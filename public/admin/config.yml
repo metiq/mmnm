@@ -1,8 +1,9 @@
-local_backend: true
+#local_backend: true
 
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  repo: metiq/mmnm # Path to your GitHub repository
+  branch: main
 
 locale: 'mk'
 media_folder: public/media

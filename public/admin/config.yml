@@ -1,0 +1,176 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+locale: 'mk'
+media_folder: public/media
+public_folder: /public
+
+collections:
+  - name: 'building'
+    label: 'Објект'
+    folder: 'content/buildings'
+    format: 'json'
+    create: true
+    slug: '{{code}}'
+    summary: "{{code}} - {{basicData.name}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Код", name: "code", widget: "string" }
+      - { label: "ЕМБ", name: "emb", widget: "string" }
+      - { label: "Решение брoj", name: "number", widget: "string" }
+      - { label: "Датум на увидот", name: "dateInspection", widget: "datetime", date_format: "DD.MM.YYYY" }
+      - { label: "Увидот го извршил", name: "inspectionBy", widget: "string" }
+      - { label: "Главна фотографија од објектот", name: "photo", widget: "image" }
+      - label: "1. Основни податоци"
+        name: "basicData"
+        widget: "object"
+        collapsed: false
+        fields: 
+        - { label: "1.1 Име на објект", name: "name", widget: "string" }
+        - { label: "1.2 Датум на градење", name: "dateBuilt", widget: "string" }
+        - { label: "1.3 Архитект", name: "architect", widget: "string" }
+        - { label: "1.4 Соработници", name: "associates", widget: "list", summary: '{{fields.associate}}', field: { label: "Соработник", name: "associate", widget: "string" } }
+        - { label: "1.5 Инвеститор / сопственик", name: "investorOrOwner", widget: "string" }
+        - label: "1.6 Адреса на објектот"
+          name: "address"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - {label: "Адреса", name: "line", widget: "string"}
+          - {label: "Град", name: "city", widget: "string"}
+          - {label: "Општина", name: "state", widget: "string"}
+        - { label: "1.7 GPS координати", name: "coordinates", widget: "map", default: "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}"}
+        - label: "1.8 Типологија според оригиналната намената"
+          name: "originalPurpose"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - {label: "Тип", name: "type", widget: "select", options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
+          - {label: "Забелешка", name: "notes", widget: "string"}
+        - label: "1.9 Денешна намена"
+          name: "todayPurpose"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - {label: "Тип", name: "type", widget: "select", options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
+          - {label: "Забелешка", name: "notes", widget: "string"}
+        - { label: "1.10 Заштитен статус", name: "hasProtectedStatus", widget: "boolean" }
+      - label: "2. Опис на оригиналната градба"
+        name: "originalData"
+        widget: "object"
+        collapsed: false
+        fields: 
+        - {label: "2.1 Општ опис", name: "generalDescription", widget: "text"}
+        - {label: "2.2 Хронологија на изградба (проект, градежни фази)", name: "timelineDescription", widget: "string"}
+        - {label: "2.3 Катност", name: "floors", widget: "string"}
+        - {label: "2.4 Програмски опис (опис на план по катови)", name: "programDescription", widget: "text"}
+        - {label: "2.5 Структура", name: "structureDescription", widget: "text"}
+        - label: "2.6 Материјалност"
+          name: "materiality"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - label: "Екстериер"
+            name: "exterior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Кров", name: "roof", widget: "text"}
+            - {label: "Фасада", name: "facade", widget: "text"}
+            - {label: "Столарија", name: "carpentry", widget: "text"} 
+            - {label: "Партер", name: "parterre", widget: "text"}
+          - label: "Ентериер"
+            name: "interior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Заеднички содржини", name: "sharedContent", widget: "text"}
+            - {label: "Приватни содржини", name: "privateContent", widget: "text"}
+        - {label: "2.7 Контекст", name: "context", widget: "text"}
+      - label: "3. Опис на моменталната состојба на градбата / автентичност и интегритет"
+        name: "currentData"
+        widget: "object"
+        collapsed: false
+        fields: 
+        - label: "3.1 Материјалност"
+          name: "materiality"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - label: "Екстериер"
+            name: "exterior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Кров", name: "roof", widget: "text"}
+            - {label: "Фасада", name: "facade", widget: "text"}
+            - {label: "Столарија", name: "carpentry", widget: "text"} 
+            - {label: "Партер", name: "parterre", widget: "text"}
+          - label: "Ентериер"
+            name: "interior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Заеднички содржини", name: "sharedContent", widget: "text"}
+            - {label: "Приватни содржини", name: "privateContent", widget: "text"}
+        - label: "3.2 Физичка состојба"
+          name: "physicalCondition"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - label: "Екстериер"
+            name: "exterior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Состојба", name: "condition", widget: "select", options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text"}
+          - label: "Ентериер"
+            name: "interior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Состојба", name: "condition", widget: "select", options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text"}
+        - {label: "3.3 Интервенции, промени, модификации (хронолошки)", name: "modifications", widget: "text"}
+        - label: "3.4 Физичка состојба"
+          name: "authenticity"
+          widget: "object"
+          collapsed: false
+          fields: 
+          - label: "Екстериер"
+            name: "exterior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Состојба", name: "condition", widget: "select", options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text"}
+          - label: "Ентериер"
+            name: "interior"
+            widget: "object"
+            collapsed: false
+            fields: 
+            - {label: "Состојба", name: "condition", widget: "select", options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text"}
+      - { label: "4. Закани и ризици", name: "risks", widget: "text" }
+      - label: "5. Вредности"
+        name: "values"
+        widget: "object"
+        collapsed: false
+        fields: 
+        - { label: "Вредност", name: "name", widget: "select", multiple: true, options: ["историскa", "авторство", "архитектонска и естетска", "техничка", "општествена / социјална", "емотивна"]}
+        - { label: "Забелешка", name: "dateBuilt", widget: "text" }
+      - { label: "6. Препораки", name: "suggestions", widget: "text" }
+      - { label: "7. Библиографија", name: "bibliography", widget: "text" }
+      - label: "8. Фотографии / цртежи (постојна состојба + архива)"
+        name: "photos"
+        widget: "image"
+        choose_url: false
+        media_library:
+          config:
+            multiple: true
+            

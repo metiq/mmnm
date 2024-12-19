@@ -1,0 +1,97 @@
+{
+  "photos": [
+    "/public/a076bba5147a3d7114fa6961b65dc658_xl.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална"
+    ],
+    "dateBuilt": "/"
+  },
+  "bibliography": "/",
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "materiality": {
+      "exterior": {
+        "roof": "/",
+        "carpentry": "/",
+        "parterre": "/",
+        "facade": "/"
+      },
+      "interior": {
+        "sharedContent": "/",
+        "privateContent": "/"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра",
+        "notes": "/"
+      },
+      "interior": {
+        "condition": "добра",
+        "notes": "/"
+      }
+    },
+    "modifications": "/",
+    "authenticity": {
+      "exterior": {
+        "condition": "добра",
+        "notes": "/"
+      },
+      "interior": {
+        "condition": "задоволителна",
+        "notes": "Задоволителна - во однос на геометријата е зачуван во голем дел. Во однос на опремата - мебел, лустери, обработки и слично, најголем дел е заменет во 2003 со пренамената во општинска зграда."
+      }
+    }
+  },
+  "risks": "/",
+  "number": "/",
+  "inspectionBy": "Тим 3 ",
+  "code": "МНБ079",
+  "suggestions": "/",
+  "photo": "https://duma.mk/wp-content/uploads/2023/01/opstina.jpg",
+  "basicData": {
+    "hasProtectedStatus": true,
+    "name": "Објект на Општина Битола / Стара воена зграда на ЈНА/АРМ (генерали)",
+    "originalPurpose": {
+      "type": "друго",
+      "notes": "Воен Објект"
+    },
+    "dateBuilt": "1936",
+    "address": {
+      "line": "Булевар 1-ви Мај, бр 61",
+      "city": "Битола",
+      "state": "Битола"
+    },
+    "architect": "/",
+    "investorOrOwner": "ЈНА/АРМ/Општина Битола",
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3314949,41.0319537]}",
+    "todayPurpose": {
+      "type": "јавен",
+      "notes": "Зграда на општина Битола"
+    }
+  },
+  "emb": "/",
+  "originalData": {
+    "generalDescription": "Строга симетрија, нагласен централен дел со 1 кат плус, крила од двете страни кои завршуваат со полукружен манир на ходникот - осветлени со прозори\n\n",
+    "timelineDescription": "Изградена 1936 за потребите на ЈНА. Во 1991 сопственоста преминува на АРМ. Во 2003 објектот е целосно реновиран и приспособен за потребите на Општина Битола како општинска зграда.",
+    "floors": "П+1",
+    "programDescription": "/",
+    "structureDescription": "Бетон и тука",
+    "materiality": {
+      "exterior": {
+        "roof": "/",
+        "facade": "/",
+        "carpentry": "/",
+        "parterre": "/"
+      },
+      "interior": {
+        "sharedContent": "/",
+        "privateContent": "/"
+      }
+    },
+    "context": "/"
+  }
+}

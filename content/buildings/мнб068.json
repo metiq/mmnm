@@ -1,7 +1,7 @@
 {
   "photos": [
-    "/public/мнб068-22.jpg",
-    "/public/мнб068-10.jpg"
+    "/media/мнб068-22.jpg",
+    "/media/мнб068-10.jpg"
   ],
   "values": {
     "name": [
@@ -53,7 +53,7 @@
   "inspectionBy": "Тим 3",
   "code": "МНБ068",
   "suggestions": "/",
-  "photo": "/public/мнб068-21.jpg",
+  "photo": "/media/мнб068-21.jpg",
   "basicData": {
     "hasProtectedStatus": true,
     "name": "Народна Банка-Трезор / Денес Конзулат на Република Бугарија",

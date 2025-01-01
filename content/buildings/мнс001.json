@@ -1,10 +1,10 @@
 {
   "photos": [
-    "/public/16-privredni-dom-skoplje.jpg",
-    "/public/15-privredni-dom-skoplje.jpg",
-    "/public/1-privredni-dom-skoplje.jpg",
-    "/public/19-privredni-dom-skoplje.jpg",
-    "/public/22-privredni-dom-skoplje.jpg"
+    "/media/16-privredni-dom-skoplje.jpg",
+    "/media/15-privredni-dom-skoplje.jpg",
+    "/media/1-privredni-dom-skoplje.jpg",
+    "/media/19-privredni-dom-skoplje.jpg",
+    "/media/22-privredni-dom-skoplje.jpg"
   ],
   "values": {
     "name": [
@@ -59,7 +59,7 @@
   "inspectionBy": "Тим 1",
   "code": "МНС001",
   "suggestions": "Земајќи ги во предвид сите вредности на објектот, неговата автентичност и состојбата во која се наоѓа, се упатува препорака до надлежните органи за заштита на културното наследство и  останатите носители на одлуки, изработка на елаборат со кој ќе се отпочне процесот за прогласување на овој значаен објект како културно наследство на модерната во РС Македонија од прва категорија.\nПревземање мерки за негова санација/реставрација.\n",
-  "photo": "/public/метропол-и-народна-банка.png",
+  "photo": "/media/метропол-и-народна-банка.png",
   "basicData": {
     "hasProtectedStatus": false,
     "name": "Стопанска комора / „Метропол“",

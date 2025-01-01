@@ -1,6 +1,6 @@
 {
   "photos": [
-    "/public/мнс042_01.jpg"
+    "/media/мнс042_01.jpg"
   ],
   "values": {
     "name": [
@@ -54,7 +54,7 @@
   "inspectionBy": "Тим 2 ",
   "code": "МНС042",
   "suggestions": ".",
-  "photo": "/public/мнс042_01.jpg",
+  "photo": "/media/мнс042_01.jpg",
   "basicData": {
     "hasProtectedStatus": true,
     "name": "Зградата на Ташковиќ",

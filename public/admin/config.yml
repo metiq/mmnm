@@ -7,7 +7,7 @@ backend:
 
 locale: 'mk'
 media_folder: public/media
-public_folder: /public
+public_folder: /media
 
 collections:
   - name: 'building'

@@ -13,9 +13,6 @@ let buildings = await queryContent<IBuilding>('buildings').find();
       <div
         class="hidden lg:sticky lg:top-0 lg:flex lg:w-16 lg:flex-none lg:items-center lg:whitespace-nowrap lg:py-12 lg:text-sm lg:leading-7 lg:[writing-mode:vertical-rl]">
         <span class="font-mono text-slate-500">2024 ©ИКОМОС Македонија. Сите права се задржани.</span>
-        <!-- <span class="mt-6 flex gap-6 font-bold text-slate-900">
-        Национален комитет ИКОМОС Македонија
-      </span> -->
       </div>
       <div
         class="relative z-10 mx-auto px-4 pb-4 pt-10 sm:px-6 md:max-w-2xl md:px-4 lg:min-h-full lg:flex-auto lg:border-x lg:border-slate-200 lg:px-8 lg:py-12 xl:px-12">
@@ -47,8 +44,7 @@ let buildings = await queryContent<IBuilding>('buildings').find();
       </div>
     </header>
     <main class="border-t border-slate-200 lg:relative lg:mb-28 lg:ml-112 lg:border-t-0 xl:ml-120">
-      <div
-        class="mx-auto p-8 grid auto-rows-fr grid-cols-1 gap-8 lg:grid-cols-3">
+      <div class="mx-auto p-8 grid auto-rows-fr grid-cols-1 gap-8 lg:grid-cols-3">
         <article v-for="b in buildings"
           class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <img :src="b.photo" alt="" class="absolute inset-0 -z-10 size-full object-cover">
@@ -73,31 +69,23 @@ let buildings = await queryContent<IBuilding>('buildings').find();
             </a>
           </h3>
         </article>
-
-
       </div>
     </main>
     <footer class="border-t border-slate-200 bg-slate-50 py-10 pb-40 sm:py-16 sm:pb-32 lg:hidden">
       <div class="mx-auto px-4 sm:px-6 md:max-w-2xl md:px-4">
         <section>
           <h2 class="flex items-center font-mono text-sm font-medium leading-7 text-slate-900">
-            <!-- <TinyWaveFormIcon colors={['fill-violet-300', 'fill-pink-300' ]} class="h-2.5 w-2.5" /> -->
-            <span class="ml-2.5">About</span>
+            За проектот
           </h2>
           <p class="mt-2 text-base leading-7 text-slate-700">
-            In this show, Eric and Wes dig deep to get to the facts with guests who
-            have been labeled villains by a society quick to judge, without actually
-            getting the full story. Tune in every Thursday to get to the truth with
-            another misunderstood outcast as they share the missing context in their
-            tragic tale.
+            Овој проект се фокусира на зачувување, документирање и следење на состојбата на модернистичкото
+            архитектонско
+            и културно наследство. Преку анализа на неговото значење, историски контекст и современи предизвици, се
+            обезбедуваат насоки за негово одржливо користење и заштита.
           </p>
         </section>
-        <h2 class="mt-8 flex items-center font-mono text-sm font-medium leading-7 text-slate-900">
-          <!-- <PersonIcon class="h-3 w-auto fill-slate-300" /> -->
-          <span class="ml-2.5">Hosted by</span>
-        </h2>
         <div class="mt-2 flex gap-6 text-sm font-bold leading-7 text-slate-900">
-          ICOMOS MK
+          2024 ©ИКОМОС Македонија. Сите права се задржани.
         </div>
       </div>
     </footer>

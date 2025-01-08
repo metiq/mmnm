@@ -86,7 +86,7 @@ collections:
           collapsed: false
           i18n: true
           fields:
-          - {label: "Заштитен", name: "isProtected", widget: "boolean", i18n: duplicate }
+          - {label: "Заштитен", name: "isProtected", widget: "boolean", i18n: duplicate, required: false }
           - {label: "Забелешка", name: "notes", widget: "string", i18n: true, required: false}
       - label: "2. Опис на оригиналната градба"
         name: "originalData"
@@ -95,7 +95,7 @@ collections:
         i18n: true
         fields: 
         - {label: "2.1 Општ опис", name: "generalDescription", widget: "text", i18n: true}
-        - {label: "2.2 Хронологија на изградба (проект, градежни фази)", name: "timelineDescription", widget: "string", i18n: true, required: false}
+        - {label: "2.2 Хронологија на изградба (проект, градежни фази)", name: "timelineDescription", widget: "text", i18n: true, required: false}
         - {label: "2.3 Катност", name: "floors", widget: "string", i18n: true, required: false}
         - {label: "2.4 Програмски опис (опис на план по катови)", name: "programDescription", widget: "text", i18n: true, required: false}
         - {label: "2.5 Структура", name: "structureDescription", widget: "text", i18n: true, required: false}

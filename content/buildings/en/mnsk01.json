@@ -1,0 +1,24 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "architect": "",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 1,
+  "code": "MNSK01",
+  "dateInspection": "08.01.2025",
+  "inspectionBy": "Тим 1",
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  },
+  "photo": "/media/mnsk01/метропол-стопанска-комора.jpg"
+}

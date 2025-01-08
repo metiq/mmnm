@@ -1,0 +1,38 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4299989,41.9929987]}",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "комерцијален/деловен",
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": false
+    }
+  },
+  "order": 3,
+  "code": "MNSK03",
+  "dateInspection": "08.01.2025",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk03/j_mg_8312-copy-2-.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "photos": [
+    "/media/mnsk03/j_mg_8312-copy-2-.jpg"
+  ]
+}

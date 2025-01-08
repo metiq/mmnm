@@ -1,0 +1,54 @@
+{
+  "photos": [
+    "/media/mnsk03/j_mg_8312-copy-2-.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "08.01.2025",
+  "inspectionBy": "Тим 2",
+  "code": "MNSK03",
+  "order": 3,
+  "photo": "/media/mnsk03/j_mg_8312-copy-2-.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4299989,41.9929987]}",
+    "buildingName": "Објект Крстиќ",
+    "dateBuilt": "1932",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "line": "Луј Пастер 3",
+      "city": "Скопје",
+      "municipality": "Центар "
+    },
+    "originalPurpose": {
+      "type": [
+        "комерцијален/деловен",
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": false,
+      "notes": ""
+    }
+  },
+  "originalData": {
+    "generalDescription": "Објект на Пеко од Артемушкин 1932.....",
+    "timelineDescription": "Доградба на поткровје 90сти",
+    "floors": "П+4+Пк",
+    "materiality": {
+      "exterior": {
+        "roof": "Рамен кров",
+        "facade": "Цементен малтер декориран"
+      }
+    }
+  }
+}

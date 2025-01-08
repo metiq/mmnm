@@ -2,7 +2,8 @@
 
 import type { IBuilding } from "@/types";
 
-let buildings = await queryContent<IBuilding>('buildings').find();
+// TODO: Provide proper locale path based on selected language
+let buildings = await queryContent<IBuilding>('buildings', 'mk').find();
 
 </script>
 <template>
@@ -44,28 +45,28 @@ let buildings = await queryContent<IBuilding>('buildings').find();
       </div>
     </header>
     <main class="border-t border-slate-200 lg:relative lg:mb-28 lg:ml-112 lg:border-t-0 xl:ml-120">
-      <div class="mx-auto p-8 grid auto-rows-fr grid-cols-1 gap-8 lg:grid-cols-3">
+      <div class="mx-auto p-8 grid auto-rows-fr grid-cols-1 gap-6 md:grid-cols-2 2xl:grid-cols-3">
         <article v-for="b in buildings"
-          class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
+          class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-6 pb-4 pt-80 sm:pt-48 lg:pt-40 2xl:pt-48">
           <img :src="b.photo" alt="" class="absolute inset-0 -z-10 size-full object-cover">
           <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40"></div>
           <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
 
           <div class="flex flex-wrap items-center gap-y-1 overflow-hidden text-sm/6 text-gray-300">
-            <time datetime="2020-03-16" class="mr-8">{{ b.basicData.dateBuilt }}</time>
+            <time datetime="2020-03-16" class="mr-8">{{ b.basicData?.dateBuilt }}</time>
             <div class="-ml-4 flex items-center gap-x-4">
               <svg viewBox="0 0 2 2" class="-ml-0.5 size-0.5 flex-none fill-white/50">
                 <circle cx="1" cy="1" r="1" />
               </svg>
               <div class="flex gap-x-2.5">
-                {{ b.basicData.architect }}
+                {{ b.basicData?.architect }}
               </div>
             </div>
           </div>
           <h3 class="mt-3 text-lg/6 font-semibold text-white">
             <a href="#">
               <span class="absolute inset-0"></span>
-              {{ b.basicData.name }}
+              {{ b.basicData?.buildingName }}
             </a>
           </h3>
         </article>

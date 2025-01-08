@@ -8,170 +8,233 @@ locale: mk
 media_folder: public/media
 public_folder: /media
 
+i18n:
+  structure: multiple_folders
+  locales: [mk, en, sq]
+  default_locale: mk
+
 collections:
   - name: "building"
     label: "Објект"
     folder: "content/buildings"
     format: "json"
     create: true
+    i18n: true
     slug: "{{code}}"
-    summary: "{{code}} - {{basicData.buildingName}}"
+    summary: "{{order}} | {{code}} | {{basicData.buildingName}}"
     editor:
       preview: false
     fields:
-      - { label: "Код", name: "code", widget: "string" }
-      - { label: "ЕМБ", name: "emb", widget: "string", required: false }
-      - { label: "Решение брoj", name: "number", widget: "string", required: false }
-      - { label: "Датум на увидот", name: "dateInspection", widget: "datetime", date_format: "DD.MM.YYYY" }
-      - { label: "Увидот го извршил", name: "inspectionBy", widget: "string" }
-      - { label: "Главна фотографија од објектот", name: "photo", widget: "image" }
+      - { label: "Реден број", name: "order", widget: "number", min: 1, step: 1, i18n: duplicate }
+      - { label: "Код", name: "code", widget: "string", i18n: duplicate, pattern: ["(MN)([A-Z]){2}\\d+", "Не е валиден кодот"], hint: "Форматот на кодот е MNXX1234 Скопје (SK), Битола (BT), итн..." }
+      - { label: "ЕМБ", name: "emb", widget: "string", i18n: true, required: false }
+      - { label: "Решение брoj", name: "number", widget: "string", i18n: true, required: false }
+      - { label: "Датум на увидот", name: "dateInspection", i18n: duplicate, widget: "datetime", date_format: "DD.MM.YYYY" }
+      - { label: "Увидот го извршил", name: "inspectionBy", i18n: duplicate, widget: "string" }
+      - label: "Главна фотографија од објектот"
+        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        name: "photo"
+        widget: "image"
+        i18n: duplicate
+        choose_url: false
+        media_folder: /public/media/{{code}}
+        public_folder: /media/{{code}}
+        media_library:
+          config:
+            multiple: false
+            max_file_size: 512000
       - label: "1. Основни податоци"
         name: "basicData"
         widget: "object"
         collapsed: false
+        i18n: true
         fields: 
-        - { label: "1.1 Име на објект", name: "buildingName", widget: "string", required: false }
-        - { label: "1.2 Датум на градење", name: "dateBuilt", widget: "string", required: false }
-        - { label: "1.3 Архитект", name: "architect", widget: "string", required: false }
-        - { label: "1.4 Соработници", name: "associates", widget: "list", summary: "{{fields.associate}}", field: { label: "Соработник", name: "associate", widget: "string" }, required: false }
-        - { label: "1.5 Инвеститор / сопственик", name: "investorOrOwner", widget: "string", required: false }
+        - { label: "1.1 Име на објект", name: "buildingName", widget: "string", i18n: true, required: false }
+        - { label: "1.2 Датум на градење", name: "dateBuilt", widget: "string", i18n: true, required: false }
+        - { label: "1.3 Архитект", name: "architect", required: false, i18n: duplicate, widget: "relation", collection: "settings", file: "architects", value_field: "architects.*.nameMk", search_fields: ["architects.*.nameMk"], display_fields: ["architects.*.nameMk"] }
+        - { label: "1.4 Соработници", name: "associates", widget: "list", i18n: true, summary: "{{fields.associate}}", field: { label: "Соработник", name: "associate", widget: "string", i18n: true }, required: false }
+        - { label: "1.5 Инвеститор / сопственик", name: "investorOrOwner", widget: "string", i18n: true, required: false }
         - label: "1.6 Адреса на објектот"
           name: "address"
           widget: "object"
           collapsed: false
+          i18n: true
           fields: 
-          - {label: "Адреса", name: "line", widget: "string"}
-          - {label: "Град", name: "city", widget: "string"}
-          - {label: "Општина", name: "municipality", widget: "string", required: false}
-        - { label: "1.7 GPS координати", name: "coordinates", widget: "map", required: false, default: "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}"}
+          - {label: "Адреса", name: "line", widget: "string", i18n: true}
+          - {label: "Град", name: "city", widget: "select", i18n: duplicate, options: ["Скопје","Велес","Тетово","Гостивар","Куманово","Штип","Струмица","Демир Хисар","Битола","Прилеп","Охрид","Струга","Кочани","Кавадарци","Кочани","Неготино","Кратово"]}
+          - {label: "Општина", name: "municipality", widget: "string", i18n: true, required: false}
+        - { label: "1.7 GPS координати", name: "coordinates", widget: "map", i18n: duplicate, required: false, default: "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}"}
         - label: "1.8 Типологија според оригиналната намената"
           name: "originalPurpose"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
-          - {label: "Тип", name: "type", widget: "select", required: false, options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
-          - {label: "Забелешка", name: "notes", widget: "string", required: false}
+          - {label: "Тип", name: "type", widget: "select", multiple: true, required: false, i18n: duplicate, options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
+          - {label: "Забелешка", name: "notes", widget: "string", i18n: true, required: false}
         - label: "1.9 Денешна намена"
           name: "todayPurpose"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
-          - {label: "Тип", name: "type", widget: "select", required: false, options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
-          - {label: "Забелешка", name: "notes", widget: "string", required: false}
-        - { label: "1.10 Заштитен статус", name: "hasProtectedStatus", widget: "boolean", required: false }
+          - {label: "Тип", name: "type", widget: "select", multiple: true, required: false, i18n: duplicate, options: ["индивидуален станбен", "колективен станбен", "индустриски", "споменик", "јавен", "комерцијален/деловен", "друго"]}
+          - {label: "Забелешка", name: "notes", widget: "string", i18n: true, required: false}
+        - label: "1.10 Заштитен статус"
+          name: "protectionStatus"
+          widget: "object"
+          collapsed: false
+          i18n: true
+          fields:
+          - {label: "Заштитен", name: "isProtected", widget: "boolean", i18n: duplicate }
+          - {label: "Забелешка", name: "notes", widget: "string", i18n: true, required: false}
       - label: "2. Опис на оригиналната градба"
         name: "originalData"
         widget: "object"
         collapsed: false
+        i18n: true
         fields: 
-        - {label: "2.1 Општ опис", name: "generalDescription", widget: "text"}
-        - {label: "2.2 Хронологија на изградба (проект, градежни фази)", name: "timelineDescription", widget: "string", required: false}
-        - {label: "2.3 Катност", name: "floors", widget: "string", required: false}
-        - {label: "2.4 Програмски опис (опис на план по катови)", name: "programDescription", widget: "text", required: false}
-        - {label: "2.5 Структура", name: "structureDescription", widget: "text", required: false}
+        - {label: "2.1 Општ опис", name: "generalDescription", widget: "text", i18n: true}
+        - {label: "2.2 Хронологија на изградба (проект, градежни фази)", name: "timelineDescription", widget: "string", i18n: true, required: false}
+        - {label: "2.3 Катност", name: "floors", widget: "string", i18n: true, required: false}
+        - {label: "2.4 Програмски опис (опис на план по катови)", name: "programDescription", widget: "text", i18n: true, required: false}
+        - {label: "2.5 Структура", name: "structureDescription", widget: "text", i18n: true, required: false}
         - label: "2.6 Материјалност"
           name: "materiality"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
           - label: "Екстериер"
             name: "exterior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Кров", name: "roof", widget: "text", required: false}
-            - {label: "Фасада", name: "facade", widget: "text", required: false}
-            - {label: "Столарија", name: "carpentry", widget: "text", required: false} 
-            - {label: "Партер", name: "parterre", widget: "text", required: false}
+            - {label: "Кров", name: "roof", widget: "text", i18n: true, required: false}
+            - {label: "Фасада", name: "facade", widget: "text", i18n: true, required: false}
+            - {label: "Столарија", name: "carpentry", widget: "text", i18n: true, required: false} 
+            - {label: "Партер", name: "parterre", widget: "text", i18n: true, required: false}
           - label: "Ентериер"
             name: "interior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Заеднички содржини", name: "sharedContent", widget: "text", required: false}
-            - {label: "Приватни содржини", name: "privateContent", widget: "text", required: false}
-        - {label: "2.7 Контекст", name: "context", widget: "text", required: false}
+            - {label: "Заеднички содржини", name: "sharedContent", widget: "text", required: false, i18n: true}
+            - {label: "Приватни содржини", name: "privateContent", widget: "text", required: false, i18n: true}
+        - {label: "2.7 Контекст", name: "context", widget: "text", required: false, i18n: true}
       - label: "3. Опис на моменталната состојба на градбата / автентичност и интегритет"
         name: "currentData"
         widget: "object"
-        collapsed: true
+        collapsed: false
+        i18n: true
         fields: 
         - label: "3.1 Материјалност"
           name: "materiality"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
           - label: "Екстериер"
             name: "exterior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Кров", name: "roof", widget: "text", required: false}
-            - {label: "Фасада", name: "facade", widget: "text", required: false}
-            - {label: "Столарија", name: "carpentry", widget: "text", required: false} 
-            - {label: "Партер", name: "parterre", widget: "text", required: false}
+            - {label: "Кров", name: "roof", widget: "text", required: false, i18n: true}
+            - {label: "Фасада", name: "facade", widget: "text", required: false, i18n: true}
+            - {label: "Столарија", name: "carpentry", widget: "text", required: false, i18n: true} 
+            - {label: "Партер", name: "parterre", widget: "text", required: false, i18n: true}
           - label: "Ентериер"
             name: "interior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Заеднички содржини", name: "sharedContent", widget: "text", required: false}
-            - {label: "Приватни содржини", name: "privateContent", widget: "text", required: false}
+            - {label: "Заеднички содржини", name: "sharedContent", widget: "text", required: false, i18n: true}
+            - {label: "Приватни содржини", name: "privateContent", widget: "text", required: false, i18n: true}
         - label: "3.2 Физичка состојба"
           name: "physicalCondition"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
           - label: "Екстериер"
             name: "exterior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Состојба", name: "condition", widget: "select", required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
-            - {label: "Забелешка", name: "notes", widget: "text", required: false}
+            - {label: "Состојба", name: "condition", widget: "select", required: false, i18n: duplicate, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text", i18n: true, required: false}
           - label: "Ентериер"
             name: "interior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Состојба", name: "condition", widget: "select", required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
-            - {label: "Забелешка", name: "notes", widget: "text", required: false}
-        - {label: "3.3 Интервенции, промени, модификации (хронолошки)", name: "modifications", widget: "text", required: false}
-        - label: "3.4 Физичка состојба"
+            - {label: "Состојба", name: "condition", widget: "select", required: false, i18n: duplicate, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text", i18n: true, required: false}
+        - {label: "3.3 Интервенции, промени, модификации (хронолошки)", name: "modifications", widget: "text", i18n: true, required: false}
+        - label: "3.4 Автентичност"
           name: "authenticity"
           widget: "object"
-          collapsed: true
+          collapsed: false
+          i18n: true
           fields: 
           - label: "Екстериер"
             name: "exterior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Состојба", name: "condition", widget: "select", required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
-            - {label: "Забелешка", name: "notes", widget: "text", required: false}
+            - {label: "Состојба", name: "condition", widget: "select", i18n: duplicate, required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text", i18n: true, required: false}
           - label: "Ентериер"
             name: "interior"
             widget: "object"
             collapsed: false
+            i18n: true
             fields: 
-            - {label: "Состојба", name: "condition", widget: "select", required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
-            - {label: "Забелешка", name: "notes", widget: "text", required: false}
-      - { label: "4. Закани и ризици", name: "risks", widget: "text", required: false }
+            - {label: "Состојба", name: "condition", widget: "select", i18n: duplicate, required: false, options: ["добра", "задоволителна", "многу лоша", "катастрофална"]}
+            - {label: "Забелешка", name: "notes", widget: "text", i18n: true, required: false}
+      - { label: "4. Закани и ризици", name: "risks", widget: "text", i18n: true, required: false }
       - label: "5. Вредности"
         name: "values"
         widget: "object"
         collapsed: false
+        i18n: true
         fields: 
-        - { label: "Вредност", name: "name", widget: "select", multiple: true, options: ["историскa", "авторство", "архитектонска и естетска", "техничка", "општествена / социјална", "емотивна"]}
-        - { label: "Забелешка", name: "dateBuilt", widget: "text", required: false }
-      - { label: "6. Препораки", name: "suggestions", widget: "text", required: false }
-      - { label: "7. Библиографија", name: "bibliography", widget: "text", required: false }
+        - { label: "Вредност", name: "name", widget: "select", i18n: duplicate, multiple: true, options: ["историскa", "авторство", "архитектонска и естетска", "техничка", "општествена / социјална", "емотивна"]}
+        - { label: "Забелешка", name: "dateBuilt", widget: "text", i18n: true, required: false }
+      - { label: "6. Препораки", name: "suggestions", widget: "text", i18n: true, required: false }
+      - { label: "7. Библиографија", name: "bibliography", widget: "text", i18n: true, required: false }
       - label: "8. Фотографии / цртежи (постојна состојба + архива)"
+        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
         name: "photos"
         widget: "image"
+        i18n: duplicate
         choose_url: false
         required: false
+        media_folder: /public/media/{{code}}
+        public_folder: /media/{{code}}
         media_library:
           config:
             multiple: true
-            
+            max_file_size: 512000
+  - label: "Поставки"
+    name: "settings"
+    files:
+      - label: "Архитекти"
+        name: "architects"
+        format: "json"
+        file: "content/architects.json"
+        fields:
+          - label: "Архитекти"
+            name: "architects"
+            collapsed: false
+            widget: "list"
+            fields:
+              - {label: "Име кирилица", name: "nameMk", widget: string }
+              - {label: "Име латиница", name: "nameEn", widget: string }

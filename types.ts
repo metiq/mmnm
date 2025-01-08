@@ -49,7 +49,7 @@ export interface IBuilding {
   photo: string;
   basicData: {
     hasProtectedStatus: boolean;
-    name: string;
+    buildingName: string;
     originalPurpose: {
       type: string;
       notes: string;

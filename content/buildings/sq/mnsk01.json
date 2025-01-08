@@ -1,27 +1,54 @@
 {
+  "photos": [
+    "/media/mnsk01/метропол-стопанска-комора.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "техничка",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "08.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK01",
+  "order": 1,
+  "photo": "/media/mnsk01/метропол-стопанска-комора.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
-    "architect": "",
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4324194,41.9958768]}",
+    "architect": "Злоковиќ Милан",
     "address": {
       "city": "Скопје"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
     "protectionStatus": {
-      "isProtected": true
+      "isProtected": false
     }
-  },
-  "order": 1,
-  "code": "MNSK01",
-  "dateInspection": "08.01.2025",
-  "inspectionBy": "Тим 1",
-  "values": {
-    "name": [
-      "историскa"
-    ]
-  },
-  "photo": "/media/mnsk01/метропол-стопанска-комора.jpg",
-  "photos": [
-    "/media/mnsk01/метропол-стопанска-комора.jpg"
-  ]
+  }
 }

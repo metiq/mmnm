@@ -1,0 +1,56 @@
+{
+  "photos": [
+    "/media/mnsk02/sobranie-zgrada-pdz-1068x689.jpg",
+    "/media/mnsk02/sobranie-osnova-768x583.jpg",
+    "/media/mnsk02/sobranie-1-768x352.jpg",
+    "/media/mnsk02/15-860x516-768x461.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "19.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK02",
+  "order": 2,
+  "photo": "/media/mnsk02/собрание-arhivska1.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4324853,41.992776]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

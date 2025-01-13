@@ -1,0 +1,46 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4362584,41.9909047]}",
+    "architect": "Михајловиќ Јосиф",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 10,
+  "code": "MNSK10",
+  "dateInspection": "29.12.2024",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk10/176c672b-7ed5-452c-b654-a465a2fc6469.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  }
+}

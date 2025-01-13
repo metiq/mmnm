@@ -1,6 +1,8 @@
 {
   "photos": [
-    "/media/mnsk01/метропол-стопанска-комора.jpg"
+    "/media/mnsk01/метропол-стопанска-комора.jpg",
+    "/media/mnsk01/26-privredni-dom-skoplje.jpg",
+    "/media/mnsk01/1-privredni-dom-skoplje.jpg"
   ],
   "values": {
     "name": [
@@ -12,7 +14,7 @@
       "емотивна"
     ]
   },
-  "dateInspection": "08.01.2025",
+  "dateInspection": "19.12.2024",
   "currentData": {
     "physicalCondition": {
       "exterior": {
@@ -32,7 +34,7 @@
   "order": 1,
   "photo": "/media/mnsk01/метропол-стопанска-комора.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4324194,41.9958768]}",
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4324107,41.9958773]}",
     "architect": "Злоковиќ Милан",
     "address": {
       "city": "Скопје"

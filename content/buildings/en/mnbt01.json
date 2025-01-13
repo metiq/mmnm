@@ -1,4 +1,49 @@
 {
+  "photos": [
+    "/media/mnbt01/мнб068-8-medium.jpeg",
+    "/media/mnbt01/мнб068-21-medium.jpeg",
+    "/media/mnbt01/мнб068-7-medium.jpeg",
+    "/media/mnbt01/мнб068-14-large.jpeg",
+    "/media/mnbt01/мнб068-12-large.jpeg",
+    "/media/mnbt01/мнб068-11-large.jpeg",
+    "/media/mnbt01/мнб068-10-large.jpeg",
+    "/media/mnbt01/мнб068-9-large.jpeg",
+    "/media/mnbt01/мнб068-6-large.jpeg",
+    "/media/mnbt01/мнб068-5-large.jpeg",
+    "/media/mnbt01/screenshot_20201204_190129-large.jpeg",
+    "/media/mnbt01/screenshot_20201204_192017.jpg",
+    "/media/mnbt01/screenshot_20201204_190129-01.jpeg",
+    "/media/mnbt01/crtez-medium.jpeg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT01",
+  "order": 68,
+  "photo": "/media/mnbt01/мнб068-15-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3292007,41.0320916]}",
     "architect": "Несторовиќ Богдан",
@@ -16,34 +61,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 68,
-  "code": "MNBT01",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt01/мнб068-15-large.jpeg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "авторство",
-      "архитектонска и естетска",
-      "општествена / социјална"
-    ]
   }
 }

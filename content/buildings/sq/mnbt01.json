@@ -1,0 +1,49 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3292007,41.0320916]}",
+    "architect": "Несторовиќ Богдан",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "друго"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 68,
+  "code": "MNBT01",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt01/мнб068-15-large.jpeg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  }
+}

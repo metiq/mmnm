@@ -23,5 +23,15 @@
       "општествена / социјална",
       "историскa"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

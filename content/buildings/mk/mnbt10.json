@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3376999,41.0282635]}",
+    "address": {
+      "line": "Димитар Илиевски - Мурато бр. 24",
+      "city": "Битола",
+      "municipality": "Битола"
+    }
+  },
+  "order": 77,
+  "code": "MNBT10",
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt10/img_4347-medium.jpeg",
+  "originalData": {
+    "generalDescription": "1"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

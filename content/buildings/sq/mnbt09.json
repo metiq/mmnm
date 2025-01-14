@@ -1,21 +1,23 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3362931,41.0280596]}",
-    "architect": "Ташковиќ Григорије",
-    "address": {
-      "city": "Битола"
-    },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {
-      "isProtected": true
-    }
-  },
-  "order": 76,
-  "code": "MNBT09",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "dateInspection": "15.12.2024",
-  "photo": "/media/mnbt09/kukja-na-osmanli-medium.jpeg",
+  "photos": [
+    "/media/mnbt09/фото1.jpg",
+    "/media/mnbt09/фото2.jpg",
+    "/media/mnbt09/фото3.jpg",
+    "/media/mnbt09/графички-_page_14-large.jpeg",
+    "/media/mnbt09/графички-_page_13-large.jpeg",
+    "/media/mnbt09/графички-_page_12-large.jpeg",
+    "/media/mnbt09/графички-_page_11-large.jpeg",
+    "/media/mnbt09/графички-_page_10-large.jpeg",
+    "/media/mnbt09/графички-_page_09-large.jpeg",
+    "/media/mnbt09/графички-_page_08-large.jpeg",
+    "/media/mnbt09/графички-_page_07-large.jpeg",
+    "/media/mnbt09/графички-_page_06-large.jpeg",
+    "/media/mnbt09/графички-_page_05-large.jpeg",
+    "/media/mnbt09/графички-_page_04-large.jpeg",
+    "/media/mnbt09/графички-_page_03-large.jpeg",
+    "/media/mnbt09/графички-_page_02-large.jpeg",
+    "/media/mnbt09/графички-_page_01-large.jpeg"
+  ],
   "values": {
     "name": [
       "авторство",
@@ -24,6 +26,7 @@
       "историскa"
     ]
   },
+  "dateInspection": "15.12.2024",
   "currentData": {
     "physicalCondition": {
       "exterior": {
@@ -40,6 +43,22 @@
       "interior": {
         "condition": "добра"
       }
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT09",
+  "order": 76,
+  "photo": "/media/mnbt09/kukja-na-osmanli-medium.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3362931,41.0280596]}",
+    "architect": "Ташковиќ Григорије",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {
+      "isProtected": true
     }
   }
 }

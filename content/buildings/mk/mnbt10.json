@@ -1,4 +1,45 @@
 {
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "materiality": {
+      "exterior": {
+        "roof": "Ќерамиди",
+        "facade": "Малтер и боја",
+        "carpentry": "Дрвена и ПВЦ"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра",
+        "notes": "Нема забележителни оштетувања"
+      },
+      "interior": {
+        "condition": "добра",
+        "notes": "Реновирана според кажувањата на сопствениците"
+      }
+    },
+    "modifications": "Во 2010 година се доградува тераса на задната фасада и страна на парцелата",
+    "authenticity": {
+      "exterior": {
+        "condition": "добра",
+        "notes": "Нема волуменски ниту композициски отстапки од оригиналниот концепт. Единствено оригиналната столарија е заменета со нова ПВЦ. Портокаловата боја која се појавува на фасада е исто така нов."
+      },
+      "interior": {
+        "condition": "задоволителна",
+        "notes": "Ентериерот е реновиран и нов"
+      }
+    }
+  },
+  "number": "Има, но не е познат бројот",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT10",
+  "order": 77,
+  "photo": "/media/mnbt10/img_4347-medium.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3376999,41.0282635]}",
     "address": {
@@ -6,20 +47,38 @@
       "city": "Битола",
       "municipality": "Битола"
     },
-    "buildingName": "Куќа на Атанасови",
-    "dateBuilt": "?"
+    "buildingName": "Куќа на Штериќ / денес Куќа на Атанасови",
+    "dateBuilt": "1936",
+    "investorOrOwner": "Фамилија Штериќ",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ],
+      "notes": "Едносемејна куќа со комерцијални содржини во приземје"
+    },
+    "protectionStatus": {
+      "isProtected": true,
+      "notes": "Има, но не е познат бројот на решение"
+    }
   },
-  "order": 77,
-  "code": "MNBT10",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt10/img_4347-medium.jpeg",
+  "emb": "?",
   "originalData": {
-    "generalDescription": "1"
-  },
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ]
+    "generalDescription": "1",
+    "floors": "П+1",
+    "programDescription": "Приземје - домување\nКат - домување",
+    "structureDescription": "Полна тула (претпоставка)",
+    "materiality": {
+      "exterior": {
+        "roof": "Ќерамиди",
+        "facade": "Малтер",
+        "carpentry": "Дрвена"
+      }
+    }
   }
 }

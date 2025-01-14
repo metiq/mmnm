@@ -1,4 +1,42 @@
 {
+  "photos": [
+    "/media/mnbt10/мнб077-8-large-medium.jpeg",
+    "/media/mnbt10/мнб077-4-large.jpeg",
+    "/media/mnbt10/мнб077-1-large.jpeg",
+    "/media/mnbt10/img_4353-medium.jpeg",
+    "/media/mnbt10/img_4352-medium.jpeg",
+    "/media/mnbt10/img_4351-medium.jpeg",
+    "/media/mnbt10/img_4348-medium.jpeg",
+    "/media/mnbt10/img_4347-medium.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT10",
+  "order": 77,
+  "photo": "/media/mnbt10/img_4347-medium.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3376999,41.0282635]}",
     "address": {
@@ -17,34 +55,6 @@
     },
     "protectionStatus": {
       "isProtected": true
-    }
-  },
-  "order": 77,
-  "code": "MNBT10",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt10/img_4347-medium.jpeg",
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
     }
   }
 }

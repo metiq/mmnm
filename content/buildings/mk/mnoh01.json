@@ -1,0 +1,28 @@
+{
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "емотивна",
+      "техничка"
+    ]
+  },
+  "dateInspection": "15.01.2025",
+  "number": "/",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH01",
+  "order": 88,
+  "photo": "/media/mnoh01/hidrobioloski-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8150246,41.1018236]}",
+    "buildingName": "Хидробиолошки завод Охрид",
+    "address": {
+      "line": "Наум Охридски 50",
+      "city": "Охрид",
+      "municipality": "Охрид"
+    }
+  },
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

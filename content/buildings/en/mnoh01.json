@@ -1,0 +1,24 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8150246,41.1018236]}",
+    "address": {
+      "city": "Охрид"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 88,
+  "code": "MNOH01",
+  "dateInspection": "15.01.2025",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "емотивна",
+      "техничка"
+    ]
+  },
+  "photo": "/media/mnoh01/hidrobioloski-large.jpeg"
+}

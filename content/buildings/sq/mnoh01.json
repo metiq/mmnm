@@ -4,8 +4,16 @@
     "address": {
       "city": "Охрид"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 88,
@@ -20,5 +28,23 @@
       "техничка"
     ]
   },
-  "photo": "/media/mnoh01/hidrobioloski-large.jpeg"
+  "photo": "/media/mnoh01/hidrobioloski-large.jpeg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  }
 }

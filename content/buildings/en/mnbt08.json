@@ -24,7 +24,8 @@
   "dateInspection": "14.12.2024",
   "values": {
     "name": [
-      "архитектонска и естетска"
+      "архитектонска и естетска",
+      "историскa"
     ]
   },
   "currentData": {
@@ -35,7 +36,9 @@
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "задоволителна"
+      },
       "interior": {}
     }
   }

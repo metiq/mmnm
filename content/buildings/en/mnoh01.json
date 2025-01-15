@@ -1,25 +1,31 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8150246,41.1018236]}",
-    "address": {
-      "city": "Охрид"
-    },
-    "originalPurpose": {
-      "type": [
-        "јавен"
-      ]
-    },
-    "todayPurpose": {
-      "type": [
-        "јавен"
-      ]
-    },
-    "protectionStatus": {}
-  },
-  "order": 88,
-  "code": "MNOH01",
-  "dateInspection": "15.01.2025",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photos": [
+    "/media/mnoh01/1935-хидробиолошки-medium.jpeg",
+    "/media/mnoh01/хидробиолошки-и-анот.jpg",
+    "/media/mnoh01/историска.jpeg",
+    "/media/mnoh01/историска2.jpeg",
+    "/media/mnoh01/макета.jpeg",
+    "/media/mnoh01/20250115_113420-large.jpeg",
+    "/media/mnoh01/20250115_113515-large-medium.jpeg",
+    "/media/mnoh01/20250115_113343-large.jpeg",
+    "/media/mnoh01/20250115_113829-large.jpeg",
+    "/media/mnoh01/20250115_121255-large.jpeg",
+    "/media/mnoh01/20250115_115342-large.jpeg",
+    "/media/mnoh01/20250115_113905-large.jpeg",
+    "/media/mnoh01/20250115_113919-large.jpeg",
+    "/media/mnoh01/20250115_113942-large.jpeg",
+    "/media/mnoh01/20250115_114103-large.jpeg",
+    "/media/mnoh01/20250115_114119-large.jpeg",
+    "/media/mnoh01/20250115_114123-large-medium.jpeg",
+    "/media/mnoh01/20250115_114142-large.jpeg",
+    "/media/mnoh01/20250115_122555-large-medium.jpeg",
+    "/media/mnoh01/20250115_122526-large.jpeg",
+    "/media/mnoh01/20250115_115138-large.jpeg",
+    "/media/mnoh01/20250115_114316-large.jpeg",
+    "/media/mnoh01/20250115_114305-large.jpeg",
+    "/media/mnoh01/20250115_114253-large.jpeg",
+    "/media/mnoh01/20250115_122338-large.jpeg"
+  ],
   "values": {
     "name": [
       "историскa",
@@ -28,7 +34,7 @@
       "техничка"
     ]
   },
-  "photo": "/media/mnoh01/hidrobioloski-large.jpeg",
+  "dateInspection": "15.01.2025",
   "currentData": {
     "physicalCondition": {
       "exterior": {
@@ -46,5 +52,26 @@
         "condition": "задоволителна"
       }
     }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH01",
+  "order": 88,
+  "photo": "/media/mnoh01/hidrobioloski-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8150246,41.1018236]}",
+    "address": {
+      "city": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
   }
 }

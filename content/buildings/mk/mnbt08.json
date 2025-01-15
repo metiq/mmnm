@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3344433,41.0272899]}",
+    "address": {
+      "line": "Св. Климент Охридски бр. 31 / Пеце Матичевски бр. 21",
+      "city": "Битола",
+      "municipality": "Битола"
+    }
+  },
+  "order": 75,
+  "code": "MNBT08",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt08/мнбт08-large.jpeg",
+  "dateInspection": "14.12.2024",
+  "originalData": {
+    "generalDescription": "1"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

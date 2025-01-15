@@ -1,0 +1,51 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4341843,41.9926964]}",
+    "architect": "Иблер Драго",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 6,
+  "code": "MNSK06",
+  "dateInspection": "29.12.2024",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk06/4ef945f4-ae7c-4e22-bac3-c3281adae02f.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна",
+      "техничка"
+    ]
+  }
+}

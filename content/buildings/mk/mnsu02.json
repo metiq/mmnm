@@ -1,0 +1,25 @@
+{
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.01.2025",
+  "number": "18-118 од 2021",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNSU02",
+  "order": 95,
+  "photo": "/media/mnsu02/20250115_131142-medium.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6773558,41.1746621]}",
+    "address": {
+      "line": "ул: “Партизанска” бр.4",
+      "city": "Струга",
+      "municipality": "Струга"
+    }
+  },
+  "emb": "4-828-047/64 РНД",
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

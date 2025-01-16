@@ -1,0 +1,21 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6773558,41.1746621]}",
+    "address": {
+      "city": "Струга"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 95,
+  "code": "MNSU02",
+  "dateInspection": "15.01.2025",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnsu02/20250115_131142-medium.jpeg",
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

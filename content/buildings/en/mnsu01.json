@@ -1,0 +1,41 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6773655,41.1741735]}",
+    "address": {
+      "city": "Струга"
+    },
+    "originalPurpose": {
+      "type": [
+        "друго"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 94,
+  "code": "MNSU01",
+  "dateInspection": "15.01.2025",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnsu01/насловна-large.jpeg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  }
+}

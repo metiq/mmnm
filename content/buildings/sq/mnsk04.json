@@ -1,0 +1,47 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4308417,41.9931047]}",
+    "architect": "Жерновски Кирил",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 4,
+  "code": "MNSK04",
+  "inspectionBy": "Тим 1",
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "photo": "/media/mnsk04/viber_image_2025-01-16_16-14-15-647.jpg"
+}

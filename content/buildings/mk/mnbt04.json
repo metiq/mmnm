@@ -1,4 +1,33 @@
 {
+  "photos": [
+    "/media/mnbt04/мнб071-21-large-medium.jpeg",
+    "/media/mnbt04/мнб071-20-large.jpeg",
+    "/media/mnbt04/мнб071-3-large-medium.jpeg",
+    "/media/mnbt04/мнб071-5-large-medium.jpeg",
+    "/media/mnbt04/мнб071-4-large.jpeg",
+    "/media/mnbt04/мнб071-6-large.jpeg",
+    "/media/mnbt04/мнб071-7-large.jpeg",
+    "/media/mnbt04/мнб071-8-large.jpeg",
+    "/media/mnbt04/мнб071-9-large.jpeg",
+    "/media/mnbt04/мнб071-11-large.jpeg",
+    "/media/mnbt04/мнб071-12-large.jpeg",
+    "/media/mnbt04/мнб071-14-large.jpeg",
+    "/media/mnbt04/мнб071-15-large.jpeg",
+    "/media/mnbt04/мнб071-16-large.jpeg",
+    "/media/mnbt04/мнб071-17-large.jpeg",
+    "/media/mnbt04/мнб071-18-large.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ],
+    "dateBuilt": "Воочлива е архитектононска и естетска вредност додека недостасуваат повеќе податоци за евентуални останати вредности."
+  },
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT04",
+  "order": 71,
+  "photo": "/media/mnbt04/мнб071-1-large-medium.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3218682,41.0320167]}",
     "buildingName": "Куќа на агол - бул. „Први Мај“ и ул. „Марко Цепенков“",
@@ -19,18 +48,7 @@
       "notes": "Напуштен"
     }
   },
-  "order": 71,
-  "code": "MNBT04",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt04/мнб071-1-large-medium.jpeg",
   "originalData": {
     "generalDescription": "1"
-  },
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ],
-    "dateBuilt": "Воочлива е архитектононска и естетска вредност додека недостасуваат повеќе податоци за евентуални останати вредности."
   }
 }

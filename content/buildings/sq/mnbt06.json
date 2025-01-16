@@ -1,0 +1,51 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3399973,41.0278275]}",
+    "architect": "Дубови Јан",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 73,
+  "code": "MNBT06",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt06/nasl-large-medium.jpeg",
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство"
+    ]
+  },
+  "photos": [
+    "/media/mnbt06/мнб073-1-large-medium.jpeg",
+    "/media/mnbt06/мнб073-3-large-medium.jpeg",
+    "/media/mnbt06/мнб073-4-large.jpeg",
+    "/media/mnbt06/мнб073-6-large-medium.jpeg",
+    "/media/mnbt06/мнб073-7-large.jpeg",
+    "/media/mnbt06/мнб073-8-large.jpeg",
+    "/media/mnbt06/мнб073-10-large.jpeg",
+    "/media/mnbt06/мнб073-12-large.jpeg",
+    "/media/mnbt06/мнб073-13-large.jpeg",
+    "/media/mnbt06/мнб073-14-large.jpeg",
+    "/media/mnbt06/мнб073-18-large.jpeg",
+    "/media/mnbt06/мнб073-20-large.jpeg",
+    "/media/mnbt06/мнб073-21-large.jpeg",
+    "/media/mnbt06/мнб073-24-large.jpeg",
+    "/media/mnbt06/мнб073-27-large.jpeg",
+    "/media/mnbt06/мнб073-28-large.jpeg",
+    "/media/mnbt06/мнб073-31-large.jpeg"
+  ]
+}

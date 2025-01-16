@@ -1,0 +1,62 @@
+{
+  "photos": [
+    "/media/mnbt06/мнб073-1-large-medium.jpeg",
+    "/media/mnbt06/мнб073-3-large-medium.jpeg",
+    "/media/mnbt06/мнб073-4-large.jpeg",
+    "/media/mnbt06/мнб073-6-large-medium.jpeg",
+    "/media/mnbt06/мнб073-7-large.jpeg",
+    "/media/mnbt06/мнб073-8-large.jpeg",
+    "/media/mnbt06/мнб073-10-large.jpeg",
+    "/media/mnbt06/мнб073-12-large.jpeg",
+    "/media/mnbt06/мнб073-13-large.jpeg",
+    "/media/mnbt06/мнб073-14-large.jpeg",
+    "/media/mnbt06/мнб073-18-large.jpeg",
+    "/media/mnbt06/мнб073-20-large.jpeg",
+    "/media/mnbt06/мнб073-21-large.jpeg",
+    "/media/mnbt06/мнб073-24-large.jpeg",
+    "/media/mnbt06/мнб073-27-large.jpeg",
+    "/media/mnbt06/мнб073-28-large.jpeg",
+    "/media/mnbt06/мнб073-31-large.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT06",
+  "order": 73,
+  "photo": "/media/mnbt06/nasl-large-medium.jpeg",
+  "basicData": {
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "dateBuilt": "1936",
+    "address": {
+      "line": "ул. „Кичево“ бр.20",
+      "city": "Битола",
+      "municipality": "Битола"
+    },
+    "associates": [
+      "Иван Мештровиќ - скулптор на фасадната пластика - Девојка со гитара"
+    ],
+    "architect": "Дубови Јан",
+    "investorOrOwner": "Петар Мачкиќ",
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3399973,41.0278275]}",
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ],
+      "notes": "Напуштен"
+    },
+    "buildingName": "Куќата на Петар Мачкиќ"
+  },
+  "originalData": {
+    "generalDescription": "до тука-"
+  }
+}

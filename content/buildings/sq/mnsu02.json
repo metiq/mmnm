@@ -4,9 +4,19 @@
     "address": {
       "city": "Струга"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "order": 95,
   "code": "MNSU02",

@@ -16,6 +16,24 @@
       "line": "ул: “Партизанска” бр.4",
       "city": "Струга",
       "municipality": "Струга"
+    },
+    "buildingName": "Основно Училиште Браќа Миладиновци / денес Општина Струга",
+    "dateBuilt": "1934",
+    "investorOrOwner": "Драга Јефтиќ",
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ],
+      "notes": "Основно училиште"
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ],
+      "notes": "Општинска зграда - администрација"
+    },
+    "protectionStatus": {
+      "isProtected": true
     }
   },
   "emb": "4-828-047/64 РНД",

@@ -1,4 +1,48 @@
 {
+  "photos": [
+    "/media/mnsu02/20250115_131619-medium.jpeg",
+    "/media/mnsu02/20250115_131702-medium.jpeg",
+    "/media/mnsu02/20250115_131747-medium.jpeg",
+    "/media/mnsu02/20250115_131806-medium.jpeg",
+    "/media/mnsu02/20250115_132112-medium.jpeg",
+    "/media/mnsu02/20250115_132116-medium.jpeg",
+    "/media/mnsu02/20250115_132148-medium.jpeg",
+    "/media/mnsu02/20250115_131947-medium.jpeg",
+    "/media/mnsu02/20250115_132238-medium.jpeg",
+    "/media/mnsu02/20250115_132208-medium.jpeg",
+    "/media/mnsu02/20250115_131919-medium.jpeg",
+    "/media/mnsu02/20250115_132017-medium.jpeg",
+    "/media/mnsu02/20250115_132340-medium.jpeg"
+  ],
+  "values": {
+    "name": [
+      "општествена / социјална",
+      "историскa"
+    ]
+  },
+  "dateInspection": "15.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNSU02",
+  "order": 95,
+  "photo": "/media/mnsu02/20250115_131142-medium.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6773558,41.1746621]}",
     "address": {
@@ -17,15 +61,5 @@
     "protectionStatus": {
       "isProtected": true
     }
-  },
-  "order": 95,
-  "code": "MNSU02",
-  "dateInspection": "15.01.2025",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnsu02/20250115_131142-medium.jpeg",
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ]
   }
 }

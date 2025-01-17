@@ -1,0 +1,26 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3382493,41.0305946]}",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 72,
+  "code": "MNBT05",
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt05/nasl-large-11.03.58-medium.jpeg",
+  "values": {
+    "name": [
+      "општествена / социјална",
+      "емотивна"
+    ]
+  }
+}

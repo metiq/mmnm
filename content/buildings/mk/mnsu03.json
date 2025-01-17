@@ -1,0 +1,30 @@
+{
+  "photos": [
+    "/media/mnsu03/20250115_135022-large.jpeg",
+    "/media/mnsu03/att.up-8evbwhjqxk3ecbz-klcgemgebawuzlhq4jjanqgo.jpg",
+    "/media/mnsu03/att.dalxnllhdw6xpsvzcrcons9paumcizq073qfxllc-uq.jpg",
+    "/media/mnsu03/415261273_10221709468679177_6985492084300698989_n.jpg",
+    "/media/mnsu03/03b48ba0-a709-469a-aaaf-87d52cd58ebd.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.01.2025",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNSU03",
+  "order": 96,
+  "photo": "/media/mnsu03/20250115_135022-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6763381,41.1778999]}",
+    "address": {
+      "line": "Пролетерски бригади б.б.",
+      "city": "Струга",
+      "municipality": "Струга"
+    }
+  },
+  "originalData": {
+    "generalDescription": "-"
+  }
+}

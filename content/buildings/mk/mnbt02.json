@@ -1,0 +1,26 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3374229,41.0266192]}",
+    "buildingName": "Станбен објект „Маруш“",
+    "dateBuilt": "1934-1936",
+    "investorOrOwner": "Маруш - стар сопственик",
+    "address": {
+      "line": "Елпида Караманди бр. 8",
+      "city": "Битола",
+      "municipality": "Битола"
+    }
+  },
+  "order": 69,
+  "code": "MNBT02",
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "originalData": {
+    "generalDescription": "1"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "photo": "/media/mnbt02/мнб069-8-large.jpeg"
+}

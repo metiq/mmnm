@@ -1,23 +1,4 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3374229,41.0266192]}",
-    "address": {
-      "city": "Битола"
-    },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
-  },
-  "order": 69,
-  "code": "MNBT02",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ]
-  },
-  "photo": "/media/mnbt02/мнб069-8-large.jpeg",
   "photos": [
     "/media/mnbt02/гоогле-мапс-2014-large.jpeg",
     "/media/mnbt02/гоогле-мапс-2014-2-large.jpeg",
@@ -30,5 +11,42 @@
     "/media/mnbt02/мнб069-5-large.jpeg",
     "/media/mnbt02/мнб069-6-large.jpeg",
     "/media/mnbt02/мнб069-7-large.jpeg"
-  ]
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT02",
+  "order": 69,
+  "photo": "/media/mnbt02/мнб069-8-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3374229,41.0266192]}",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {}
+  }
 }

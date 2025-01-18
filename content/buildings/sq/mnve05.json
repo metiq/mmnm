@@ -1,0 +1,47 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.783563,41.7151946]}",
+    "architect": "Солонцев Николај",
+    "address": {
+      "city": "Велес"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 56,
+  "code": "MNVE05",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnve05/mnve05_01.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "емотивна",
+      "архитектонска и естетска"
+    ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  }
+}

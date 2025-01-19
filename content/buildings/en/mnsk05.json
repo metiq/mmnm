@@ -1,0 +1,49 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4290434,41.9910113]}",
+    "architect": "Гавриловиќ Велимир",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 5,
+  "code": "MNSK05",
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk05/do-sl-3-770x561.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  }
+}

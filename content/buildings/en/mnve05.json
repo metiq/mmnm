@@ -34,7 +34,9 @@
   },
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     },
     "authenticity": {

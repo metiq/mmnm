@@ -25,12 +25,20 @@
   "photo": "/media/mnsr03/3dd95154-5fd7-44c2-aa97-bb3c73694306.jpg",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "многу лоша"
+      }
     }
   },
   "values": {

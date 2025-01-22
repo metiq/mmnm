@@ -1,0 +1,48 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4309331,41.9951853]}",
+    "architect": "Дутов Борис",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 12,
+  "code": "MNSK12",
+  "dateInspection": "29.12.2024",
+  "inspectionBy": "Тим 1",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "архитектонска и естетска"
+    ]
+  },
+  "photo": "/media/mnsk12/img_2258-1-.jpg"
+}

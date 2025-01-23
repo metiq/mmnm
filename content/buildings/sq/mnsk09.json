@@ -1,0 +1,44 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4218868,42.0002751]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 9,
+  "code": "MNSK09",
+  "inspectionBy": "Тим 1",
+  "dateInspection": "22.01.2025",
+  "photo": "/media/mnsk09/img_2861.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална"
+    ]
+  }
+}

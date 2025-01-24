@@ -1,4 +1,35 @@
 {
+  "photos": [
+    "/media/mnsk04/151374080_1094846677678637_2177670833676109717_n.jpg",
+    "/media/mnsk04/151139838_1094846647678640_3388591732819266108_n.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK04",
+  "order": 4,
+  "photo": "/media/mnsk04/viber_image_2025-01-16_16-14-15-647.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4308417,41.9931047]}",
     "architect": "Жерновски Кирил",
@@ -16,32 +47,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 4,
-  "code": "MNSK04",
-  "inspectionBy": "Тим 1",
-  "dateInspection": "14.12.2024",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "многу лоша"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "многу лоша"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "општествена / социјална",
-      "емотивна"
-    ]
-  },
-  "photo": "/media/mnsk04/viber_image_2025-01-16_16-14-15-647.jpg"
+  }
 }

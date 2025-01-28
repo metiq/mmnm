@@ -1,0 +1,35 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4199999,42.0018511]}",
+    "architect": "Дубови Јан",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "photo": "/media/mnsk31/mnsk032_01.jpg",
+  "code": "MNSK31",
+  "order": 31,
+  "inspectionBy": "Тим2",
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство",
+      "историскa"
+    ]
+  },
+  "photos": [
+    "/media/mnsk31/mnsk32_proekt-arhiva.jpg"
+  ],
+  "dateInspection": "20.12.2024"
+}

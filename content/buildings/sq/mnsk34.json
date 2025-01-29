@@ -1,0 +1,52 @@
+{
+  "photos": [
+    "/media/mnsk34/mnsk34_03.jpg",
+    "/media/mnsk34/mnsk34_02.jpg",
+    "/media/mnsk34/mnsk34_05.jpg",
+    "/media/mnsk34/mnsk34_01.jpg",
+    "/media/mnsk34/mnsk34_04.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "техничка",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "20.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK34",
+  "order": 34,
+  "photo": "/media/mnsk34/mnsk34_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4352197,42.0033253]}",
+    "architect": "Михајловиќ Јосиф",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "друго"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

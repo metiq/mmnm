@@ -1,0 +1,61 @@
+{
+  "photos": [
+    "/media/mnsk41/mnsk41_01.jpg",
+    "/media/mnsk41/mnsk41_02.jpg",
+    "/media/mnsk41/mnsk41_03.jpg",
+    "/media/mnsk41/mnsk41_04.jpg",
+    "/media/mnsk41/mnsk41_05.jpg",
+    "/media/mnsk41/mnsk41_06.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "22.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK41",
+  "order": 41,
+  "photo": "/media/mnsk41/mnsk41_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4208401,42.0015406]}",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "друго"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  }
+}

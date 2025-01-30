@@ -1,0 +1,51 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4251622,42.0005108]}",
+    "architect": "Краус Фредо",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 35,
+  "code": "MNSK35",
+  "dateInspection": "22.01.2025",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk35/mnsk35_01.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  }
+}

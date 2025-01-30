@@ -1,0 +1,52 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4304538,41.9958027]}",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 15,
+  "code": "MNSK15",
+  "dateInspection": "19.12.2024",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk15/img_2266.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  }
+}

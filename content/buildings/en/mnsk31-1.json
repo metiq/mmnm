@@ -1,0 +1,52 @@
+{
+  "photos": [
+    "/media/mnsk31/mnsk31_01.jpg",
+    "/media/mnsk31/mnsk31_02.jpg",
+    "/media/mnsk31/mnsk31_03.jpg",
+    "/media/mnsk31/mnsk31_04.jpg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa"
+    ]
+  },
+  "dateInspection": "22.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK31",
+  "order": 31,
+  "photo": "/media/mnsk31/mnsk31_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4262095,42.0017653]}",
+    "architect": "Жерновски Кирил",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

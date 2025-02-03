@@ -22,6 +22,7 @@ collections:
     i18n: true
     slug: "{{code}}"
     summary: "{{order}} | {{code}} | {{basicData.buildingName}}"
+    sortable_fields: ['order', 'code']
     editor:
       preview: false
     fields:

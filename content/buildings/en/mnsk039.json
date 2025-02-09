@@ -6,8 +6,8 @@
     },
     "originalPurpose": {
       "type": [
-        "комерцијален/деловен",
-        "колективен станбен"
+        "индивидуален станбен",
+        "комерцијален/деловен"
       ]
     },
     "todayPurpose": {
@@ -18,7 +18,8 @@
     },
     "protectionStatus": {
       "isProtected": true
-    }
+    },
+    "architect": "Дутов Борис"
   },
   "order": 39,
   "code": "MNSK039",

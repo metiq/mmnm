@@ -1,4 +1,38 @@
 {
+  "photos": [
+    "/media/mnsk039/mnsk39_02.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "емотивна",
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  },
+  "dateInspection": "11.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK039",
+  "order": 39,
+  "photo": "/media/mnsk039/mnsk39_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4244583,42.0005958]}",
     "address": {
@@ -20,36 +54,5 @@
       "isProtected": true
     },
     "architect": "Дутов Борис"
-  },
-  "order": 39,
-  "code": "MNSK039",
-  "dateInspection": "11.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk039/mnsk39_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "емотивна",
-      "архитектонска и естетска",
-      "авторство"
-    ]
   }
 }

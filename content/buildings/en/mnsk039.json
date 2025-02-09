@@ -31,7 +31,9 @@
       "exterior": {
         "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": "задоволителна"
+      }
     },
     "authenticity": {
       "exterior": {

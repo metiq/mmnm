@@ -47,6 +47,8 @@
         "друго"
       ]
     },
-    "protectionStatus": {}
+    "protectionStatus": {
+      "isProtected": true
+    }
   }
 }

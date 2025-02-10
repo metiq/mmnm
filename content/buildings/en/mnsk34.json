@@ -18,11 +18,15 @@
   "dateInspection": "20.12.2024",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     }
   },

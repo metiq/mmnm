@@ -1,0 +1,47 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4265173,42.00118]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 40,
+  "code": "MNSK40",
+  "dateInspection": "05.02.2025",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk40/mnsk40_01.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  }
+}

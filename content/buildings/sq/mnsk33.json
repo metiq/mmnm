@@ -1,0 +1,30 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4279519,42.0014686]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 33,
+  "code": "MNSK33",
+  "dateInspection": "21.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk33/mnsk33_01.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  }
+}

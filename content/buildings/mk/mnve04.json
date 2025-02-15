@@ -1,0 +1,67 @@
+{
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  },
+  "bibliography": "https://duma.mk/region/veles-3/28984-2020-04-27-15-26-35/",
+  "dateInspection": "12.12.2024",
+  "currentData": {
+    "materiality": {
+      "exterior": {
+        "roof": "Едноводен, сокриен кос покрив покриен со лим",
+        "facade": "Малтер  (метал и стакло на додадените делови)",
+        "carpentry": "Метална и ПВЦ"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      }
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNVE04",
+  "order": 55,
+  "photo": "/media/mnve04/mnve04_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7775313,41.7175219]}",
+    "buildingName": "Офицерски дом 1937",
+    "dateBuilt": "1924 год.",
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ],
+      "notes": "Дом на железничарите, потоа Офицерски дом"
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ],
+      "notes": "Ресторант со сместувачки капацитети"
+    },
+    "address": {
+      "line": "Ул.Благој Ѓорев 35-17",
+      "city": "Велес",
+      "municipality": "Велес"
+    }
+  },
+  "originalData": {
+    "generalDescription": "Во Велес во 1924 година, бил изграден Домот на железничарите. Тој објект е всушност постоечката зграда на денешен ,,Офицерски дом“. Во тоа време бил единствен објект од овој вид во Македонија, кој им пружал разонода, дружење и одржување на разни секции (оркестар, хор итн.), матинеа и разни свечености и игранки на железничарите. \nПодоцна, во 1937 година објектот се пренаменил во Офицерски дом.",
+    "timelineDescription": "",
+    "floors": "П+1 (2)",
+    "materiality": {
+      "exterior": {
+        "facade": "малтер"
+      }
+    }
+  }
+}

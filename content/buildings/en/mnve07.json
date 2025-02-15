@@ -1,0 +1,33 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7841329,41.7171224]}",
+    "address": {
+      "city": "Велес"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 58,
+  "code": "MNVE07",
+  "dateInspection": "12.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnve07/mnve07_01.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "photos": [
+    "/media/mnve07/mnve07_02.jpg"
+  ]
+}

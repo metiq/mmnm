@@ -1,0 +1,41 @@
+{
+  "photos": [
+    "/media/mnve07/mnve07_02.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "12.12.2024",
+  "inspectionBy": "Тим 2",
+  "code": "MNVE07",
+  "order": 58,
+  "photo": "/media/mnve07/mnve07_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7841329,41.7171224]}",
+    "buildingName": "Индивидуална станбена куќа",
+    "dateBuilt": "1937",
+    "investorOrOwner": "Р.К.Г.",
+    "address": {
+      "line": "Ул.Ѓоре Оранџиев бр.37",
+      "city": "Велес",
+      "municipality": "Велес"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    }
+  },
+  "originalData": {
+    "generalDescription": "Куќата е проектирана од непознат архитект во модерен стил. Се наоѓа во велешкото маало Дворови",
+    "floors": "По+П+1+Пк"
+  }
+}

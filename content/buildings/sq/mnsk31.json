@@ -15,7 +15,9 @@
         "колективен станбен"
       ]
     },
-    "protectionStatus": {}
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "photo": "/media/mnsk32/mnsk032_01.jpg",
   "code": "MNSK32",

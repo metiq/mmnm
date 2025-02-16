@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4222464,42.0001785]}",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 28,
+  "code": "MNSK28",
+  "dateInspection": "02.02.2025",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk28/img_3171.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "авторство"
+    ]
+  }
+}

@@ -1,4 +1,31 @@
 {
+  "photos": [
+    "/media/mnsk31/mnsk32_proekt-arhiva.jpg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство",
+      "историскa"
+    ]
+  },
+  "dateInspection": "08.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим2",
+  "code": "MNSK32",
+  "order": 32,
+  "photo": "/media/mnsk32/mnsk032_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4199999,42.0018511]}",
     "architect": "Дубови Јан",
@@ -12,26 +39,11 @@
     },
     "todayPurpose": {
       "type": [
-        "колективен станбен"
+        "индивидуален станбен"
       ]
     },
     "protectionStatus": {
       "isProtected": true
     }
-  },
-  "photo": "/media/mnsk32/mnsk032_01.jpg",
-  "code": "MNSK32",
-  "order": 32,
-  "inspectionBy": "Тим2",
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "авторство",
-      "историскa"
-    ]
-  },
-  "photos": [
-    "/media/mnsk31/mnsk32_proekt-arhiva.jpg"
-  ],
-  "dateInspection": "08.01.2025"
+  }
 }

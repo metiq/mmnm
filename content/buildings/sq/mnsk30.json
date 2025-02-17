@@ -1,0 +1,43 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4195999,42.0014546]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 30,
+  "code": "MNSK30",
+  "dateInspection": "02.02.2025",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsk30/img_3139.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  }
+}

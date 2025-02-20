@@ -1,4 +1,32 @@
 {
+  "photos": [
+    "/media/mnve07/mnve07_02.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "12.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNVE07",
+  "order": 58,
+  "photo": "/media/mnve07/mnve07_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7841329,41.7171224]}",
     "address": {
@@ -14,20 +42,7 @@
         "индивидуален станбен"
       ]
     },
-    "protectionStatus": {}
-  },
-  "order": 58,
-  "code": "MNVE07",
-  "dateInspection": "12.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnve07/mnve07_01.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  },
-  "photos": [
-    "/media/mnve07/mnve07_02.jpg"
-  ]
+    "protectionStatus": {},
+    "architect": "Гајдов К. Славко  "
+  }
 }

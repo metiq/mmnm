@@ -1,4 +1,33 @@
 {
+  "photos": [
+    "/media/mnve05/mnve05_06.jpg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNVE05",
+  "order": 56,
+  "photo": "/media/mnve05/mnve05_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.783563,41.7151946]}",
     "architect": "Солонцев Николај",
@@ -18,31 +47,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 56,
-  "code": "MNVE05",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnve05/mnve05_01.jpg",
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "историскa",
-      "емотивна"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
   }
 }

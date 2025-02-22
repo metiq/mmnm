@@ -1,4 +1,31 @@
 {
+  "photos": [
+    "/media/mnbt07/pxl_20250205_130859458-1-large.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT07",
+  "order": 74,
+  "photo": "/media/mnbt07/мнбт07-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3334258,41.0284197]}",
     "address": {
@@ -16,18 +43,5 @@
     },
     "protectionStatus": {},
     "architect": "Вангел Самарџиќ"
-  },
-  "order": 74,
-  "code": "MNBT07",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt07/мнбт07-large.jpeg",
-  "values": {
-    "name": [
-      "архитектонска и естетска"
-    ]
-  },
-  "photos": [
-    "/media/mnbt07/pxl_20250205_130859458-1-large.jpeg"
-  ]
+  }
 }

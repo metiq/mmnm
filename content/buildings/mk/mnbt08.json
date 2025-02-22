@@ -1,4 +1,16 @@
 {
+  "photos": [
+    "/media/mnbt08/мнбт08-large.jpeg",
+    "/media/mnbt08/20241215_130615-large.jpeg",
+    "/media/mnbt08/20241215_130622-large.jpeg",
+    "/media/mnbt08/20241215_130643-large.jpeg",
+    "/media/mnbt08/20241215_130824-large.jpeg",
+    "/media/mnbt08/20241215_130658-large.jpeg",
+    "/media/mnbt08/20241215_130700-large.jpeg",
+    "/media/mnbt08/20241215_130717-large.jpeg",
+    "/media/mnbt08/20241215_130730-large.jpeg",
+    "/media/mnbt08/20241215_130849-large.jpeg"
+  ],
   "values": {
     "name": [
       "архитектонска и естетска",
@@ -34,7 +46,7 @@
   "code": "MNBT08",
   "order": 75,
   "suggestions": "Да се реставрира и конзервира западната фасада, и да се интегрира на некој начин со останатите волумени.",
-  "photo": "/media/mnbt08/мнбт08-large.jpeg",
+  "photo": "/media/mnbt08/20241215_130615-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3344433,41.0272899]}",
     "address": {

@@ -37,7 +37,9 @@
       "exterior": {
         "condition": "многу лоша"
       },
-      "interior": {}
+      "interior": {
+        "condition": "многу лоша"
+      }
     }
   },
   "inspectionBy": "Мартина Штериова, Иво Лазароски",

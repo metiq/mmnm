@@ -45,8 +45,16 @@
     "address": {
       "city": "Струга"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
     "protectionStatus": {}
   }
 }

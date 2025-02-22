@@ -1,4 +1,36 @@
 {
+  "photos": [
+    "/media/mnve03/mnve03_02.jpg",
+    "/media/mnve03/mnve03_03.jpg",
+    "/media/mnve03/mnve03_04.jpg",
+    "/media/mnve03/mnve03_05.jpg"
+  ],
+  "values": {
+    "name": [
+      "авторство",
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "19.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNVE03",
+  "order": 54,
+  "photo": "/media/mnve03/mnve03_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7876084,41.7118737]}",
     "address": {
@@ -15,31 +47,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 54,
-  "code": "MNVE03",
-  "dateInspection": "19.02.2025",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnve03/mnve03_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "авторство",
-      "историскa",
-      "архитектонска и естетска"
-    ]
   }
 }

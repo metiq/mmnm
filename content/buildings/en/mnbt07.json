@@ -1,0 +1,21 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3334258,41.0284197]}",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 74,
+  "code": "MNBT07",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt07/мнбт07-large.jpeg",
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

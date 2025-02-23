@@ -1,4 +1,37 @@
 {
+  "photos": [
+    "/media/mnsk40/mnsk40_02.jpg",
+    "/media/mnsk40/mnsk40_03.jpg",
+    "/media/mnsk40/mnsk40_04.jpg",
+    "/media/mnsk40/mnsk40_05.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "05.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK40",
+  "order": 40,
+  "photo": "/media/mnsk40/mnsk40_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4265173,42.00118]}",
     "address": {
@@ -18,32 +51,5 @@
       "isProtected": true
     },
     "architect": "Вошта Рудолф"
-  },
-  "order": 40,
-  "code": "MNSK40",
-  "dateInspection": "05.02.2025",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk40/mnsk40_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "многу лоша"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "авторство",
-      "емотивна"
-    ]
   }
 }

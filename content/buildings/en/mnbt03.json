@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3301579,41.0312157]}",
+    "architect": "Петков Методија",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 77,
+  "code": "MNBT03",
+  "values": {
+    "name": [
+      "авторство",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt03/мнб070-13-large.jpeg"
+}

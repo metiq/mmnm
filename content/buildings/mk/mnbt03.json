@@ -1,4 +1,30 @@
 {
+  "photos": [
+    "/media/mnbt03/мнб070-14-large.jpeg",
+    "/media/mnbt03/мнб070-17-large.jpeg",
+    "/media/mnbt03/мнб070-8-large.jpeg",
+    "/media/mnbt03/мнб070-5-large.jpeg",
+    "/media/mnbt03/мнб070-4-large.jpeg",
+    "/media/mnbt03/мнб070-3-large.jpeg",
+    "/media/mnbt03/мнб070-1-large.jpeg",
+    "/media/mnbt03/20241215_102554-large.jpeg",
+    "/media/mnbt03/20241215_102319-large.jpeg",
+    "/media/mnbt03/20241215_102259-large.jpeg",
+    "/media/mnbt03/20241215_102231-large.jpeg",
+    "/media/mnbt03/20241215_102203-large.jpeg"
+  ],
+  "values": {
+    "name": [
+      "авторство",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "number": "/",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNBT03",
+  "order": 70,
+  "photo": "/media/mnbt03/мнб070-13-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3301579,41.0312157]}",
     "address": {
@@ -8,20 +34,20 @@
     },
     "buildingName": "Индивидуален објект „Петров“",
     "investorOrOwner": "Петрови",
-    "architect": "Петков Методија"
+    "architect": "Петков Методија",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    }
   },
-  "order": 70,
-  "code": "MNBT03",
+  "emb": "/",
   "originalData": {
     "generalDescription": "1"
-  },
-  "values": {
-    "name": [
-      "авторство",
-      "архитектонска и естетска"
-    ]
-  },
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt03/мнб070-13-large.jpeg"
+  }
 }

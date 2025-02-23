@@ -5,8 +5,16 @@
     "address": {
       "city": "Битола"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 70,
@@ -19,5 +27,19 @@
   },
   "dateInspection": "15.12.2024",
   "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt03/мнб070-13-large.jpeg"
+  "photo": "/media/mnbt03/мнб070-13-large.jpeg",
+  "photos": [
+    "/media/mnbt03/мнб070-14-large.jpeg",
+    "/media/mnbt03/мнб070-17-large.jpeg",
+    "/media/mnbt03/мнб070-8-large.jpeg",
+    "/media/mnbt03/мнб070-5-large.jpeg",
+    "/media/mnbt03/мнб070-4-large.jpeg",
+    "/media/mnbt03/мнб070-3-large.jpeg",
+    "/media/mnbt03/мнб070-1-large.jpeg",
+    "/media/mnbt03/20241215_102554-large.jpeg",
+    "/media/mnbt03/20241215_102319-large.jpeg",
+    "/media/mnbt03/20241215_102259-large.jpeg",
+    "/media/mnbt03/20241215_102231-large.jpeg",
+    "/media/mnbt03/20241215_102203-large.jpeg"
+  ]
 }

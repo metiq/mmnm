@@ -41,7 +41,9 @@
       "exterior": {
         "condition": "добра"
       },
-      "interior": {}
+      "interior": {
+        "condition": "добра"
+      }
     }
   }
 }

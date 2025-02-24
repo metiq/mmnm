@@ -21,6 +21,10 @@
     "authenticity": {
       "exterior": {
         "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра",
+        "notes": "Залучено според фото-документација пронајдена на интернет страната на Пазар 3.\n\nhttps://www.pazar3.mk/oglas/zivealista/stanovi/prodazba/skopje/centar/se-prodava-stan-vo-blizina-na-gradski-park/5220882"
       }
     },
     "materiality": {

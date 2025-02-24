@@ -1,4 +1,42 @@
 {
+  "photos": [
+    "/media/mnsk35/mnsk35_02.jpg",
+    "/media/mnsk35/mnsk35_03.jpg",
+    "/media/mnsk35/mnsk35_04.jpg",
+    "/media/mnsk35/mnsk35_05.jpg",
+    "/media/mnsk35/mnsk35_06.jpg",
+    "/media/mnsk35/mnsk35_07.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "22.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK35",
+  "order": 35,
+  "photo": "/media/mnsk35/mnsk35_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4251622,42.0005108]}",
     "architect": "Краус Фердо",
@@ -18,35 +56,5 @@
     "protectionStatus": {
       "isProtected": true
     }
-  },
-  "order": 35,
-  "code": "MNSK35",
-  "dateInspection": "22.01.2025",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk35/mnsk35_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "емотивна"
-    ]
   }
 }

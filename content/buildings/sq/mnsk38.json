@@ -1,4 +1,42 @@
 {
+  "photos": [
+    "/media/mnsk38/mnsk38_02.jpg",
+    "/media/mnsk38/mnsk38_03.jpg",
+    "/media/mnsk38/mnsk38_04.jpg",
+    "/media/mnsk38/mnsk38_05.jpg",
+    "/media/mnsk38/mnsk38_06.jpg",
+    "/media/mnsk38/mnsk38_07.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "емотивна",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "20.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK38",
+  "order": 38,
+  "photo": "/media/mnsk38/mnsk38_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4240363,42.0031682]}",
     "address": {
@@ -16,36 +54,6 @@
     },
     "protectionStatus": {
       "isProtected": true
-    }
-  },
-  "order": 38,
-  "code": "MNSK38",
-  "dateInspection": "20.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk38/mnsk38_01.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "емотивна",
-      "архитектонска и естетска"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "добра"
-      }
     }
   }
 }

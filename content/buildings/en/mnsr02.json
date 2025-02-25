@@ -1,0 +1,30 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.6373167,41.4371971]}",
+    "address": {
+      "city": "Струмица"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 65,
+  "code": "MNSR02",
+  "dateInspection": "03.01.2025",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnsr02/c3c045de-3451-4a23-b518-e252314812f1.jpg",
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  }
+}

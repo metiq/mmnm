@@ -1,0 +1,35 @@
+{
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство",
+      "техничка"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "number": "/",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH05",
+  "order": 92,
+  "photo": "/media/mnoh05/20250111_113638-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8019816,41.1117614]}",
+    "buildingName": "Куќа на Симончевци",
+    "dateBuilt": "17.07.1936 почеток на градба - 07.11.1939 завршена",
+    "address": {
+      "line": "Кеј Македонија 10",
+      "city": "Охрид",
+      "municipality": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    }
+  },
+  "emb": "/",
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

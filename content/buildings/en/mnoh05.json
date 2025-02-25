@@ -1,4 +1,40 @@
 {
+  "photos": [
+    "/media/mnoh05/20250111_112828-large.jpeg",
+    "/media/mnoh05/20250111_112747-large.jpeg",
+    "/media/mnoh05/20250111_112714-large.jpeg",
+    "/media/mnoh05/20250111_112638-large.jpeg",
+    "/media/mnoh05/20250111_112614-large.jpeg",
+    "/media/mnoh05/20250111_112546-large.jpeg",
+    "/media/mnoh05/20250111_112537-large.jpeg",
+    "/media/mnoh05/20250111_112455-large.jpeg",
+    "/media/mnoh05/20250111_112344-large-medium.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH05",
+  "order": 93,
+  "photo": "/media/mnoh05/20250111_112800-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8032296,41.114004]}",
     "address": {
@@ -15,16 +51,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 93,
-  "code": "MNOH05",
-  "dateInspection": "11.01.2025",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnoh05/20250111_112800-large.jpeg",
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "историскa"
-    ]
   }
 }

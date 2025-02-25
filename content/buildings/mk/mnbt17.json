@@ -1,0 +1,24 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "buildingName": "Станбен објект на ул. Ленинова бр. 18",
+    "address": {
+      "line": "ул. Ленинова бр. 18",
+      "city": "Битола"
+    }
+  },
+  "order": 84,
+  "code": "MNBT17",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt17/mnb084j-0.3x.jpg",
+  "originalData": {
+    "generalDescription": "Станбен објект на ул. Ленинова бр. 18"
+  },
+  "values": {
+    "name": [
+      "емотивна",
+      "архитектонска и естетска"
+    ]
+  }
+}

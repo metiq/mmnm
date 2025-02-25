@@ -1,27 +1,26 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7775313,41.7175219]}",
-    "address": {
-      "city": "Велес"
-    },
-    "originalPurpose": {
-      "type": [
-        "јавен"
-      ]
-    },
-    "todayPurpose": {
-      "type": [
-        "комерцијален/деловен"
-      ]
-    },
-    "protectionStatus": {},
-    "architect": "Крат В. Павле"
+  "photos": [
+    "/media/mnve04/mnve04_02.jpg",
+    "/media/mnve04/mnve04_03.jpg",
+    "/media/mnve04/mnve04_04.jpg",
+    "/media/mnve04/mnve04_05.jpg",
+    "/media/mnve04/mnve04_06.jpg",
+    "/media/mnve04/mnve04_07.jpg",
+    "/media/mnve04/mnve04_08.jpg",
+    "/media/mnve04/mnve04_09.jpg",
+    "/media/mnve04/mnve04_10.jpg",
+    "/media/mnve04/mnve04_11.jpg",
+    "/media/mnve04/mnve04_12.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "емотивна",
+      "општествена / социјална"
+    ]
   },
-  "order": 55,
-  "code": "MNVE04",
   "dateInspection": "12.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnve04/mnve04_01.jpg",
   "currentData": {
     "physicalCondition": {
       "exterior": {
@@ -40,12 +39,26 @@
       }
     }
   },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "емотивна",
-      "општествена / социјална"
-    ]
+  "inspectionBy": "Тим 2",
+  "code": "MNVE04",
+  "order": 55,
+  "photo": "/media/mnve04/mnve04_01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7775313,41.7175219]}",
+    "address": {
+      "city": "Велес"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {},
+    "architect": "Крат В. Павле"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "buildingName": "Станбен објект на ул. Вардарска бр. 14",
+    "address": {
+      "line": "ул. Вардарска бр. 14",
+      "city": "Битола"
+    }
+  },
+  "order": 87,
+  "code": "MNBT20",
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt20/mnb087j-0.3x.jpg",
+  "originalData": {
+    "generalDescription": "Станбениот објект се наоѓа на ул. Вардарска бр. 14"
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "емотивна"
+    ]
+  }
+}

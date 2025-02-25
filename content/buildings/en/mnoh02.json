@@ -1,0 +1,34 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
+    "architect": "",
+    "address": {
+      "city": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 89,
+  "code": "MNOH02",
+  "dateInspection": "11.01.2025",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnoh02/20250111_115124-large.jpeg",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  }
+}

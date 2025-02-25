@@ -1,0 +1,44 @@
+{
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "number": "14-1269/2",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH02",
+  "order": 89,
+  "photo": "/media/mnoh02/20250111_115124-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
+    "buildingName": "Куќа на Ѓурчинови",
+    "dateBuilt": "",
+    "architect": "",
+    "address": {
+      "line": "Кеј Македонија 3",
+      "city": "Охрид",
+      "municipality": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true,
+      "notes": "Заштитена со Решение бр. 14-1269/2 и ЕМБ: 4-819-038/071 Р НД"
+    }
+  },
+  "emb": "4-819-038/071 р нд ",
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

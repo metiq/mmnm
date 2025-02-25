@@ -5,8 +5,17 @@
       "city": "Битола"
     },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3214593,41.0321922]}",
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {},
+    "architect": ""
   }
 }

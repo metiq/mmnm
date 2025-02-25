@@ -1,4 +1,43 @@
 {
+  "photos": [
+    "/media/mnoh05/палас-истражување5.jpg",
+    "/media/mnoh05/revealing_the_forgotten_tourism_the_case-61-large.jpeg",
+    "/media/mnoh05/20250111_113550-large.jpeg",
+    "/media/mnoh05/20250111_113521-large.jpeg",
+    "/media/mnoh05/20250111_113510-large.jpeg",
+    "/media/mnoh05/20250111_113458-large.jpeg",
+    "/media/mnoh05/20250111_113453-large.jpeg",
+    "/media/mnoh05/20250111_113434-large.jpeg",
+    "/media/mnoh05/20250111_113430-large.jpeg",
+    "/media/mnoh05/20250111_113339-large.jpeg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство",
+      "техничка"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH05",
+  "order": 92,
+  "photo": "/media/mnoh05/20250111_113638-large.jpeg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8019816,41.1117614]}",
     "address": {
@@ -18,32 +57,5 @@
     },
     "protectionStatus": {},
     "architect": "Димитар Симонче"
-  },
-  "order": 92,
-  "code": "MNOH05",
-  "dateInspection": "11.01.2025",
-  "inspectionBy": "Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnoh05/20250111_113638-large.jpeg",
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "историскa",
-      "авторство",
-      "техничка"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
   }
 }

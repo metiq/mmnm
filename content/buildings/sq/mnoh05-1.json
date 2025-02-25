@@ -6,11 +6,18 @@
     },
     "originalPurpose": {
       "type": [
-        "индивидуален станбен"
+        "индивидуален станбен",
+        "колективен станбен"
       ]
     },
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {},
+    "architect": "Димитар Симонче"
   },
   "order": 92,
   "code": "MNOH05",

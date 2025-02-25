@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "address": {
+      "city": "Прилеп"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 98,
+  "code": "MNPP02",
+  "dateInspection": "26.01.2025",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnpp02/mnp98j-0.25x.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "емотивна",
+      "архитектонска и естетска"
+    ]
+  }
+}

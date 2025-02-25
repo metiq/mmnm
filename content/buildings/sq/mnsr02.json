@@ -1,4 +1,43 @@
 {
+  "photos": [
+    "/media/mnsr02/465028422_9035690456464221_6211136171475173127_n.jpg",
+    "/media/mnsr02/465011253_9023897950976805_3144022572248756419_n.jpg",
+    "/media/mnsr02/458130535_8585535788146359_5371611147594545667_n.jpg",
+    "/media/mnsr02/428603641_926952778800584_4576066801858197607_n.jpg",
+    "/media/mnsr02/426093829_918626076299921_440651911595785301_n.jpg",
+    "/media/mnsr02/296022823_592071828955349_1565736962263102843_n.jpg",
+    "/media/mnsr02/92388835_3162819727084686_5000802371748495360_n.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "03.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "многу лоша"
+      }
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSR02",
+  "order": 65,
+  "photo": "/media/mnsr02/c3c045de-3451-4a23-b518-e252314812f1.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.6373167,41.4371971]}",
     "address": {
@@ -16,15 +55,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 65,
-  "code": "MNSR02",
-  "dateInspection": "03.01.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsr02/c3c045de-3451-4a23-b518-e252314812f1.jpg",
-  "values": {
-    "name": [
-      "историскa"
-    ]
   }
 }

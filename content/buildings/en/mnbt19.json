@@ -1,0 +1,24 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "address": {
+      "city": "Битола"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 86,
+  "code": "MNBT19",
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "емотивна"
+    ]
+  }
+}

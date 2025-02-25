@@ -1,0 +1,40 @@
+{
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "number": "/",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH05",
+  "order": 93,
+  "photo": "/media/mnoh05/20250111_112800-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8032296,41.114004]}",
+    "buildingName": "Куќа на Савевци",
+    "address": {
+      "line": "Димитар Влахов 51",
+      "city": "Охрид",
+      "municipality": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {
+      "notes": "Нема заштитен статус, но се наоѓа на списокот на евидентирани објекти кои заслужуваат да бидат заштитени при НУ Завод и музеј Охрид"
+    }
+  },
+  "emb": "/",
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

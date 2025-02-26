@@ -4,7 +4,11 @@
     "address": {
       "city": "Битола"
     },
-    "originalPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
     "todayPurpose": {},
     "protectionStatus": {}
   },

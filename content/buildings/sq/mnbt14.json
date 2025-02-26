@@ -6,10 +6,14 @@
     },
     "originalPurpose": {
       "type": [
-        "индивидуален станбен"
+        "колективен станбен"
       ]
     },
-    "todayPurpose": {},
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 81,

@@ -31,5 +31,19 @@
       "општествена / социјална",
       "емотивна"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

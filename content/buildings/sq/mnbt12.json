@@ -4,9 +4,19 @@
     "address": {
       "city": "Битола"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "originalPurpose": {
+      "type": [
+        "друго"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "order": 79,
   "code": "MNBT12",

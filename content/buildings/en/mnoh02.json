@@ -1,7 +1,7 @@
 {
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
-    "architect": "",
+    "architect": "Ѓорѓи Ѓурчинов",
     "address": {
       "city": "Охрид"
     },
@@ -30,5 +30,14 @@
       "архитектонска и естетска",
       "авторство"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnoh02/gurcinovi-stara-dokumentacija-large.jpeg",
+    "/media/mnoh02/20250111_115141-large.jpeg",
+    "/media/mnoh02/20250111_115241-large.jpeg",
+    "/media/mnoh02/20250111_115255-large.jpeg",
+    "/media/mnoh02/20250111_115346-large.jpeg",
+    "/media/mnoh02/20250111_115433-large.jpeg",
+    "/media/mnoh02/20250111_115444-large.jpeg"
+  ]
 }

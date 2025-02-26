@@ -1,4 +1,13 @@
 {
+  "photos": [
+    "/media/mnoh02/gurcinovi-stara-dokumentacija-large.jpeg",
+    "/media/mnoh02/20250111_115141-large.jpeg",
+    "/media/mnoh02/20250111_115241-large.jpeg",
+    "/media/mnoh02/20250111_115255-large.jpeg",
+    "/media/mnoh02/20250111_115346-large.jpeg",
+    "/media/mnoh02/20250111_115433-large.jpeg",
+    "/media/mnoh02/20250111_115444-large.jpeg"
+  ],
   "values": {
     "name": [
       "историскa",
@@ -6,39 +15,42 @@
       "авторство"
     ]
   },
+  "bibliography": "Елаборат за ревалоризација на куќата на кеј „Маршал Тито“ бр. 3 во Охрид (НУ Завод и Музеј Охрид)\n\nhttps://mk.wikipedia.org/wiki/%D0%9A%D1%83%D1%9C%D0%B0_%D0%BD%D0%B0_%D0%83%D1%83%D1%80%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8",
   "dateInspection": "11.01.2025",
-  "number": "14-1269/2",
+  "number": "14-1269/2 од 1989",
   "inspectionBy": "Мартина Штериова, Иво Лазароски",
   "code": "MNOH02",
   "order": 89,
   "photo": "/media/mnoh02/20250111_115124-large.jpeg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
-    "buildingName": "Куќа на Ѓурчинови",
+    "protectionStatus": {
+      "isProtected": true,
+      "notes": "Заштитена со Решение бр. 14-1269/2 и ЕМБ: 4-819-038/071 Р НД"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ],
+      "notes": "Семејна куќа на Ѓурчинови"
+    },
     "dateBuilt": "1930",
-    "architect": "",
     "address": {
       "line": "Кеј Македонија 3",
       "city": "Охрид",
       "municipality": "Охрид"
     },
-    "originalPurpose": {
-      "type": [
-        "индивидуален станбен"
-      ]
-    },
+    "architect": "Ѓорѓи Ѓурчинов",
+    "investorOrOwner": "Ѓорѓи Ѓурчинов (град. инг.)",
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
     "todayPurpose": {
       "type": [
         "индивидуален станбен"
       ]
     },
-    "protectionStatus": {
-      "isProtected": true,
-      "notes": "Заштитена со Решение бр. 14-1269/2 и ЕМБ: 4-819-038/071 Р НД"
-    }
+    "buildingName": "Куќа на Ѓурчинови"
   },
   "emb": "4-819-038/071 р нд ",
   "originalData": {
-    "generalDescription": "1"
+    "generalDescription": "Куќата "
   }
 }

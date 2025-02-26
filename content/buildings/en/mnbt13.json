@@ -1,4 +1,33 @@
 {
+  "photos": [
+    "/media/mnbt13/мнб080-3.jpg",
+    "/media/mnbt13/мнб080-7.jpg",
+    "/media/mnbt13/мнб080-6.jpg",
+    "/media/mnbt13/мнб080-1.jpg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "техничка"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT13",
+  "order": 80,
+  "photo": "/media/mnbt13/mnb080j-0.25x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3346179,41.024589]}",
     "address": {
@@ -16,22 +45,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 80,
-  "code": "MNBT13",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt13/mnb080j-0.25x.jpg",
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "техничка"
-    ]
-  },
-  "photos": [
-    "/media/mnbt13/мнб080-3.jpg",
-    "/media/mnbt13/мнб080-7.jpg",
-    "/media/mnbt13/мнб080-6.jpg",
-    "/media/mnbt13/мнб080-1.jpg"
-  ]
+  }
 }

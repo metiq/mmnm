@@ -11,7 +11,8 @@
     },
     "todayPurpose": {
       "type": [
-        "индивидуален станбен"
+        "индивидуален станбен",
+        "комерцијален/деловен"
       ]
     },
     "protectionStatus": {},
@@ -20,7 +21,7 @@
   "order": 78,
   "code": "MNBT11",
   "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "inspectionBy": "Тим 3",
   "photo": "/media/mnbt11/mnb078j-0.25x.jpg",
   "values": {
     "name": [

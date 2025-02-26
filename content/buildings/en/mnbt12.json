@@ -1,4 +1,40 @@
 {
+  "photos": [
+    "/media/mnbt12/мнб079-25.jpg",
+    "/media/mnbt12/мнб079-23.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT12",
+  "order": 79,
+  "photo": "/media/mnbt12/mnb079j2-0.33x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3314839,41.0319381]}",
     "address": {
@@ -16,38 +52,6 @@
     },
     "protectionStatus": {
       "isProtected": true
-    }
-  },
-  "order": 79,
-  "code": "MNBT12",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt12/mnb079j2-0.33x.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "техничка",
-      "општествена / социјална",
-      "емотивна"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
     }
   }
 }

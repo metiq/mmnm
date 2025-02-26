@@ -21,7 +21,9 @@
   },
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "катастрофална"
+      },
       "interior": {}
     },
     "authenticity": {

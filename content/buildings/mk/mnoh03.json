@@ -1,0 +1,43 @@
+{
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "number": "/",
+  "inspectionBy": "Мартина Штериова, Иво Лазароски",
+  "code": "MNOH03",
+  "order": 90,
+  "photo": "/media/mnoh03/20250111_124452-large.jpeg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.7998769,41.1142511]}",
+    "buildingName": "Куќа на Метулеви",
+    "dateBuilt": "1936",
+    "address": {
+      "line": "Аргир Маринчев бр. 2",
+      "city": "Охрид",
+      "municipality": "Охрид"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ],
+      "notes": ""
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {
+      "notes": "Нема заштитен статус, но се наоѓа на списокот на евидентирани објекти кои заслужуваат да бидат заштитени при НУ Завод и музеј Охрид"
+    }
+  },
+  "emb": "/",
+  "originalData": {
+    "generalDescription": "1"
+  }
+}

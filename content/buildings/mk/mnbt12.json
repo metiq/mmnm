@@ -1,20 +1,4 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3314839,41.0319381]}",
-    "buildingName": "Објект на Собранието на Општина Битола",
-    "address": {
-      "line": "ул. „Кирил и Методиј“ бр.6 / бул. „1ви Мај“",
-      "city": "Битола"
-    }
-  },
-  "order": 79,
-  "code": "MNBT12",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt12/mnb079j2-0.33x.jpg",
-  "originalData": {
-    "generalDescription": "Објектот на Собранието на Општина Битола се наоѓа на бул. 1ви Мај / "
-  },
   "values": {
     "name": [
       "историскa",
@@ -23,5 +7,22 @@
       "општествена / социјална",
       "емотивна"
     ]
+  },
+  "dateInspection": "15.12.2024",
+  "number": "906/1 Од 05.12.1977, ЗЗСК, Битола",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "code": "MNBT12",
+  "order": 79,
+  "photo": "/media/mnbt12/mnb079j2-0.33x.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3314839,41.0319381]}",
+    "buildingName": "Објект на Собранието на Општина Битола",
+    "address": {
+      "line": "ул. „Кирил и Методиј“ бр.6 / бул. „1ви Мај“",
+      "city": "Битола"
+    }
+  },
+  "originalData": {
+    "generalDescription": "Објектот на Собранието на Општина Битола се наоѓа на бул. 1ви Мај / "
   }
 }

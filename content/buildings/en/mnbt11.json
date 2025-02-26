@@ -22,13 +22,21 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "катастрофална"
+        "condition": "многу лоша"
       },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "катастрофална"
+      },
       "interior": {}
     }
+  },
+  "values": {
+    "name": [
+      "авторство",
+      "емотивна"
+    ]
   }
 }

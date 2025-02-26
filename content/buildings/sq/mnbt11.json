@@ -25,20 +25,21 @@
   "photo": "/media/mnbt11/mnb078j-0.25x.jpg",
   "values": {
     "name": [
-      "архитектонска и естетска",
-      "историскa",
-      "авторство"
+      "авторство",
+      "емотивна"
     ]
   },
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "катастрофална"
+        "condition": "многу лоша"
       },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "катастрофална"
+      },
       "interior": {}
     }
   }

@@ -9,6 +9,16 @@
     ]
   },
   "dateInspection": "14.12.2024",
+  "currentData": {
+    "authenticity": {
+      "interior": {
+        "notes": "Недостапно"
+      },
+      "exterior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
   "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
   "code": "MNBT14",
   "order": 81,

@@ -29,5 +29,15 @@
       "историскa",
       "авторство"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

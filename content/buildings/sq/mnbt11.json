@@ -1,4 +1,36 @@
 {
+  "photos": [
+    "/media/mnbt11/screenshot_20240325_205141.jpg",
+    "/media/mnbt11/мнб078-9.jpg",
+    "/media/mnbt11/мнб078-7.jpg",
+    "/media/mnbt11/мнб078-10.jpg",
+    "/media/mnbt11/мнб078-11.jpg"
+  ],
+  "values": {
+    "name": [
+      "авторство",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT11",
+  "order": 78,
+  "photo": "/media/mnbt11/mnb078j-0.25x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3214593,41.0321922]}",
     "address": {
@@ -17,30 +49,5 @@
     },
     "protectionStatus": {},
     "architect": ""
-  },
-  "order": 78,
-  "code": "MNBT11",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt11/mnb078j-0.25x.jpg",
-  "values": {
-    "name": [
-      "авторство",
-      "емотивна"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "многу лоша"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "катастрофална"
-      },
-      "interior": {}
-    }
   }
 }

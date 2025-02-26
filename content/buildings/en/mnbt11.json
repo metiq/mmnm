@@ -38,5 +38,12 @@
       "авторство",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnbt11/screenshot_20240325_205141.jpg",
+    "/media/mnbt11/мнб078-9.jpg",
+    "/media/mnbt11/мнб078-7.jpg",
+    "/media/mnbt11/мнб078-10.jpg",
+    "/media/mnbt11/мнб078-11.jpg"
+  ]
 }

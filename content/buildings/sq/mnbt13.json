@@ -8,20 +8,22 @@
   "values": {
     "name": [
       "архитектонска и естетска",
-      "техничка"
+      "историскa"
     ]
   },
   "dateInspection": "15.12.2024",
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": null
+      }
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "задоволителна"
       },
       "interior": {}
     }

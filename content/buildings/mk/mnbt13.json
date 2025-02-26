@@ -8,7 +8,7 @@
   "values": {
     "name": [
       "архитектонска и естетска",
-      "техничка"
+      "историскa"
     ]
   },
   "dateInspection": "15.12.2024",
@@ -26,20 +26,27 @@
     },
     "physicalCondition": {
       "exterior": {
-        "condition": "многу лоша",
+        "condition": "задоволителна",
         "notes": "Неунифицирана столарија и фасадна обработка. Делумно запуштена фасада и партер."
+      },
+      "interior": {
+        "condition": null
       }
     },
     "modifications": "Промена на фасадна столарија, промена на фасадна обработка и боја. ",
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "notes": "Недостапно"
       }
     }
   },
   "inspectionBy": "Тим 3",
   "code": "MNBT13",
   "order": 80,
+  "suggestions": "Стандардна реконструкција за одржување од дотраеност",
   "photo": "/media/mnbt13/mnb080j-0.25x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3346179,41.024589]}",

@@ -1,20 +1,4 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3322031,41.0287169]}",
-    "address": {
-      "line": "ул. Белградска бр. 29",
-      "city": "Битола"
-    },
-    "buildingName": "Станбен објект на ул. Белградска бр. 29"
-  },
-  "order": 81,
-  "code": "MNBT14",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
-  "photo": "/media/mnbt14/mnb081j-0.25x.jpg",
-  "originalData": {
-    "generalDescription": "Станбениот објект се наоѓа на ул. Белградска бр. 29"
-  },
   "values": {
     "name": [
       "архитектонска и естетска",
@@ -22,5 +6,23 @@
       "емотивна",
       "историскa"
     ]
+  },
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "code": "MNBT14",
+  "order": 81,
+  "suggestions": "Стандардна реконструкција за одржување од дотраеност.",
+  "photo": "/media/mnbt14/mnb081j-0.25x.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3322031,41.0287169]}",
+    "address": {
+      "line": "ул. Белградска бр. 29",
+      "city": "Битола",
+      "municipality": "Битола"
+    },
+    "buildingName": "Станбен објект на ул. Белградска бр. 29"
+  },
+  "originalData": {
+    "generalDescription": "Станбениот објект се наоѓа на ул. Белградска бр. 29"
   }
 }

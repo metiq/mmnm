@@ -44,6 +44,15 @@
     "generalDescription": "Станбениот објект се наоѓа на аголот на ул. Вардарска и ул. Мирко и Танче Живкови. Доста разиграна форма со дел заоблена фасада и нивелација на кровови.",
     "floors": "Су+П+1+Пк",
     "programDescription": "Домување по сите катови",
-    "structureDescription": ""
+    "structureDescription": "",
+    "materiality": {
+      "exterior": {
+        "roof": "Повеќеводен кров на дрвена конструкција покриена со ќерамиди",
+        "facade": "Малтер"
+      },
+      "interior": {
+        "privateContent": ""
+      }
+    }
   }
 }

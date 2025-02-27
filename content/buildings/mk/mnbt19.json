@@ -1,20 +1,12 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",
-    "buildingName": "Станбен објект на ул. Козара",
-    "address": {
-      "line": "ул. Козара",
-      "city": "Битола"
-    }
-  },
-  "order": 86,
-  "code": "MNBT19",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
-  "originalData": {
-    "generalDescription": "Станбениот објект се наоѓа на ул. Козара"
-  },
+  "photos": [
+    "/media/mnbt19/image001.jpg",
+    "/media/mnbt19/image004.jpg",
+    "/media/mnbt19/image006.jpg",
+    "/media/mnbt19/image002.jpg",
+    "/media/mnbt19/image003.jpg",
+    "/media/mnbt19/image005.jpg"
+  ],
   "values": {
     "name": [
       "историскa",
@@ -22,5 +14,27 @@
       "техничка",
       "емотивна"
     ]
+  },
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Тим 3",
+  "code": "MNBT19",
+  "order": 86,
+  "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",
+    "buildingName": "Станбен објект на ул. Козара",
+    "address": {
+      "line": "ул. Козара",
+      "city": "Битола",
+      "municipality": "Битола"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    }
+  },
+  "originalData": {
+    "generalDescription": "Станбениот објект се наоѓа на ул. Козара"
   }
 }

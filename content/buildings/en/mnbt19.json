@@ -4,7 +4,11 @@
     "address": {
       "city": "Битола"
     },
-    "originalPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
     "todayPurpose": {},
     "protectionStatus": {}
   },
@@ -20,5 +24,13 @@
       "техничка",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnbt19/image001.jpg",
+    "/media/mnbt19/image004.jpg",
+    "/media/mnbt19/image006.jpg",
+    "/media/mnbt19/image002.jpg",
+    "/media/mnbt19/image003.jpg",
+    "/media/mnbt19/image005.jpg"
+  ]
 }

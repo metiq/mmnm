@@ -1,4 +1,25 @@
 {
+  "photos": [
+    "/media/mnbt20/image007.jpg",
+    "/media/mnbt20/image006.jpg",
+    "/media/mnbt20/image005.jpg",
+    "/media/mnbt20/image004.jpg",
+    "/media/mnbt20/image001.jpg",
+    "/media/mnbt20/image003.jpg",
+    "/media/mnbt20/image002.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Тим 3",
+  "code": "MNBT20",
+  "order": 87,
+  "photo": "/media/mnbt20/mnb087j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.338703,41.0260413]}",
     "buildingName": "Куќа на Гагачеви",
@@ -19,19 +40,7 @@
       ]
     }
   },
-  "order": 87,
-  "code": "MNBT20",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt20/mnb087j-0.3x.jpg",
   "originalData": {
     "generalDescription": "Станбениот објект се наоѓа на ул. Вардарска бр. 14"
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "емотивна"
-    ]
   }
 }

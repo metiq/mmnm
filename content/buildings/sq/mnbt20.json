@@ -27,5 +27,14 @@
       "архитектонска и естетска",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnbt20/image007.jpg",
+    "/media/mnbt20/image006.jpg",
+    "/media/mnbt20/image005.jpg",
+    "/media/mnbt20/image004.jpg",
+    "/media/mnbt20/image001.jpg",
+    "/media/mnbt20/image003.jpg",
+    "/media/mnbt20/image002.jpg"
+  ]
 }

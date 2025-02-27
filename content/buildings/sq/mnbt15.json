@@ -1,4 +1,27 @@
 {
+  "photos": [
+    "/media/mnbt15/mnb082j-0.3x.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT15",
+  "order": 82,
+  "photo": "/media/mnbt15/mnb082j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3308808,41.0289652]}",
     "address": {
@@ -15,18 +38,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 82,
-  "code": "MNBT15",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt15/mnb082j-0.3x.jpg",
-  "values": {
-    "name": [
-      "историскa"
-    ]
-  },
-  "photos": [
-    "/media/mnbt15/mnb082j-0.3x.jpg"
-  ]
+  }
 }

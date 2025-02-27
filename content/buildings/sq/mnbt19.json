@@ -1,4 +1,35 @@
 {
+  "photos": [
+    "/media/mnbt19/image001.jpg",
+    "/media/mnbt19/image004.jpg",
+    "/media/mnbt19/image006.jpg",
+    "/media/mnbt19/image002.jpg",
+    "/media/mnbt19/image003.jpg",
+    "/media/mnbt19/image005.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT19",
+  "order": 86,
+  "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",
     "address": {
@@ -15,26 +46,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 86,
-  "code": "MNBT19",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "техничка",
-      "емотивна"
-    ]
-  },
-  "photos": [
-    "/media/mnbt19/image001.jpg",
-    "/media/mnbt19/image004.jpg",
-    "/media/mnbt19/image006.jpg",
-    "/media/mnbt19/image002.jpg",
-    "/media/mnbt19/image003.jpg",
-    "/media/mnbt19/image005.jpg"
-  ]
+  }
 }

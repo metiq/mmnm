@@ -7,7 +7,17 @@
       "city": "Битола",
       "municipality": "Битола"
     },
-    "investorOrOwner": "Фамилија Гагачеви"
+    "investorOrOwner": "Фамилија Гагачеви",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    }
   },
   "order": 87,
   "code": "MNBT20",

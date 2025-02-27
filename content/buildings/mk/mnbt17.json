@@ -4,7 +4,7 @@
   ],
   "values": {
     "name": [
-      "емотивна",
+      "историскa",
       "архитектонска и естетска"
     ]
   },
@@ -45,6 +45,7 @@
   "inspectionBy": "Тим 3",
   "code": "MNBT17",
   "order": 84,
+  "suggestions": "Стандардна реконструкција за одржување од дотраеност",
   "photo": "/media/mnbt17/mnb084j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.334792,41.0286039]}",

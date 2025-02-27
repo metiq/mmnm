@@ -29,5 +29,11 @@
       "техничка",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnoh04/image001.jpg",
+    "/media/mnoh04/image004.jpg",
+    "/media/mnoh04/image002.jpg",
+    "/media/mnoh04/image003.jpg"
+  ]
 }

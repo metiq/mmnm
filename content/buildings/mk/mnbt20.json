@@ -4,8 +4,10 @@
     "buildingName": "Куќа на Гагачеви",
     "address": {
       "line": "ул. Вардарска бр. 14",
-      "city": "Битола"
-    }
+      "city": "Битола",
+      "municipality": "Битола"
+    },
+    "investorOrOwner": "Фамилија Гагачеви"
   },
   "order": 87,
   "code": "MNBT20",

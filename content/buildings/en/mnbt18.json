@@ -27,5 +27,15 @@
       "архитектонска и естетска",
       "емотивна"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

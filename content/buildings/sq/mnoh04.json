@@ -16,7 +16,9 @@
   "dateInspection": "11.01.2025",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "задоволителна"
+      },
       "interior": {}
     },
     "authenticity": {

@@ -9,7 +9,12 @@
         "индивидуален станбен"
       ]
     },
-    "todayPurpose": {},
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "друго"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 83,

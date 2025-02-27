@@ -11,18 +11,21 @@
   "values": {
     "name": [
       "историскa",
-      "архитектонска и естетска",
-      "емотивна"
+      "архитектонска и естетска"
     ]
   },
   "dateInspection": "14.12.2024",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "задоволителна"
+      },
       "interior": {}
     }
   },

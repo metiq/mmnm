@@ -1,4 +1,33 @@
 {
+  "photos": [
+    "/media/mnoh04/image001.jpg",
+    "/media/mnoh04/image004.jpg",
+    "/media/mnoh04/image002.jpg",
+    "/media/mnoh04/image003.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3 ",
+  "code": "MNOH04",
+  "order": 91,
+  "photo": "/media/mnoh04/91мнох04.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8002376,41.1153485]}",
     "address": {
@@ -17,24 +46,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 91,
-  "code": "MNOH04",
-  "dateInspection": "11.01.2025",
-  "inspectionBy": "Тим 3 ",
-  "photo": "/media/mnoh04/91мнох04.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "техничка",
-      "емотивна"
-    ]
-  },
-  "photos": [
-    "/media/mnoh04/image001.jpg",
-    "/media/mnoh04/image004.jpg",
-    "/media/mnoh04/image002.jpg",
-    "/media/mnoh04/image003.jpg"
-  ]
+  }
 }

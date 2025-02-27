@@ -13,7 +13,8 @@
       "архитектонска и естетска",
       "техничка",
       "емотивна"
-    ]
+    ],
+    "dateBuilt": ""
   },
   "dateInspection": "15.12.2024",
   "currentData": {
@@ -51,6 +52,7 @@
   "inspectionBy": "Тим 3",
   "code": "MNBT19",
   "order": 86,
+  "suggestions": "Да се направи реконструкција и рушење на доградените делови со цел да се доведе во добра автентична состојба",
   "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",

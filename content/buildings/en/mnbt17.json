@@ -4,8 +4,16 @@
     "address": {
       "city": "Битола"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 84,

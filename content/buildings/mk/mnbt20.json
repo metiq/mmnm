@@ -42,6 +42,8 @@
   },
   "originalData": {
     "generalDescription": "Станбениот објект се наоѓа на аголот на ул. Вардарска и ул. Мирко и Танче Живкови. ",
-    "floors": "Су+П+1+Пк"
+    "floors": "Су+П+1+Пк",
+    "programDescription": "Домување по сите катови",
+    "structureDescription": ""
   }
 }

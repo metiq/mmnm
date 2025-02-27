@@ -1,4 +1,18 @@
 {
+  "photos": [
+    "/media/mnbt15/mnb082j-0.3x.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "inspectionBy": "Тим 3",
+  "code": "MNBT15",
+  "order": 82,
+  "suggestions": "Стандардна реставрација и реконструкција за одржување од дотраеност. Дополнителна проценка за враќање на приближно автентичниот изглед на куќата, бидејќи очигледно се направени промени во голема мера.",
+  "photo": "/media/mnbt15/mnb082j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3308808,41.0289652]}",
     "buildingName": "Станбен објект на ул. Белградска бр. 32",
@@ -18,17 +32,7 @@
       ]
     }
   },
-  "order": 82,
-  "code": "MNBT15",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt15/mnb082j-0.3x.jpg",
   "originalData": {
     "generalDescription": "Станбениот објект се наоѓа на ул. Белградска бр. 32"
-  },
-  "values": {
-    "name": [
-      "емотивна"
-    ]
   }
 }

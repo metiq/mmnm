@@ -1,4 +1,18 @@
 {
+  "photos": [
+    "/media/mnbt17/mnb084j-0.3x.jpg"
+  ],
+  "values": {
+    "name": [
+      "емотивна",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "inspectionBy": "Тим 3",
+  "code": "MNBT17",
+  "order": 84,
+  "photo": "/media/mnbt17/mnb084j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.334792,41.0286039]}",
     "buildingName": "Станбен објект на ул. Ленинова бр. 18",
@@ -7,18 +21,7 @@
       "city": "Битола"
     }
   },
-  "order": 84,
-  "code": "MNBT17",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt17/mnb084j-0.3x.jpg",
   "originalData": {
     "generalDescription": "Станбен објект на ул. Ленинова бр. 18"
-  },
-  "values": {
-    "name": [
-      "емотивна",
-      "архитектонска и естетска"
-    ]
   }
 }

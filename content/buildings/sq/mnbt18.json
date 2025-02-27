@@ -1,4 +1,33 @@
 {
+  "photos": [
+    "/media/mnbt18/image001.jpg",
+    "/media/mnbt18/image008.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "15.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNBT18",
+  "order": 85,
+  "photo": "/media/mnbt18/mnb085j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3363995,41.0336798]}",
     "address": {
@@ -15,30 +44,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 85,
-  "code": "MNBT18",
-  "dateInspection": "15.12.2024",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnbt18/mnb085j-0.3x.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
   }
 }

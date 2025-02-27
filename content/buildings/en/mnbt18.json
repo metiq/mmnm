@@ -24,17 +24,20 @@
   "values": {
     "name": [
       "историскa",
-      "архитектонска и естетска",
-      "емотивна"
+      "архитектонска и естетска"
     ]
   },
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "задоволителна"
+      },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "задоволителна"
+      },
       "interior": {}
     }
   }

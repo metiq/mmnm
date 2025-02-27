@@ -28,7 +28,12 @@
     },
     "physicalCondition": {
       "exterior": {
-        "condition": "задоволителна"
+        "condition": "добра",
+        "notes": "Објектот е генерално во добра состојба и физички тековно одржуван"
+      },
+      "interior": {
+        "condition": null,
+        "notes": ""
       }
     }
   },

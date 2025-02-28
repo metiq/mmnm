@@ -9,7 +9,11 @@
         "друго"
       ]
     },
-    "todayPurpose": {},
+    "todayPurpose": {
+      "type": [
+        "друго"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 97,

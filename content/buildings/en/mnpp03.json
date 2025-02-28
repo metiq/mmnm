@@ -31,5 +31,16 @@
       "општествена / социјална",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnpp03/image009.jpg",
+    "/media/mnpp03/image007.jpg",
+    "/media/mnpp03/image008.jpg",
+    "/media/mnpp03/image001.jpg",
+    "/media/mnpp03/image002.jpg",
+    "/media/mnpp03/image003.jpg",
+    "/media/mnpp03/image004.jpg",
+    "/media/mnpp03/image005.jpg",
+    "/media/mnpp03/image006.jpg"
+  ]
 }

@@ -1,4 +1,30 @@
 {
+  "photos": [
+    "/media/mnpp03/image009.jpg",
+    "/media/mnpp03/image007.jpg",
+    "/media/mnpp03/image008.jpg",
+    "/media/mnpp03/image001.jpg",
+    "/media/mnpp03/image002.jpg",
+    "/media/mnpp03/image003.jpg",
+    "/media/mnpp03/image004.jpg",
+    "/media/mnpp03/image005.jpg",
+    "/media/mnpp03/image006.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска",
+      "техничка",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "inspectionBy": "Тим 3",
+  "code": "MNPP03",
+  "order": 99,
+  "photo": "/media/mnpp03/mnp099j-0.25x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5143308,41.366587]}",
     "buildingName": "Научен институт за тутун - Прилеп",
@@ -20,22 +46,7 @@
       ]
     }
   },
-  "order": 99,
-  "code": "MNPP03",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnpp03/mnp099j-0.25x.jpg",
   "originalData": {
     "generalDescription": "Институтот за тутун во Прилеп е научен институт во областа на тутунопроизводството. Претставува членка на универзитетот „Св. Климент Охридски“."
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "авторство",
-      "архитектонска и естетска",
-      "техничка",
-      "општествена / социјална",
-      "емотивна"
-    ]
   }
 }

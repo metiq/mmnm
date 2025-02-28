@@ -19,7 +19,9 @@
       "exterior": {
         "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": "катастрофална"
+      }
     },
     "authenticity": {
       "exterior": {

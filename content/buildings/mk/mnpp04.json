@@ -28,6 +28,22 @@
     ]
   },
   "dateInspection": "26.01.2025",
+  "currentData": {
+    "materiality": {
+      "exterior": {
+        "roof": "Рамна тераса и повеќеводен кров со ќерамиди",
+        "facade": "Малтер",
+        "carpentry": "Дрвена, на некои места дрвената е заменета со пвц столарија",
+        "parterre": "Поплочен двор со камени плочи и цемент, зеленило"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "катастрофална",
+        "notes": "Фасадната обработка е обрушена "
+      }
+    }
+  },
   "inspectionBy": "Тим 3",
   "code": "MNPP04",
   "order": 100,

@@ -1,34 +1,4 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5557749,41.3407052]}",
-    "address": {
-      "city": "Прилеп"
-    },
-    "originalPurpose": {
-      "type": [
-        "индивидуален станбен"
-      ]
-    },
-    "todayPurpose": {
-      "type": [
-        "индивидуален станбен"
-      ]
-    },
-    "protectionStatus": {}
-  },
-  "order": 100,
-  "code": "MNPP04",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnpp04/mnp100j-0.33x.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "техничка",
-      "емотивна"
-    ]
-  },
   "photos": [
     "/media/mnpp04/image012.jpg",
     "/media/mnpp04/image006.jpg",
@@ -48,5 +18,47 @@
     "/media/mnpp04/image016.jpg",
     "/media/mnpp04/image017.jpg",
     "/media/mnpp04/image018.jpg"
-  ]
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNPP04",
+  "order": 100,
+  "photo": "/media/mnpp04/mnp100j-0.33x.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5557749,41.3407052]}",
+    "address": {
+      "city": "Прилеп"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  }
 }

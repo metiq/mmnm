@@ -4,8 +4,15 @@
     "address": {
       "city": "Прилеп"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": null
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 102,

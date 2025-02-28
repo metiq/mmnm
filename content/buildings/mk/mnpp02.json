@@ -19,6 +19,36 @@
     ]
   },
   "dateInspection": "26.01.2025",
+  "currentData": {
+    "materiality": {
+      "exterior": {
+        "roof": "Кровна тераса и кров со ќерамиди",
+        "facade": "Малтер",
+        "carpentry": "Дрвена"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "катастрофална",
+        "notes": "Обрушен и запуштен"
+      },
+      "interior": {
+        "condition": "катастрофална",
+        "notes": "Обрушен и запуштен"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "катастрофална",
+        "notes": "Обрушен и запуштен"
+      },
+      "interior": {
+        "condition": "катастрофална",
+        "notes": "Обрушен и запуштен"
+      }
+    }
+  },
+  "risks": "Комплетно обрушување и распаѓање",
   "inspectionBy": "Тим 3",
   "code": "MNPP02",
   "order": 98,
@@ -41,6 +71,16 @@
     }
   },
   "originalData": {
-    "generalDescription": "Некогашниот станбен објект се наоѓа на ул. Методија Шаторов-Шарло. "
+    "generalDescription": "Некогашниот станбен објект се наоѓа на ул. Методија Шаторов-Шарло. ",
+    "floors": "Су+П+1",
+    "structureDescription": "Полна тула",
+    "materiality": {
+      "exterior": {
+        "roof": "Кровна тераса и кров со ќерамиди",
+        "facade": "Малтер",
+        "carpentry": "Дрвена"
+      }
+    },
+    "context": "Објектот се наоѓа во централното подрачје на градот"
   }
 }

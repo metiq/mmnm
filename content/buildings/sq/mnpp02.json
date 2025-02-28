@@ -23,5 +23,17 @@
       "емотивна",
       "архитектонска и естетска"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnpp02/image002.jpg",
+    "/media/mnpp02/image010.jpg",
+    "/media/mnpp02/image003.jpg",
+    "/media/mnpp02/image009.jpg",
+    "/media/mnpp02/image007.jpg",
+    "/media/mnpp02/image006.jpg",
+    "/media/mnpp02/image005.jpg",
+    "/media/mnpp02/image004.jpg",
+    "/media/mnpp02/image008.jpg",
+    "/media/mnpp02/image001.jpg"
+  ]
 }

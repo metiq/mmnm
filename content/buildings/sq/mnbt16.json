@@ -17,7 +17,7 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": null
+        "condition": "задоволителна"
       },
       "interior": {}
     },
@@ -45,7 +45,7 @@
     "todayPurpose": {
       "type": [
         "индивидуален станбен",
-        "друго"
+        "комерцијален/деловен"
       ]
     },
     "protectionStatus": {}

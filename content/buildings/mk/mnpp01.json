@@ -5,7 +5,8 @@
     "dateBuilt": "1924",
     "address": {
       "line": "ул. Борка Талески бр. 64",
-      "city": "Прилеп"
+      "city": "Прилеп",
+      "municipality": "Прилеп"
     },
     "originalPurpose": {
       "type": null

@@ -27,7 +27,9 @@
       "exterior": {
         "condition": "катастрофална"
       },
-      "interior": {}
+      "interior": {
+        "condition": "катастрофална"
+      }
     }
   },
   "inspectionBy": "Тим 3",

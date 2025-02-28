@@ -4,14 +4,23 @@
     "address": {
       "city": "Прилеп"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {},
+    "architect": ""
   },
   "order": 99,
   "code": "MNPP03",
   "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3 - Мартина Штериова, Иво Лазароски",
+  "inspectionBy": "Тим 3",
   "photo": "/media/mnpp03/mnp099j-0.25x.jpg",
   "values": {
     "name": [

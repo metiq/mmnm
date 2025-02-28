@@ -1,36 +1,4 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5546357,41.3435154]}",
-    "address": {
-      "city": "Прилеп"
-    },
-    "originalPurpose": {
-      "type": [
-        "јавен"
-      ]
-    },
-    "todayPurpose": {
-      "type": [
-        "јавен"
-      ]
-    },
-    "protectionStatus": {}
-  },
-  "order": 97,
-  "code": "MNPP01",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "авторство",
-      "техничка",
-      "општествена / социјална",
-      "емотивна"
-    ]
-  },
-  "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
   "photos": [
     "/media/mnpp01/image006.jpg",
     "/media/mnpp01/image005.jpg",
@@ -47,5 +15,47 @@
     "/media/mnpp01/image014.jpg",
     "/media/mnpp01/image002.jpg",
     "/media/mnpp01/viber_image_2025-02-28_13-17-31-758.jpg"
-  ]
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "техничка",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNPP01",
+  "order": 97,
+  "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5546357,41.3435154]}",
+    "address": {
+      "city": "Прилеп"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "protectionStatus": {}
+  }
 }

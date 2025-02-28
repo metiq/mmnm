@@ -24,7 +24,12 @@
       "exterior": {
         "roof": "Повеќеводен кров на дрвена конструкција покрена со ќерамиди",
         "facade": "Малтер",
-        "carpentry": "Дрвена, "
+        "carpentry": "Дрвена, пвц, алуминиум"
+      }
+    },
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
       }
     }
   },

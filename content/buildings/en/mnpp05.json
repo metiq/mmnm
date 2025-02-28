@@ -1,4 +1,42 @@
 {
+  "photos": [
+    "/media/mnpp05/image002.jpg",
+    "/media/mnpp05/image001.jpg",
+    "/media/mnpp05/image003.jpg",
+    "/media/mnpp05/image004.jpg",
+    "/media/mnpp05/image005.jpg",
+    "/media/mnpp05/image006.jpg",
+    "/media/mnpp05/image007.jpg",
+    "/media/mnpp05/image008.jpg",
+    "/media/mnpp05/image009.jpg",
+    "/media/mnpp05/image010.jpg",
+    "/media/mnpp05/image011.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 3",
+  "code": "MNPP05",
+  "order": 101,
+  "photo": "/media/mnpp05/mnp101j-0.33x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5549705,41.3429669]}",
     "address": {
@@ -16,30 +54,5 @@
       ]
     },
     "protectionStatus": {}
-  },
-  "order": 101,
-  "code": "MNPP05",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnpp05/mnp101j-0.33x.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  },
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "катастрофална"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "многу лоша"
-      },
-      "interior": {}
-    }
   }
 }

@@ -37,7 +37,9 @@
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "катастрофална"
+      },
       "interior": {}
     }
   }

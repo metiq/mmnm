@@ -5,7 +5,9 @@
       "city": "Прилеп"
     },
     "originalPurpose": {
-      "type": null
+      "type": [
+        "друго"
+      ]
     },
     "todayPurpose": {},
     "protectionStatus": {}

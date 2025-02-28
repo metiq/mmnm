@@ -4,7 +4,11 @@
     "address": {
       "city": "Прилеп"
     },
-    "originalPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
     "todayPurpose": {},
     "protectionStatus": {}
   },

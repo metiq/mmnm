@@ -1,4 +1,35 @@
 {
+  "photos": [
+    "/media/mnpp01/image006.jpg",
+    "/media/mnpp01/image005.jpg",
+    "/media/mnpp01/image012.jpg",
+    "/media/mnpp01/image013.jpg",
+    "/media/mnpp01/image011.jpg",
+    "/media/mnpp01/image004.jpg",
+    "/media/mnpp01/image010.jpg",
+    "/media/mnpp01/image009.jpg",
+    "/media/mnpp01/image007.jpg",
+    "/media/mnpp01/image008.jpg",
+    "/media/mnpp01/image001.jpg",
+    "/media/mnpp01/image003.jpg",
+    "/media/mnpp01/image014.jpg",
+    "/media/mnpp01/image002.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "техничка",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "inspectionBy": "Тим 3",
+  "code": "MNPP01",
+  "order": 97,
+  "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5546357,41.3435154]}",
     "buildingName": "Основно училиште „Кочо Рацин“",
@@ -25,10 +56,6 @@
     },
     "associates": []
   },
-  "order": 97,
-  "code": "MNPP01",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
   "originalData": {
     "generalDescription": "Во центарот на градот Прилеп, е некогашната единствена Нижа гимназија, а денеска централно современо осумгодишно основно општинско училиште „Кочо Рацин“. Училиштето е именувано по истакнатиот македонски поет Кочо Рацин. Автор на овој објект е архитект Димитрие М. Леко и е изграден во 1924 година. ",
     "timelineDescription": "Во 1924 год. е изграден.\nВо 1970 год. има Одобрение за препокривање на кровната конструкција.\nВо 1974 год. има Одобрение за прекопување  на дел од попречниот профил на ул.\"Борка Талески\" до цел приклучок во градска водоводна мрежа.",
@@ -42,16 +69,5 @@
         "carpentry": "Дрвена"
       }
     }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "авторство",
-      "техничка",
-      "општествена / социјална",
-      "емотивна"
-    ]
-  },
-  "photo": "/media/mnpp01/mnp97j-0.3x.jpg"
+  }
 }

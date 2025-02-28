@@ -30,5 +30,21 @@
       "емотивна"
     ]
   },
-  "photo": "/media/mnpp01/mnp97j-0.3x.jpg"
+  "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
+  "photos": [
+    "/media/mnpp01/image006.jpg",
+    "/media/mnpp01/image005.jpg",
+    "/media/mnpp01/image012.jpg",
+    "/media/mnpp01/image013.jpg",
+    "/media/mnpp01/image011.jpg",
+    "/media/mnpp01/image004.jpg",
+    "/media/mnpp01/image010.jpg",
+    "/media/mnpp01/image009.jpg",
+    "/media/mnpp01/image007.jpg",
+    "/media/mnpp01/image008.jpg",
+    "/media/mnpp01/image001.jpg",
+    "/media/mnpp01/image003.jpg",
+    "/media/mnpp01/image014.jpg",
+    "/media/mnpp01/image002.jpg"
+  ]
 }

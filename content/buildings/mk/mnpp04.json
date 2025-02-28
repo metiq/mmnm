@@ -1,4 +1,37 @@
 {
+  "photos": [
+    "/media/mnpp04/image012.jpg",
+    "/media/mnpp04/image006.jpg",
+    "/media/mnpp04/image013.jpg",
+    "/media/mnpp04/image001.jpg",
+    "/media/mnpp04/image002.jpg",
+    "/media/mnpp04/image003.jpg",
+    "/media/mnpp04/image004.jpg",
+    "/media/mnpp04/image005.jpg",
+    "/media/mnpp04/image008.jpg",
+    "/media/mnpp04/image007.jpg",
+    "/media/mnpp04/image009.jpg",
+    "/media/mnpp04/image010.jpg",
+    "/media/mnpp04/image011.jpg",
+    "/media/mnpp04/image014.jpg",
+    "/media/mnpp04/image015.jpg",
+    "/media/mnpp04/image016.jpg",
+    "/media/mnpp04/image017.jpg",
+    "/media/mnpp04/image018.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "техничка",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "26.01.2025",
+  "inspectionBy": "Тим 3",
+  "code": "MNPP04",
+  "order": 100,
+  "photo": "/media/mnpp04/mnp100j-0.33x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5557749,41.3407052]}",
     "buildingName": "Куќа на Жешковци",
@@ -20,20 +53,7 @@
       ]
     }
   },
-  "order": 100,
-  "code": "MNPP04",
-  "dateInspection": "26.01.2025",
-  "inspectionBy": "Тим 3",
-  "photo": "/media/mnpp04/mnp100j-0.33x.jpg",
   "originalData": {
     "generalDescription": "Куќата на фамилија Жешковци се наоѓа на спојот помеѓу ул. Белградска и ул. Цане Јованоски-Коњарец. Изградена е бо 1931 година и била во сопственост на реномиран доктор. "
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "техничка",
-      "емотивна"
-    ]
   }
 }

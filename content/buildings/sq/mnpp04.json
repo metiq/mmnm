@@ -28,5 +28,25 @@
       "техничка",
       "емотивна"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnpp04/image012.jpg",
+    "/media/mnpp04/image006.jpg",
+    "/media/mnpp04/image013.jpg",
+    "/media/mnpp04/image001.jpg",
+    "/media/mnpp04/image002.jpg",
+    "/media/mnpp04/image003.jpg",
+    "/media/mnpp04/image004.jpg",
+    "/media/mnpp04/image005.jpg",
+    "/media/mnpp04/image008.jpg",
+    "/media/mnpp04/image007.jpg",
+    "/media/mnpp04/image009.jpg",
+    "/media/mnpp04/image010.jpg",
+    "/media/mnpp04/image011.jpg",
+    "/media/mnpp04/image014.jpg",
+    "/media/mnpp04/image015.jpg",
+    "/media/mnpp04/image016.jpg",
+    "/media/mnpp04/image017.jpg",
+    "/media/mnpp04/image018.jpg"
+  ]
 }

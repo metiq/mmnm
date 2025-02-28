@@ -27,7 +27,9 @@
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "многу лоша"
+      },
       "interior": {}
     }
   },

@@ -33,11 +33,17 @@
       "exterior": {
         "condition": "катастрофална"
       },
-      "interior": {}
+      "interior": {
+        "condition": "катастрофална"
+      }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {
+        "condition": "катастрофална"
+      }
     }
   },
   "inspectionBy": "Тим 3",

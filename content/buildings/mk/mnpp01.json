@@ -24,7 +24,7 @@
       "техничка",
       "општествена / социјална"
     ],
-    "dateBuilt": "Да се продолжи да се одржува зградата"
+    "dateBuilt": ""
   },
   "bibliography": "Градителите во Македонија XVIII-XX век - Георги Константиновски",
   "dateInspection": "26.01.2025",
@@ -53,6 +53,7 @@
   "inspectionBy": "Тим 3",
   "code": "MNPP01",
   "order": 97,
+  "suggestions": "Да се продолжи да се одржува",
   "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5546357,41.3435154]}",

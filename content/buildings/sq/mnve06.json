@@ -30,5 +30,17 @@
       "емотивна"
     ]
   },
-  "photo": "/media/mnve06/mnve06_01.jpg"
+  "photo": "/media/mnve06/mnve06_01.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  }
 }

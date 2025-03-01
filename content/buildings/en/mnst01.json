@@ -1,0 +1,48 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.1933642,41.7371528]}",
+    "address": {
+      "city": "Штип"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 103,
+  "code": "MNST01",
+  "dateInspection": "05.01.2025",
+  "inspectionBy": "Тим 1",
+  "photo": "/media/mnst01/img_1102.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "емотивна"
+    ]
+  }
+}

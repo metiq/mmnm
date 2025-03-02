@@ -1,0 +1,56 @@
+{
+  "photos": [
+    "/media/mnst02/img_1109.jpg",
+    "/media/mnst02/img_1111.jpg",
+    "/media/mnst02/img_1112.jpg",
+    "/media/mnst02/img_1114.jpg",
+    "/media/mnst02/img_1116.jpg",
+    "/media/mnst02/img_1117.jpg",
+    "/media/mnst02/img_1119.jpg",
+    "/media/mnst02/img_1120.jpg",
+    "/media/mnst02/img_1121.jpg",
+    "/media/mnst02/img_1124.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "05.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "многу лоша"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNST02",
+  "order": 104,
+  "photo": "/media/mnst02/img_1110.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.196166,41.7367006]}",
+    "address": {
+      "city": "Штип"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

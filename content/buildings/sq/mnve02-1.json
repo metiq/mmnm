@@ -1,0 +1,22 @@
+{
+  "basicData": {
+    "architect": "Солонцев Николај",
+    "address": {
+      "city": "Велес"
+    },
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.783249,41.715957]}",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

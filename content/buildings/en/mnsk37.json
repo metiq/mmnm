@@ -1,4 +1,43 @@
 {
+  "photos": [
+    "/media/mnsk37/mnsk37_13.jpg",
+    "/media/mnsk37/mnsk37_12.jpg",
+    "/media/mnsk37/mnsk37_11.jpg",
+    "/media/mnsk37/mnsk37_10.jpg",
+    "/media/mnsk37/mnsk37_09.jpg",
+    "/media/mnsk37/mnsk37_08.jpg",
+    "/media/mnsk37/mnsk37_06.jpg",
+    "/media/mnsk37/mnsk37_05.jpg",
+    "/media/mnsk37/mnsk37_04.jpg",
+    "/media/mnsk37/mnsk37_03.jpg",
+    "/media/mnsk37/mnsk37_02.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "11.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK37",
+  "order": 37,
+  "photo": "/media/mnsk37/mnsk37_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4173334,41.9879488]}",
     "address": {
@@ -16,31 +55,5 @@
     },
     "protectionStatus": {},
     "architect": "Ристиќ Ѓорѓе "
-  },
-  "order": 37,
-  "code": "MNSK37",
-  "dateInspection": "11.02.2025",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk37/mnsk37_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "општествена / социјална"
-    ]
   }
 }

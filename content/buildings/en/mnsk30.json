@@ -14,7 +14,8 @@
         "колективен станбен"
       ]
     },
-    "protectionStatus": {}
+    "protectionStatus": {},
+    "architect": "Жерновски Кирил"
   },
   "order": 30,
   "code": "MNSK30",
@@ -30,7 +31,7 @@
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "задоволителна"
       },
       "interior": {}
     }

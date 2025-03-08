@@ -18,13 +18,17 @@
       "exterior": {
         "condition": "добра"
       },
-      "interior": {}
+      "interior": {
+        "condition": "добра"
+      }
     },
     "authenticity": {
       "exterior": {
         "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": "задоволителна"
+      }
     }
   },
   "inspectionBy": "Тим 2",

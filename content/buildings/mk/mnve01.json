@@ -3,7 +3,8 @@
     "/media/mnve01/mnve01_03.jpg",
     "/media/mnve01/mnve01_04.jpg",
     "/media/mnve01/mnve01_05.jpg",
-    "/media/mnve01/mnve01_06.jpg"
+    "/media/mnve01/mnve01_06.jpg",
+    "/media/mnve01/mnve01_02.jpg"
   ],
   "values": {
     "name": [
@@ -35,10 +36,10 @@
   "photo": "/media/mnve01/mnve01_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7808697,41.7175184]}",
-    "buildingName": "Народен Музеј (Зграда на Околиски одбор) ",
-    "architect": "Солонцев Николај",
+    "buildingName": "Народен Музеј Велес (Зграда на Околиски одбор) ",
+    "architect": "",
     "address": {
-      "line": "Ул.8 септември бр.22",
+      "line": "Ул.„8 септември“  бр.30 ",
       "city": "Велес",
       "municipality": "Велес"
     },
@@ -53,10 +54,11 @@
         "јавен"
       ],
       "notes": "Народен Музеј"
-    }
+    },
+    "dateBuilt": "1930/1934"
   },
   "originalData": {
-    "generalDescription": "Проект на рускиот архитект Солонцев",
+    "generalDescription": "Зградата на денешниот Народен Музеј Велес, првобитно била изградена како Околиски одбор во периодот од 1930-34 год. за потребите на локалната самоуправа, тогаш во рамките на Кралството Југославија.",
     "floors": "П+2",
     "materiality": {
       "exterior": {

@@ -3,7 +3,8 @@
     "/media/mnve01/mnve01_03.jpg",
     "/media/mnve01/mnve01_04.jpg",
     "/media/mnve01/mnve01_05.jpg",
-    "/media/mnve01/mnve01_06.jpg"
+    "/media/mnve01/mnve01_06.jpg",
+    "/media/mnve01/mnve01_02.jpg"
   ],
   "values": {
     "name": [
@@ -35,7 +36,7 @@
   "photo": "/media/mnve01/mnve01_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7808697,41.7175184]}",
-    "architect": "Солонцев Николај",
+    "architect": "",
     "address": {
       "city": "Велес"
     },

@@ -17,7 +17,7 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "задоволителна"
+        "condition": "добра"
       },
       "interior": {
         "condition": "добра"
@@ -28,7 +28,7 @@
         "condition": "добра"
       },
       "interior": {
-        "condition": "добра"
+        "condition": "задоволителна"
       }
     }
   },

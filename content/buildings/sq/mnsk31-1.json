@@ -8,7 +8,8 @@
   "values": {
     "name": [
       "архитектонска и естетска",
-      "историскa"
+      "историскa",
+      "авторство"
     ]
   },
   "dateInspection": "22.12.2024",
@@ -23,9 +24,11 @@
     },
     "authenticity": {
       "exterior": {
-        "condition": "добра"
+        "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": "добра"
+      }
     }
   },
   "inspectionBy": "Тим 1",

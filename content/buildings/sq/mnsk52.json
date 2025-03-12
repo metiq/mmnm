@@ -35,7 +35,9 @@
       "exterior": {
         "condition": "добра"
       },
-      "interior": {}
+      "interior": {
+        "condition": "добра"
+      }
     }
   },
   "inspectionBy": "Тим 2",

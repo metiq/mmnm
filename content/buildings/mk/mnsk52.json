@@ -28,7 +28,12 @@
   "currentData": {
     "authenticity": {
       "exterior": {
-        "condition": "добра"
+        "condition": "добра",
+        "notes": "Интервенциите со доградбите и преправките на источната фасада ја нарушуваат автентичноста."
+      },
+      "interior": {
+        "condition": "добра",
+        "notes": "Се однесува на скалишниот простор."
       }
     },
     "physicalCondition": {

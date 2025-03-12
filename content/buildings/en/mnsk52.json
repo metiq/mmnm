@@ -1,4 +1,35 @@
 {
+  "photos": [
+    "/media/mnsk52/mnsk52_02.jpg",
+    "/media/mnsk52/mnsk52_03.jpg",
+    "/media/mnsk52/mnsk52_04.jpg"
+  ],
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство"
+    ]
+  },
+  "dateInspection": "14.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK52",
+  "order": 108,
+  "photo": "/media/mnsk52/mnsk52_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4251569,42.0008461]}",
     "architect": "Ристиќ Ѓорѓе ",
@@ -19,31 +50,5 @@
     "protectionStatus": {
       "isProtected": true
     }
-  },
-  "order": 108,
-  "code": "MNSK52",
-  "dateInspection": "14.02.2025",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk52/mnsk52_01.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "архитектонска и естетска",
-      "историскa",
-      "авторство"
-    ]
   }
 }

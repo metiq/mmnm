@@ -29,7 +29,9 @@
       "exterior": {
         "condition": "добра"
       },
-      "interior": {}
+      "interior": {
+        "condition": "добра"
+      }
     },
     "authenticity": {
       "exterior": {

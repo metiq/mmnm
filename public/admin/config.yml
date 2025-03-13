@@ -224,6 +224,7 @@ collections:
           config:
             multiple: true
             max_file_size: 512000
+      - { label: "9 GPS полигон", name: "polygon", widget: "map", i18n: duplicate, required: false, type: "Polygon"}
   - label: "Поставки"
     name: "settings"
     files:

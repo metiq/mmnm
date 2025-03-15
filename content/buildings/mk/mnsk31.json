@@ -1,5 +1,11 @@
 {
-  "photos": null,
+  "photos": [
+    "/media/mnsk32/mnsk32_02.jpg",
+    "/media/mnsk32/mnsk32_03-build.mk.jpg",
+    "/media/mnsk32/mnsk32_04.jpg",
+    "/media/mnsk32/mnsk32_05.jpg",
+    "/media/mnsk32/mnsk32_06.jpg"
+  ],
   "values": {
     "name": [
       "архитектонска и естетска",
@@ -64,6 +70,9 @@
       "city": "Скопје",
       "municipality": "Центар"
     },
+    "associates": [
+      "Инженер Михаил Матвејев"
+    ],
     "architect": "Дубови Јан",
     "investorOrOwner": "Зденка Буста",
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4199999,42.0018511]}",

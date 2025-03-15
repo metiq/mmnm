@@ -4,13 +4,16 @@
     "name": [
       "архитектонска и естетска",
       "авторство",
-      "историскa"
+      "историскa",
+      "емотивна"
     ]
   },
   "dateInspection": "08.01.2025",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     },
     "authenticity": {

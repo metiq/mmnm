@@ -11,7 +11,9 @@
       ]
     },
     "todayPurpose": {},
-    "protectionStatus": {}
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "order": 62,
   "code": "MNKU04",

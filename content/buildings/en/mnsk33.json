@@ -27,5 +27,16 @@
       "историскa",
       "архитектонска и естетска"
     ]
-  }
+  },
+  "photos": [
+    "/media/mnsk33/mnsk33_01.jpg",
+    "/media/mnsk33/mnsk33_02.jpg",
+    "/media/mnsk33/mnsk33_03.jpg",
+    "/media/mnsk33/mnsk33_05.jpg",
+    "/media/mnsk33/mnsk33_06.jpg",
+    "/media/mnsk33/mnsk33_07.jpg",
+    "/media/mnsk33/mnsk33_08.jpg",
+    "/media/mnsk33/mnsk33_09.jpg",
+    "/media/mnsk33/mnsk33_10.jpg"
+  ]
 }

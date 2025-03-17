@@ -1,0 +1,27 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7857747,42.1493733]}",
+    "architect": "Коруновиќ Момир",
+    "address": {
+      "city": "Куманово"
+    },
+    "originalPurpose": {
+      "type": [
+        "споменик"
+      ]
+    },
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 62,
+  "code": "MNKU04",
+  "dateInspection": "28.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnku04/mnuk4-1-.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "авторство"
+    ]
+  }
+}

@@ -1,27 +1,11 @@
 {
-  "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4241567,41.9973282]}",
-    "architect": "Артемушкин Иван",
-    "address": {
-      "city": "Скопје"
-    },
-    "originalPurpose": {
-      "type": [
-        "колективен станбен"
-      ]
-    },
-    "todayPurpose": {
-      "type": [
-        "колективен станбен"
-      ]
-    },
-    "protectionStatus": {}
+  "values": {
+    "name": [
+      "историскa",
+      "авторство"
+    ]
   },
-  "order": 22,
-  "code": "MNSK22",
   "dateInspection": "11.01.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk22/img_2772.jpg",
   "currentData": {
     "physicalCondition": {
       "exterior": {
@@ -40,10 +24,27 @@
       }
     }
   },
-  "values": {
-    "name": [
-      "историскa",
-      "авторство"
-    ]
-  }
+  "inspectionBy": "Тим 1",
+  "code": "MNSK22",
+  "order": 22,
+  "photo": "/media/mnsk22/img_2772.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4241567,41.9973282]}",
+    "architect": "Артемушкин Иван",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.423969,41.9972719],[21.4240534,41.9973572],[21.4241249,41.9973588],[21.424202,41.9972982],[21.4240801,41.9972046],[21.423969,41.9972719]]]}"
 }

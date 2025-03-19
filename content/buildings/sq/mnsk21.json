@@ -1,4 +1,29 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "02.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK21",
+  "order": 21,
+  "photo": "/media/mnsk21/img_3480-1-.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4296609,41.9974777]}",
     "address": {
@@ -17,29 +42,5 @@
     },
     "protectionStatus": {}
   },
-  "order": 21,
-  "code": "MNSK21",
-  "dateInspection": "02.02.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk21/img_3480-1-.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4271321,41.9997855],[21.4272185,41.9998806],[21.4273156,41.9998304],[21.4272323,41.9997359],[21.4271321,41.9997855]]]}"
 }

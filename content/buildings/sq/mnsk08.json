@@ -1,4 +1,35 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална",
+      "емотивна"
+    ]
+  },
+  "dateInspection": "14.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK08",
+  "order": 8,
+  "photo": "/media/mnsk08/b93d888a-2ec9-4696-a17c-040dabdc5cf3.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4284404,41.9963007]}",
     "architect": "Новаковиќ Коста",
@@ -19,35 +50,5 @@
     },
     "protectionStatus": {}
   },
-  "order": 8,
-  "code": "MNSK08",
-  "dateInspection": "14.12.2024",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk08/b93d888a-2ec9-4696-a17c-040dabdc5cf3.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {
-        "condition": "задоволителна"
-      }
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска",
-      "општествена / социјална",
-      "емотивна"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.428359,41.9962875],[21.4284133,41.9964471],[21.4285732,41.9964151],[21.4285189,41.9962566],[21.428359,41.9962875]]]}"
 }

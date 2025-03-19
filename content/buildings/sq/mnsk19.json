@@ -1,4 +1,30 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "11.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "катастрофална"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK19",
+  "order": 19,
+  "photo": "/media/mnsk19/img_2849.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4247643,41.9957819]}",
     "address": {
@@ -18,30 +44,5 @@
     "protectionStatus": {},
     "architect": "Артемушкин Иван"
   },
-  "order": 19,
-  "code": "MNSK19",
-  "dateInspection": "11.01.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk19/img_2849.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "катастрофална"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "катастрофална"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "општествена / социјална",
-      "архитектонска и естетска"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4245896,41.9958828],[21.4247846,41.9958614],[21.4247607,41.9957459],[21.4247013,41.9957526],[21.4246953,41.9957149],[21.4245575,41.9957306],[21.4245896,41.9958828]]]}"
 }

@@ -1,4 +1,30 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "19.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK26",
+  "order": 26,
+  "photo": "/media/mnsk26/img_2966.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4227213,42.0016408]}",
     "architect": "Артемушкин Иван",
@@ -17,30 +43,5 @@
     },
     "protectionStatus": {}
   },
-  "order": 26,
-  "code": "MNSK26",
-  "dateInspection": "19.01.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk26/img_2966.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "авторство",
-      "архитектонска и естетска"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4225442,42.0016614],[21.4225444,42.0015785],[21.4226789,42.0015779],[21.4227688,42.0016837],[21.422693,42.0017169],[21.4226455,42.0016657],[21.4225442,42.0016614]]]}"
 }

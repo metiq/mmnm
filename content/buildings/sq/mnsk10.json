@@ -1,4 +1,30 @@
 {
+  "values": {
+    "name": [
+      "авторство",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "29.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK10",
+  "order": 10,
+  "photo": "/media/mnsk10/176c672b-7ed5-452c-b654-a465a2fc6469.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4362584,41.9909047]}",
     "architect": "Михајловиќ Јосиф",
@@ -17,30 +43,5 @@
     },
     "protectionStatus": {}
   },
-  "order": 10,
-  "code": "MNSK10",
-  "dateInspection": "29.12.2024",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk10/176c672b-7ed5-452c-b654-a465a2fc6469.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "авторство",
-      "архитектонска и естетска",
-      "општествена / социјална"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4358981,41.9908375],[21.4359768,41.9907476],[21.4361494,41.9908293],[21.4361849,41.9907564],[21.4363317,41.9907978],[21.4362378,41.9909997],[21.4358981,41.9908375]]]}"
 }

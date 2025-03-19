@@ -1,4 +1,29 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "02.02.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK30",
+  "order": 30,
+  "photo": "/media/mnsk30/img_3139.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4195999,42.0014546]}",
     "address": {
@@ -17,29 +42,5 @@
     "protectionStatus": {},
     "architect": "Жерновски Кирил"
   },
-  "order": 30,
-  "code": "MNSK30",
-  "dateInspection": "02.02.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk30/img_3139.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4195088,42.001491],[21.4196009,42.0016039],[21.4197413,42.0015398],[21.4196485,42.0014277],[21.4195088,42.001491]]]}"
 }

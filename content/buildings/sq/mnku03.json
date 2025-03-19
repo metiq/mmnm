@@ -1,0 +1,36 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7184372,42.1287548]}",
+    "architect": "Коруновиќ Момир",
+    "address": {
+      "city": "Куманово"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "јавен",
+        "споменик"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "dateInspection": "28.12.2024",
+  "order": 61,
+  "code": "MNKU03",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnku03/mnku03.jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa",
+      "авторство",
+      "општествена / социјална"
+    ]
+  }
+}

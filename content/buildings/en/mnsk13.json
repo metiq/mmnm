@@ -1,4 +1,37 @@
 {
+  "values": {
+    "name": [
+      "емотивна",
+      "историскa",
+      "архитектонска и естетска",
+      "авторство",
+      "општествена / социјална",
+      "техничка"
+    ]
+  },
+  "dateInspection": "22.01.2025",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "многу лоша"
+      }
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "многу лоша"
+      }
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK13",
+  "order": 13,
+  "photo": "/media/mnsk13/img_2933.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.423501,42.002362]}",
     "architect": "Артемушкин Иван",
@@ -21,37 +54,5 @@
       "isProtected": true
     }
   },
-  "order": 13,
-  "code": "MNSK13",
-  "dateInspection": "22.01.2025",
-  "inspectionBy": "Тим 1",
-  "photo": "/media/mnsk13/img_2933.jpg",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "многу лоша"
-      }
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {
-        "condition": "многу лоша"
-      }
-    }
-  },
-  "values": {
-    "name": [
-      "емотивна",
-      "историскa",
-      "архитектонска и естетска",
-      "авторство",
-      "општествена / социјална",
-      "техничка"
-    ]
-  }
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4234661,42.0023155],[21.423562,42.0024256],[21.4236655,42.0023754],[21.4235695,42.0022656],[21.4234661,42.0023155]]]}"
 }

@@ -1,4 +1,30 @@
 {
+  "values": {
+    "name": [
+      "историскa",
+      "општествена / социјална",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "29.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 1",
+  "code": "MNSK12",
+  "order": 12,
+  "photo": "/media/mnsk12/img_2258-1-.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4309331,41.9951853]}",
     "architect": "Дутов Борис",
@@ -19,30 +45,5 @@
     },
     "protectionStatus": {}
   },
-  "order": 12,
-  "code": "MNSK12",
-  "dateInspection": "29.12.2024",
-  "inspectionBy": "Тим 1",
-  "currentData": {
-    "physicalCondition": {
-      "exterior": {
-        "condition": "задоволителна"
-      },
-      "interior": {}
-    },
-    "authenticity": {
-      "exterior": {
-        "condition": "добра"
-      },
-      "interior": {}
-    }
-  },
-  "values": {
-    "name": [
-      "историскa",
-      "општествена / социјална",
-      "архитектонска и естетска"
-    ]
-  },
-  "photo": "/media/mnsk12/img_2258-1-.jpg"
+  "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4308121,41.9953971],[21.4308321,41.9954402],[21.4310395,41.9953909],[21.4309888,41.9952765],[21.4308302,41.9953456],[21.43085,41.9953878],[21.4308121,41.9953971]]]}"
 }

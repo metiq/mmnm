@@ -1,4 +1,40 @@
 {
+  "photos": [
+    "/media/mnsk33/mnsk33_01.jpg",
+    "/media/mnsk33/mnsk33_02.jpg",
+    "/media/mnsk33/mnsk33_03.jpg",
+    "/media/mnsk33/mnsk33_05.jpg",
+    "/media/mnsk33/mnsk33_06.jpg",
+    "/media/mnsk33/mnsk33_07.jpg",
+    "/media/mnsk33/mnsk33_08.jpg",
+    "/media/mnsk33/mnsk33_09.jpg",
+    "/media/mnsk33/mnsk33_10.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "21.12.2024",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNSK33",
+  "order": 33,
+  "photo": "/media/mnsk33/mnsk33_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4279519,42.0014686]}",
     "address": {
@@ -16,27 +52,5 @@
     },
     "protectionStatus": {},
     "architect": "Илиќ Драгутин "
-  },
-  "order": 33,
-  "code": "MNSK33",
-  "dateInspection": "21.12.2024",
-  "inspectionBy": "Тим 2",
-  "photo": "/media/mnsk33/mnsk33_01.jpg",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  },
-  "photos": [
-    "/media/mnsk33/mnsk33_01.jpg",
-    "/media/mnsk33/mnsk33_02.jpg",
-    "/media/mnsk33/mnsk33_03.jpg",
-    "/media/mnsk33/mnsk33_05.jpg",
-    "/media/mnsk33/mnsk33_06.jpg",
-    "/media/mnsk33/mnsk33_07.jpg",
-    "/media/mnsk33/mnsk33_08.jpg",
-    "/media/mnsk33/mnsk33_09.jpg",
-    "/media/mnsk33/mnsk33_10.jpg"
-  ]
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "basicData": {
+    "architect": "Гајдов Стефан ",
+    "address": {
+      "city": "Велес"
+    },
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7876084,41.7118737]}",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "protectionStatus": {}
+  }
+}

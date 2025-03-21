@@ -18,10 +18,10 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "задоволителна"
+        "condition": "добра"
       },
       "interior": {
-        "condition": "задоволителна"
+        "condition": null
       }
     },
     "authenticity": {
@@ -29,7 +29,7 @@
         "condition": "добра"
       },
       "interior": {
-        "condition": "добра"
+        "condition": null
       }
     }
   },

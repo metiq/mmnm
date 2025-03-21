@@ -21,7 +21,8 @@
         "condition": "добра"
       },
       "interior": {
-        "condition": "добра"
+        "condition": "добра",
+        "notes": "Се однесува на подрумот/приземје."
       }
     },
     "authenticity": {
@@ -29,7 +30,8 @@
         "condition": "задоволителна"
       },
       "interior": {
-        "condition": "задоволителна"
+        "condition": "задоволителна",
+        "notes": "Се однесува на подрумот/приземје."
       }
     },
     "materiality": {

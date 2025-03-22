@@ -1,0 +1,32 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.2340744,41.4138938]}",
+    "address": {
+      "city": "Демир Хисар"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "споменик"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "photo": "/media/mndk01_01/mndk02_01.jpg",
+  "order": 112,
+  "code": "MNDK01_01",
+  "dateInspection": "14.03.1925",
+  "inspectionBy": "Тим 2",
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  }
+}

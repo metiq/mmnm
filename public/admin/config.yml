@@ -1,4 +1,4 @@
-#local_backend: true
+local_backend: true
 
 backend:
   name: git-gateway
@@ -62,9 +62,9 @@ collections:
           i18n: true
           fields: 
           - {label: "Адреса", name: "line", widget: "string", i18n: true}
-          - {label: "Град", name: "city", widget: "select", i18n: duplicate, options: ["Скопје","Велес","Тетово","Гостивар","Куманово","Штип","Струмица","Демир Хисар","Битола","Прилеп","Охрид","Струга","Кочани","Кавадарци","Кочани","Неготино","Кратово"]}
+          - {label: "Град", name: "city", widget: "select", i18n: duplicate, options: ["Скопје","Велес","Тетово","Гостивар","Куманово","Штип","Струмица","Демир Капија","Битола","Прилеп","Охрид","Струга","Кочани","Кавадарци","Кочани","Неготино","Кратово"]}
           - {label: "Општина", name: "municipality", widget: "string", i18n: true, required: false}
-        - { label: "1.7 GPS координати", name: "coordinates", widget: "map", i18n: duplicate, required: false, default: "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}"}
+        - { label: "1.7 GPS координати", name: "coordinates", widget: "map", i18n: duplicate, required: false, type: "Polygon", default: "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}"}
         - label: "1.8 Типологија според оригиналната намената"
           name: "originalPurpose"
           widget: "object"
@@ -211,7 +211,7 @@ collections:
         - { label: "Забелешка", name: "dateBuilt", widget: "text", i18n: true, required: false }
       - { label: "6. Препораки", name: "suggestions", widget: "text", i18n: true, required: false }
       - { label: "7. Библиографија", name: "bibliography", widget: "text", i18n: true, required: false }
-      - label: "8. Фотографии / цртежи (постојна состојба + архива)"
+      - label: "8. Фотографии"
         hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
         name: "photos"
         widget: "image"
@@ -224,7 +224,32 @@ collections:
           config:
             multiple: true
             max_file_size: 512000
-      - { label: "9 GPS полигон", name: "polygon", widget: "map", i18n: duplicate, required: false, type: "Polygon"}
+      - label: "9. Историски фотографии"
+        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        name: "historicalPhotos"
+        widget: "image"
+        i18n: duplicate
+        choose_url: false
+        required: false
+        media_folder: /public/media/{{code}}/historical
+        public_folder: /media/{{code}}/historical
+        media_library:
+          config:
+            multiple: true
+            max_file_size: 512000
+      - label: "10. Архив"
+        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        name: "archive"
+        widget: "image"
+        i18n: duplicate
+        choose_url: false
+        required: false
+        media_folder: /public/media/{{code}}/archive
+        public_folder: /media/{{code}}/archive
+        media_library:
+          config:
+            multiple: true
+            max_file_size: 512000
   - label: "Поставки"
     name: "settings"
     files:

@@ -1,0 +1,44 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[20.971415,42.0129593],[20.9714653,42.0129677],[20.9714274,42.0129266],[20.9713837,42.0129201],[20.971415,42.0129593]]]}",
+    "address": {
+      "city": "Тетово"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 105,
+  "code": "MNTE01",
+  "dateInspection": "29.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnte01/20241229_092107.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска",
+      "општествена / социјална"
+    ]
+  }
+}

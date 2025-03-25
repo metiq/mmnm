@@ -28,5 +28,14 @@
       "историскa",
       "архитектонска и естетска"
     ]
-  }
+  },
+  "photos": [
+    "/media/mndk02/mndk02_01.jpg",
+    "/media/mndk02/mndk02_02.jpg",
+    "/media/mndk02/mndk02_06.jpg",
+    "/media/mndk02/mndk02_07.jpg",
+    "/media/mndk02/mndk02_08.jpg",
+    "/media/mndk02/mndk02_09.jpg",
+    "/media/mndk02/mndk02_10.jpg"
+  ]
 }

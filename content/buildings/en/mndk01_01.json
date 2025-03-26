@@ -23,11 +23,17 @@
       "exterior": {
         "condition": "задоволителна"
       },
-      "interior": {}
+      "interior": {
+        "condition": "многу лоша"
+      }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "добра"
+      }
     }
   },
   "inspectionBy": "Тим 2",

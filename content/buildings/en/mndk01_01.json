@@ -1,4 +1,39 @@
 {
+  "photos": [
+    "/media/mndk02/mndk02_01.jpg",
+    "/media/mndk02/mndk02_02.jpg",
+    "/media/mndk02/mndk02_03.jpg",
+    "/media/mndk02/mndk02_04.jpg",
+    "/media/mndk02/mndk02_05.jpg",
+    "/media/mndk02/mndk02_06.jpg",
+    "/media/mndk02/mndk02_07.jpg",
+    "/media/mndk02/mndk02_08.jpg",
+    "/media/mndk02/mndk02_09.jpg",
+    "/media/mndk02/mndk02_10.jpg"
+  ],
+  "values": {
+    "name": [
+      "историскa",
+      "архитектонска и естетска"
+    ]
+  },
+  "dateInspection": "14.03.1925",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "inspectionBy": "Тим 2",
+  "code": "MNDK02",
+  "order": 112,
+  "photo": "/media/mndk01_01/mndk02_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.2340744,41.4138938]}",
     "address": {
@@ -17,28 +52,5 @@
     "protectionStatus": {
       "isProtected": true
     }
-  },
-  "photo": "/media/mndk01_01/mndk02_01.jpg",
-  "order": 112,
-  "code": "MNDK02",
-  "dateInspection": "14.03.1925",
-  "inspectionBy": "Тим 2",
-  "values": {
-    "name": [
-      "историскa",
-      "архитектонска и естетска"
-    ]
-  },
-  "photos": [
-    "/media/mndk02/mndk02_01.jpg",
-    "/media/mndk02/mndk02_02.jpg",
-    "/media/mndk02/mndk02_03.jpg",
-    "/media/mndk02/mndk02_04.jpg",
-    "/media/mndk02/mndk02_05.jpg",
-    "/media/mndk02/mndk02_06.jpg",
-    "/media/mndk02/mndk02_07.jpg",
-    "/media/mndk02/mndk02_08.jpg",
-    "/media/mndk02/mndk02_09.jpg",
-    "/media/mndk02/mndk02_10.jpg"
-  ]
+  }
 }

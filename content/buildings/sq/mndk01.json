@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[22.2499118,41.4038948],[22.2497956,41.4039547],[22.2498828,41.4040309],[22.2500207,41.4039656],[22.2499118,41.4038948]]]}",
+    "architect": "",
+    "address": {
+      "city": "Демир Капија"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "code": "MNDK01",
+  "photo": "/media/mndk01/mndk1.jpg",
+  "dateInspection": "14.03.2025",
+  "inspectionBy": "Тим 2",
+  "order": 107,
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  }
+}

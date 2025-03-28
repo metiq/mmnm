@@ -47,6 +47,7 @@
   "suggestions": "Санација на фасада и редовно одржување",
   "photo": "/media/mnoh05/20250111_112800-large.jpeg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8032296,41.114004]}",
     "buildingName": "Куќа на Савевци",
     "address": {

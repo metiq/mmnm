@@ -53,9 +53,13 @@
   "suggestions": "Да се врати оригиналната боја и да се ослободи од одредени интервенции како преградувањата и пластифицираните стреи.",
   "photo": "/media/mnbt02/мнб069-8-large.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1936,
+      "yearProjected": 1936,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3374229,41.0266192]}",
     "buildingName": "Станбен објект „Маруш“",
-    "dateBuilt": "1934-1936",
     "investorOrOwner": "Маруш - стар сопственик",
     "address": {
       "line": "Елпида Караманди бр. 8",

@@ -41,6 +41,7 @@
   "suggestions": "",
   "photo": "/media/mnbt07/мнбт07-large.jpeg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3334258,41.0284197]}",
     "associates": [],
     "buildingName": "Индивидуална куќа на Александар Сотиривиќ",

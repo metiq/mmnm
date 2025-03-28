@@ -52,6 +52,7 @@
   "suggestions": "Да се направи реконструкција и рушење на доградените делови со цел да се доведе во добра автентична состојба",
   "photo": "/media/mnbt18/mnb085j-0.3x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3363995,41.0336798]}",
     "buildingName": "Станбен објект на ул. Свети Наум",
     "address": {

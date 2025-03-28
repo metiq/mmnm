@@ -90,9 +90,12 @@
   "suggestions": "Унифицирање на интервенциите кои се појавувале со тек на времето, и генерална реновација и одржување",
   "photo": "/media/mnbt09/kukja-na-osmanli-medium.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1931,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3362931,41.0280596]}",
     "architect": "Ташковиќ Григорије",
-    "dateBuilt": "1931",
     "buildingName": "Куќа на фамилија Османли",
     "protectionStatus": {
       "isProtected": true,

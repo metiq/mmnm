@@ -50,6 +50,7 @@
   "suggestions": "Тековно одржување и санација",
   "photo": "/media/mnbt03/мнб070-13-large.jpeg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3301579,41.0312157]}",
     "address": {
       "line": "Борка Левата 2",

@@ -77,6 +77,10 @@
   "suggestions": "Да се изврши генерална реновација главно на фасадата и столаријата кои се видливо оштетени со текот на времето, зачувувајќи го автентичниот изглед. ",
   "photo": "/media/mnoh01/hidrobioloski-large.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1935,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8150246,41.1018236]}",
     "buildingName": "Хидробиолошки институт Охрид",
     "address": {
@@ -84,7 +88,6 @@
       "city": "Охрид",
       "municipality": "Охрид"
     },
-    "dateBuilt": "1935",
     "investorOrOwner": "Државна инситуција",
     "originalPurpose": {
       "type": [

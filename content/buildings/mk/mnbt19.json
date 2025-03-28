@@ -56,6 +56,7 @@
   "suggestions": "Да се направи реконструкција и рушење на доградените делови со цел да се доведе во добра автентична состојба",
   "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",
     "buildingName": "Станбен објект на ул. Козара",
     "address": {

@@ -49,6 +49,7 @@
   "suggestions": "Стандардна реставрација и реконструкција за одржување од дотраеност.",
   "photo": "/media/mnbt14/mnb081j-0.25x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3322031,41.0287169]}",
     "address": {
       "line": "ул. Белградска бр. 29",

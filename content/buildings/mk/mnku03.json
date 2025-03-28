@@ -14,6 +14,7 @@
   "order": 61,
   "photo": "/media/mnku03/mnku03.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7184372,42.1287548]}",
     "buildingName": "Соколски дом",
     "architect": "Коруновиќ Момир",

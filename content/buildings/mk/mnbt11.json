@@ -52,6 +52,10 @@
   "order": 78,
   "photo": "/media/mnbt11/mnb078j-0.25x.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1938,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3214593,41.0321922]}",
     "buildingName": "Вила „Маедраг“",
     "address": {
@@ -59,7 +63,6 @@
       "city": "Битола",
       "municipality": "Битола"
     },
-    "dateBuilt": "1938",
     "architect": "",
     "investorOrOwner": "Илија Србинов",
     "originalPurpose": {

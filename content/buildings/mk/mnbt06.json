@@ -68,12 +68,15 @@
   "suggestions": "Целосна реконструкција",
   "photo": "/media/mnbt06/nasl-large-medium.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1936,
+      "period": "1930-1939"
+    },
     "originalPurpose": {
       "type": [
         "индивидуален станбен"
       ]
     },
-    "dateBuilt": "1936",
     "address": {
       "line": "ул. „Кичево“ бр.20",
       "city": "Битола",

@@ -73,6 +73,10 @@
   "suggestions": "Стандардна реконструкција за одржување од дотраеност.",
   "photo": "/media/mnbt12/mnb079j2-0.33x.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1936,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3314839,41.0319381]}",
     "buildingName": "Објект на Собранието на Општина Битола",
     "address": {
@@ -80,7 +84,6 @@
       "city": "Битола",
       "municipality": "Битола"
     },
-    "dateBuilt": "1936",
     "investorOrOwner": "Југословенска народна армија (ЈНА)",
     "originalPurpose": {
       "type": [

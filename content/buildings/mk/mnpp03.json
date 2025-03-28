@@ -48,9 +48,12 @@
   "suggestions": "Да се продолжи да се одржува",
   "photo": "/media/mnpp03/mnp099j-0.25x.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1937,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5143308,41.366587]}",
     "buildingName": "Научен институт за тутун - Прилеп",
-    "dateBuilt": "1937",
     "address": {
       "line": "ул. Кичевска б.б.",
       "city": "Прилеп",

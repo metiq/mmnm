@@ -57,9 +57,12 @@
   "suggestions": "Да се продолжи да се одржува",
   "photo": "/media/mnpp01/mnp97j-0.3x.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1924,
+      "period": "1920-1929"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.5546357,41.3435154]}",
     "buildingName": "Основно училиште „Кочо Рацин“",
-    "dateBuilt": "1924",
     "address": {
       "line": "ул. Борка Талески бр. 64",
       "city": "Прилеп",

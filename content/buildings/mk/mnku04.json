@@ -12,10 +12,14 @@
   "order": 62,
   "photo": "/media/mnku04/mnuk4-1-.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1937,
+      "yearProjected": 1937,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.7857747,42.1493733]}",
     "buildingName": "Спомен костурница на паднатите борци во Балканската војна 1912 „Зебрњак“",
     "architect": "Коруновиќ Момир",
-    "dateBuilt": "во периодот од 1934 до 1937 год.",
     "investorOrOwner": "финансирана од доброволни прилози на преживеаните борци од Кумановската битка",
     "address": {
       "city": "Куманово",

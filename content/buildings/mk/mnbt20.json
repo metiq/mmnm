@@ -43,6 +43,7 @@
   "order": 87,
   "photo": "/media/mnbt20/mnb087j-0.3x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.338703,41.0260413]}",
     "buildingName": "Куќа на Гагачеви",
     "address": {

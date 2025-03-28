@@ -41,9 +41,13 @@
   "suggestions": "Отстранување на несоодветно поставените клими и натстрешници. ",
   "photo": "/media/mnsr03/3dd95154-5fd7-44c2-aa97-bb3c73694306.jpg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1934,
+      "yearProjected": 1934,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.636591,41.4348518]}",
     "buildingName": "НУ Завод за заштита на спомениците на културата и Музеј Струмица и Архив",
-    "dateBuilt": "1931 - 1934",
     "address": {
       "line": "На аголот на улиците 27 Март бр.7 и Герас Цунев",
       "city": "Струмица",

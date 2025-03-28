@@ -60,6 +60,10 @@
   "order": 89,
   "photo": "/media/mnoh02/20250111_115124-large.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1930,
+      "period": "1930-1939"
+    },
     "protectionStatus": {
       "isProtected": true,
       "notes": "Заштитена со Решение бр. 14-1269/2 и ЕМБ: 4-819-038/071 Р НД"
@@ -70,7 +74,6 @@
       ],
       "notes": "Семејна куќа на Ѓурчинови"
     },
-    "dateBuilt": "1930",
     "address": {
       "line": "Кеј Македонија 3",
       "city": "Охрид",

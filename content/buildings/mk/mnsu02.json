@@ -64,6 +64,10 @@
   "order": 95,
   "photo": "/media/mnsu02/20250115_131142-medium.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1934,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.6773558,41.1746621]}",
     "address": {
       "line": "ул: “Партизанска” бр.4",
@@ -71,7 +75,6 @@
       "municipality": "Струга"
     },
     "buildingName": "Основно Училиште Браќа Миладиновци / денес Општина Струга",
-    "dateBuilt": "1934",
     "investorOrOwner": "Драга Јефтиќ",
     "originalPurpose": {
       "type": [

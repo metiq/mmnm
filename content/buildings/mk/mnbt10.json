@@ -52,6 +52,10 @@
   "order": 77,
   "photo": "/media/mnbt10/img_4347-medium.jpeg",
   "basicData": {
+    "timeline": {
+      "yearBuilt": 1936,
+      "period": "1930-1939"
+    },
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3376999,41.0282635]}",
     "address": {
       "line": "Димитар Илиевски - Мурато бр. 24",
@@ -59,7 +63,6 @@
       "municipality": "Битола"
     },
     "buildingName": "Куќа на Штериќ / денес Куќа на Атанасови",
-    "dateBuilt": "1936",
     "investorOrOwner": "Фамилија Штериќ",
     "originalPurpose": {
       "type": [

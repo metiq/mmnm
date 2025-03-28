@@ -34,6 +34,7 @@
   "order": 67,
   "photo": "/media/mnsr04/2eabb419-5c6f-4419-8a6a-b110490e5bd5.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[22.6361003,41.4361681]}",
     "buildingName": "Куќа на Калкашлиеви",
     "address": {
@@ -51,8 +52,7 @@
         "индивидуален станбен"
       ],
       "notes": "Објектот моментално е напуштен"
-    },
-    "dateBuilt": "Триесетите години"
+    }
   },
   "originalData": {
     "floors": "П+2К",

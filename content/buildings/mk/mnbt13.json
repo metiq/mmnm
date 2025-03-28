@@ -49,6 +49,7 @@
   "suggestions": "Стандардна реконструкција за одржување од дотраеност",
   "photo": "/media/mnbt13/mnb080j-0.25x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3346179,41.024589]}",
     "address": {
       "line": "ул. Климент Охридски бр. 3б",

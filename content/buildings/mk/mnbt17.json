@@ -48,6 +48,7 @@
   "suggestions": "Стандардна реконструкција за одржување од дотраеност",
   "photo": "/media/mnbt17/mnb084j-0.3x.jpg",
   "basicData": {
+    "timeline": {},
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.334792,41.0286039]}",
     "buildingName": "Станбен објект на ул. Ленинова бр. 18",
     "address": {

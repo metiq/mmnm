@@ -48,7 +48,7 @@
   "photo": "/media/mnoh05/20250111_112800-large.jpeg",
   "basicData": {
     "timeline": {},
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.8032296,41.114004]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[20.8031238,41.1139939],[20.8032052,41.1141089],[20.8033594,41.114045],[20.8032781,41.1139314],[20.8031238,41.1139939]]]}",
     "buildingName": "Куќа на Савевци",
     "address": {
       "line": "Димитар Влахов 51",

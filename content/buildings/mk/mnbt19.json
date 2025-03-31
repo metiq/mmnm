@@ -57,7 +57,7 @@
   "photo": "/media/mnbt19/mnb086j-0.3x.jpg",
   "basicData": {
     "timeline": {},
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3348781,41.0330718]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.3347719,41.0330356],[21.3348782,41.0330969],[21.3349575,41.033019],[21.3348501,41.0329554],[21.3347719,41.0330356]]]}",
     "buildingName": "Станбен објект на ул. Козара",
     "address": {
       "line": "ул. Козара",

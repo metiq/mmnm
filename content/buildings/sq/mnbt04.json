@@ -46,7 +46,7 @@
   "order": 71,
   "photo": "/media/mnbt04/мнб071-1-large-medium.jpeg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3218682,41.0320167]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.3218081,41.0320823],[21.3219342,41.0320781],[21.3219285,41.0319465],[21.3217996,41.0319515],[21.3218081,41.0320823]]]}",
     "address": {
       "city": "Битола"
     },

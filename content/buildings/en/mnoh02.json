@@ -40,7 +40,7 @@
   "order": 89,
   "photo": "/media/mnoh02/20250111_115124-large.jpeg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[20.801263,41.1120972]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[20.8011702,41.1120958],[20.8012306,41.112162],[20.8013645,41.1120949],[20.8013041,41.1120279],[20.8011702,41.1120958]]]}",
     "architect": "Ѓорѓи Ѓурчинов",
     "address": {
       "city": "Охрид"

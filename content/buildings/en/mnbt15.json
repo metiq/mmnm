@@ -28,7 +28,7 @@
   "order": 82,
   "photo": "/media/mnbt15/mnb082j-0.3x.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.3308808,41.0289652]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.3307883,41.0290214],[21.3309275,41.0290331],[21.330941,41.0289354],[21.3308018,41.0289238],[21.3307883,41.0290214]]]}",
     "address": {
       "city": "Битола"
     },

@@ -274,3 +274,32 @@ collections:
             fields:
               - {label: "Име кирилица", name: "nameMk", widget: string }
               - {label: "Име латиница", name: "nameEn", widget: string }
+  - label: "Архитекти"
+    label_singular: "Архитект"
+    name: "arhitect"
+    format: "json"
+    create: true
+    i18n: true
+    editor:
+      preview: false
+    folder: "content/architects"
+    slug: '{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}'
+    sortable_fields: ['name']
+    fields:
+      - {label: "Име", name: "name", widget: string, i18n: true }
+      - {label: "Био", name: "bio", widget: "text", i18n: true, required: false}
+      - { label: "Роден", name: "yearBorn", widget: "number", value_type: "int", "min": 1800, "max": 2200, i18n: duplicate, required: false, hint: "Која година е роден"}
+      - { label: "Починал", name: "yearDied", widget: "number", value_type: "int", "min": 1800, "max": 2200, i18n: duplicate, required: false, hint: "Која година е починат (празно ако е уште жив)"}
+      - label: "Фотографија од архитектот"
+        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        name: "photo"
+        widget: "image"
+        i18n: duplicate
+        choose_url: false
+        required: false
+        media_folder: /public/media/architects
+        public_folder: /media/architects
+        media_library:
+          config:
+            multiple: false
+            max_file_size: 512000

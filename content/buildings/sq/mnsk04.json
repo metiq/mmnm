@@ -15,13 +15,13 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {}
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {}
     }
@@ -32,7 +32,7 @@
   "photo": "/media/mnsk04/04.мнск.04-1-.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4307076,41.9930936],[21.4309779,41.9931106],[21.431047,41.9929048],[21.4308929,41.9928893],[21.4308587,41.9927751],[21.4307273,41.9927844],[21.4307076,41.9930936]]]}",
-    "architect": "Жерновски Кирил",
+    "architect": "20250402181155",
     "address": {
       "city": "Скопје"
     },

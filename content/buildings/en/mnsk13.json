@@ -16,7 +16,7 @@
         "condition": "добра"
       },
       "interior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       }
     },
     "authenticity": {
@@ -24,23 +24,23 @@
         "condition": "добра"
       },
       "interior": {
-        "condition": "многу лоша"
+        "condition": "задоволителна"
       }
     }
   },
   "inspectionBy": "Тим 1",
   "code": "MNSK13",
   "order": 13,
-  "photo": "/media/mnsk13/img_2933.jpg",
+  "photo": "/media/mnsk13/13.мнск.013-1-.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.423501,42.002362]}",
-    "architect": "Артемушкин Иван",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4234661,42.0023155],[21.423562,42.0024256],[21.4236655,42.0023754],[21.4235695,42.0022656],[21.4234661,42.0023155]]]}",
+    "architect": "20250402181146",
     "address": {
       "city": "Скопје"
     },
     "originalPurpose": {
       "type": [
-        "колективен станбен"
+        "индивидуален станбен"
       ]
     },
     "todayPurpose": {

@@ -29,10 +29,10 @@
   "inspectionBy": "Тим 1",
   "code": "MNSK15",
   "order": 15,
-  "photo": "/media/mnsk15/img_2266.jpg",
+  "photo": "/media/mnsk15/15.мнск.015.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4304538,41.9958027]}",
-    "architect": "Артемушкин Иван",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4303545,41.9957378],[21.43031,41.9957894],[21.4302021,41.9958042],[21.4300733,41.9957399],[21.4301455,41.9956628],[21.4303545,41.9957378]]]}",
+    "architect": "20250402181146",
     "address": {
       "city": "Скопје"
     },

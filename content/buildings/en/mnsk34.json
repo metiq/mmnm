@@ -1,5 +1,6 @@
 {
   "photos": [
+    "/media/mnsk34/34.мнск.034.формат.jpg",
     "/media/mnsk34/mnsk34_03.jpg",
     "/media/mnsk34/mnsk34_02.jpg",
     "/media/mnsk34/mnsk34_01.jpg",
@@ -33,10 +34,10 @@
   "inspectionBy": "Тим 2",
   "code": "MNSK34",
   "order": 34,
-  "photo": "/media/mnsk34/mnsk34_01.jpg",
+  "photo": "/media/mnsk34/34.мнск.034.формат.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4352197,42.0033253]}",
-    "architect": "Михајловиќ Јосиф",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4351249,42.0034258],[21.4352705,42.0034258],[21.4352705,42.0033213],[21.4353028,42.0033213],[21.4353028,42.0032468],[21.4351217,42.003248],[21.4351249,42.0034258]]]}",
+    "architect": "20250402181202",
     "address": {
       "city": "Скопје"
     },

@@ -1,5 +1,6 @@
 {
   "photos": [
+    "/media/mnsk36/36.мнск.036.jpg",
     "/media/mnsk36/mnsk36_01.jpg",
     "/media/mnsk36/mnsk36_02.jpg",
     "/media/mnsk36/mnsk36_03.jpg",
@@ -23,7 +24,7 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {
         "condition": "задоволителна"
@@ -31,7 +32,7 @@
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {
         "condition": "задоволителна"
@@ -41,10 +42,10 @@
   "inspectionBy": "Тим 2",
   "code": "MNSK36",
   "order": 36,
-  "photo": "/media/mnsk36/mnsk36_01.jpg",
+  "photo": "/media/mnsk36/36.мнск.036.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4255386,41.9973167]}",
-    "architect": "Протиќ Бранислав",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4254991,41.9972742],[21.4257113,41.9972447],[21.4257388,41.9973603],[21.425525,41.9973916],[21.4254991,41.9972742]]]}",
+    "architect": "20250402181207",
     "address": {
       "city": "Скопје"
     },

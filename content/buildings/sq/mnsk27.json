@@ -15,7 +15,7 @@
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {}
     }
@@ -23,9 +23,9 @@
   "inspectionBy": "Тим 1",
   "code": "MNSK27",
   "order": 27,
-  "photo": "/media/mnsk27/img_3041.jpg",
+  "photo": "/media/mnsk27/27.мнск.027-1-.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4217507,42.0007478]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.421587,42.0007771],[21.4217199,42.0008099],[21.4217729,42.0006856],[21.4216387,42.000654],[21.421587,42.0007771]]]}",
     "address": {
       "city": "Скопје"
     },

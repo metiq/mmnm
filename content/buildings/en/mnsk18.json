@@ -25,10 +25,10 @@
   "inspectionBy": "Тим 1",
   "code": "MNSK18",
   "order": 18,
-  "photo": "/media/mnsk18/img_2938.jpg",
+  "photo": "/media/mnsk18/18.мнск.018.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.423691,42.0025747]}",
-    "architect": "Жерновски Кирил",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4236641,42.0025535],[21.4238121,42.0024827],[21.42389,42.0025746],[21.4237437,42.0026446],[21.4236641,42.0025535]]]}",
+    "architect": "20250402181155",
     "address": {
       "city": "Скопје"
     },
@@ -42,7 +42,9 @@
         "колективен станбен"
       ]
     },
-    "protectionStatus": {}
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "polygon": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4236641,42.0025535],[21.4238121,42.0024827],[21.42389,42.0025746],[21.4237437,42.0026446],[21.4236641,42.0025535]]]}"
 }

@@ -24,10 +24,10 @@
   "inspectionBy": "Тим 1",
   "code": "MNSK28",
   "order": 28,
-  "photo": "/media/mnsk28/img_3171.jpg",
+  "photo": "/media/mnsk28/28.мнск.028.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4222464,42.0001785]}",
-    "architect": "Артемушкин Иван",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4222188,42.0002237],[21.4224216,42.0002789],[21.422458,42.0002079],[21.4222563,42.0001513],[21.4222188,42.0002237]]]}",
+    "architect": "20250402181146",
     "address": {
       "city": "Скопје"
     },

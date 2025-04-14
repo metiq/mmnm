@@ -1,5 +1,6 @@
 {
   "photos": [
+    "/media/mnsk35/35.мнск.035.jpg",
     "/media/mnsk35/mnsk35_02.jpg",
     "/media/mnsk35/mnsk35_03.jpg",
     "/media/mnsk35/mnsk35_04.jpg",
@@ -36,10 +37,10 @@
   "inspectionBy": "Тим 2",
   "code": "MNSK35",
   "order": 35,
-  "photo": "/media/mnsk35/mnsk35_01.jpg",
+  "photo": "/media/mnsk35/35.мнск.035.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4251622,42.0005108]}",
-    "architect": "Краус Фердо",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4251784,42.0004652],[21.4252606,42.0005598],[21.4251733,42.0006002],[21.4250912,42.0005072],[21.4251784,42.0004652]]]}",
+    "architect": "20250402181200",
     "address": {
       "city": "Скопје"
     },

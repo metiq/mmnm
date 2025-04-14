@@ -18,7 +18,7 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {
         "condition": "задоволителна"
@@ -39,7 +39,7 @@
   "photo": "/media/mnsk41/mnsk41_01.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4208401,42.0015406]}",
-    "architect": "Артемушкин Иван",
+    "architect": "20250402181146",
     "address": {
       "city": "Скопје"
     },

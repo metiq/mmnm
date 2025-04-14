@@ -1,5 +1,6 @@
 {
   "photos": [
+    "/media/mnsk37/37.мнск.037.формат.jpg",
     "/media/mnsk37/mnsk37_13.jpg",
     "/media/mnsk37/mnsk37_12.jpg",
     "/media/mnsk37/mnsk37_11.jpg",
@@ -45,7 +46,7 @@
   "inspectionBy": "Тим 2",
   "code": "MNSK37",
   "order": 37,
-  "photo": "/media/mnsk37/mnsk37_01.jpg",
+  "photo": "/media/mnsk37/37.мнск.037.формат.jpg",
   "basicData": {
     "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4173334,41.9879488]}",
     "address": {
@@ -62,6 +63,6 @@
       ]
     },
     "protectionStatus": {},
-    "architect": "Ристиќ Ѓорѓе "
+    "architect": "20250402181208"
   }
 }

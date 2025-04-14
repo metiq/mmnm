@@ -1,14 +1,10 @@
 {
   "photos": [
+    "/media/mnsk33/33.мнск.033.jpg",
     "/media/mnsk33/mnsk33_01.jpg",
     "/media/mnsk33/mnsk33_02.jpg",
     "/media/mnsk33/mnsk33_03.jpg",
-    "/media/mnsk33/mnsk33_05.jpg",
-    "/media/mnsk33/mnsk33_06.jpg",
-    "/media/mnsk33/mnsk33_07.jpg",
-    "/media/mnsk33/mnsk33_08.jpg",
-    "/media/mnsk33/mnsk33_09.jpg",
-    "/media/mnsk33/mnsk33_10.jpg"
+    "/media/mnsk33/mnsk33_05.jpg"
   ],
   "values": {
     "name": [
@@ -34,9 +30,9 @@
   "inspectionBy": "Тим 2",
   "code": "MNSK33",
   "order": 33,
-  "photo": "/media/mnsk33/mnsk33_01.jpg",
+  "photo": "/media/mnsk33/33.мнск.033.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4279519,42.0014686]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4279383,42.0013559],[21.4280441,42.0014633],[21.4279154,42.0015392],[21.4278061,42.0014279],[21.4279383,42.0013559]]]}",
     "address": {
       "city": "Скопје"
     },
@@ -51,6 +47,6 @@
       ]
     },
     "protectionStatus": {},
-    "architect": "Илиќ Драгутин "
+    "architect": "20250402181158"
   }
 }

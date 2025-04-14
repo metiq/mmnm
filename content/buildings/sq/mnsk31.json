@@ -34,8 +34,8 @@
   "order": 32,
   "photo": "/media/mnsk32/mnsk032_01.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4199999,42.0018511]}",
-    "architect": "Дубови Јан",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4199538,42.0019499],[21.4201176,42.0018735],[21.4200166,42.0017575],[21.4198548,42.0018325],[21.4199538,42.0019499]]]}",
+    "architect": "20250402181153",
     "address": {
       "city": "Скопје"
     },

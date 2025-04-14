@@ -31,7 +31,7 @@
     },
     "authenticity": {
       "exterior": {
-        "condition": "многу лоша"
+        "condition": "лоша"
       },
       "interior": {}
     }
@@ -56,6 +56,6 @@
       ]
     },
     "protectionStatus": {},
-    "architect": "Дубови Јан"
+    "architect": "20250402181153"
   }
 }

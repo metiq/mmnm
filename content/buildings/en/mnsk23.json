@@ -28,10 +28,10 @@
   "inspectionBy": "Тим 1",
   "code": "MNSK23",
   "order": 23,
-  "photo": "/media/mnsk23/img_2778.jpg",
+  "photo": "/media/mnsk23/23.мнск.023.jpg",
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4237802,41.9972382]}",
-    "architect": "Жерновски Кирил",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4236531,41.9972673],[21.423752,41.9972204],[21.4238147,41.9972948],[21.4237164,41.9973418],[21.4236531,41.9972673]]]}",
+    "architect": "20250402181155",
     "address": {
       "city": "Скопје"
     },

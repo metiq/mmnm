@@ -235,31 +235,46 @@ collections:
             multiple: true
             max_file_size: 512000
       - label: "9. Историски фотографии"
-        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        required: false
+        label_singular: "Историскa фотографиja"
         name: "historicalPhotos"
-        widget: "image"
-        i18n: duplicate
-        choose_url: false
-        required: false
-        media_folder: /public/media/{{code}}/historical
-        public_folder: /media/{{code}}/historical
-        media_library:
-          config:
-            multiple: true
-            max_file_size: 512000
+        widget: list
+        i18n: true
+        fields:
+          - { label: Опис, name: description, widget: string, i18n: true, required: false }
+          - label: "Фотографија"
+            widget: "image"
+            hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+            name: photo
+            i18n: duplicate
+            choose_url: false
+            required: true
+            media_folder: /public/media/{{code}}/historical
+            public_folder: /media/{{code}}/historical
+            media_library:
+              config:
+                multiple: false
+                max_file_size: 512000
       - label: "10. Архив"
-        hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+        label_singular: "Архивска фотографиja"
         name: "archive"
-        widget: "image"
-        i18n: duplicate
-        choose_url: false
-        required: false
-        media_folder: /public/media/{{code}}/archive
-        public_folder: /media/{{code}}/archive
-        media_library:
-          config:
-            multiple: true
-            max_file_size: 512000
+        widget: list
+        i18n: true
+        fields:
+          - { label: Опис, name: description, widget: string, i18n: true, required: false }
+          - label: "Фотографија"
+            widget: "image"
+            hint: "Максимална дозволена големина: 500KB. Оптимизирајте ја вашата слика користејќи [Squoosh](https://squoosh.app/)."
+            name: photo
+            i18n: duplicate
+            choose_url: false
+            required: true
+            media_folder: /public/media/{{code}}/archive
+            public_folder: /media/{{code}}/archive
+            media_library:
+              config:
+                multiple: false
+                max_file_size: 512000
   - label: "Архитекти"
     label_singular: "Архитект"
     name: "architect"

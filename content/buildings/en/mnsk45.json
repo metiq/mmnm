@@ -44,7 +44,9 @@
     },
     "authenticity": {
       "exterior": {},
-      "interior": {}
+      "interior": {
+        "condition": null
+      }
     }
   }
 }

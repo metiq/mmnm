@@ -39,7 +39,9 @@
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "добра"
+      },
       "interior": {}
     }
   }

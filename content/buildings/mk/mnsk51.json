@@ -1,0 +1,42 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4290167,41.9970118],[21.4288555,41.9969635],[21.4287825,41.9970778],[21.4289509,41.9971257],[21.4290167,41.9970118]]]}",
+    "buildingName": "Индивидуална куќа на Богос Амагањан",
+    "timeline": {
+      "yearProjected": "1933",
+      "period": "1930-1939"
+    },
+    "architect": "20250402181146",
+    "investorOrOwner": " Богос Амагањан",
+    "address": {
+      "line": "ул. Никола Кљусев бр.9",
+      "city": "Скопје",
+      "municipality": "Центар"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "колективен станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    }
+  },
+  "order": 51,
+  "code": "MNSK51",
+  "dateInspection": "08.01.2025",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk51/mnsk51.jpg",
+  "originalData": {
+    "generalDescription": "хгјхгјгххг"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "историскa"
+    ]
+  }
+}

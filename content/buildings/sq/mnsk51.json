@@ -17,7 +17,7 @@
       ]
     },
     "protectionStatus": {
-      "isProtected": false
+      "isProtected": true
     }
   },
   "order": 51,
@@ -30,5 +30,19 @@
       "архитектонска и естетска",
       "историскa"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    }
   }
 }

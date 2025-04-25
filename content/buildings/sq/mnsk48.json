@@ -1,12 +1,23 @@
 {
   "basicData": {
-    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4271092,42.000643],[21.4270593,42.0005819],[21.4269389,42.0006313],[21.4269904,42.000696],[21.4271092,42.000643]]]}",
     "address": {
       "city": "Скопје"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {},
+    "architect": "20250425193321"
   },
   "order": 48,
   "code": "MNSK48",

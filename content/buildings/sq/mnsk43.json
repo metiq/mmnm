@@ -24,8 +24,8 @@
   "photo": "/media/mnsk43/mnsk43.jpg",
   "values": {
     "name": [
-      "авторство",
-      "архитектонска и естетска"
+      "архитектонска и естетска",
+      "историскa"
     ]
   },
   "currentData": {
@@ -38,8 +38,12 @@
       }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
     }
   }
 }

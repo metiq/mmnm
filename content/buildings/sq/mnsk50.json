@@ -26,5 +26,19 @@
     "name": [
       "архитектонска и естетска"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

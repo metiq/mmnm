@@ -1,0 +1,30 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "buildingName": " Зграда Петар Поленак",
+    "timeline": {
+      "yearProjected": "1933 год.",
+      "period": "1930-1939",
+      "yearBuilt": "1934 год."
+    },
+    "investorOrOwner": "Семејството на Петар Поленак",
+    "address": {
+      "line": "Бул. Илинденска бр. 36",
+      "city": "Скопје",
+      "municipality": "Центар"
+    }
+  },
+  "order": 48,
+  "code": "MNSK48",
+  "dateInspection": "22.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk48/mnsk48.jpg",
+  "originalData": {
+    "generalDescription": "На проектот се гледаа дека во процесот на проектирање во приземјето е предвидено пекара со сопствена фурна на дрва со магацински простории и  дуќан, а домување на катот"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

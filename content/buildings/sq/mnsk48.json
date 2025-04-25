@@ -1,0 +1,21 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 48,
+  "code": "MNSK48",
+  "dateInspection": "22.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk48/mnsk48.jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

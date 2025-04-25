@@ -1,0 +1,30 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4271843,41.9957607],[21.4273195,41.9957452],[21.4273195,41.9956628],[21.4271757,41.9956782],[21.4271843,41.9957607]]]}",
+    "architect": "20250425203441",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 50,
+  "code": "MNSK50",
+  "dateInspection": "08.01.2025",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk50/mnsk50.jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

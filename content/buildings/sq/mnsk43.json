@@ -1,0 +1,31 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.4248594,42.001752],[21.4247719,42.0016437],[21.4249813,42.0015432],[21.425037,42.0015196],[21.4251324,42.0016319],[21.4248594,42.001752]]]}",
+    "architect": "20250402181155",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 43,
+  "code": "MNSK43",
+  "dateInspection": "22.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnsk43/mnsk43.jpg",
+  "values": {
+    "name": [
+      "авторство",
+      "архитектонска и естетска"
+    ]
+  }
+}

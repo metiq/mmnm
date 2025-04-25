@@ -37,8 +37,12 @@
       }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "лоша"
+      },
+      "interior": {
+        "condition": "лоша"
+      }
     }
   }
 }

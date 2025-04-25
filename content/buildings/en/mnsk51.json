@@ -16,7 +16,9 @@
         "комерцијален/деловен"
       ]
     },
-    "protectionStatus": {}
+    "protectionStatus": {
+      "isProtected": false
+    }
   },
   "order": 51,
   "code": "MNSK51",

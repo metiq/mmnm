@@ -1,0 +1,24 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "architect": "20250402181146",
+    "address": {
+      "city": "Скопје"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 46,
+  "code": "MNSK46",
+  "photo": "/media/mnsk46/mnsk46..jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство",
+      "историскa"
+    ]
+  },
+  "inspectionBy": "Тим 2 ",
+  "dateInspection": "08.01.2025"
+}

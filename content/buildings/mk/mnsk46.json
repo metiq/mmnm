@@ -1,0 +1,33 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "buildingName": "Зграда на  Салковиќ Томо и Стојковиќ Петар",
+    "timeline": {
+      "yearProjected": "1933",
+      "yearBuilt": "1934",
+      "period": "1930-1939"
+    },
+    "architect": "20250402181146",
+    "investorOrOwner": "Двајца сопственици  Салковиќ Томо и Стојковиќ Петар",
+    "address": {
+      "city": "Скопје",
+      "municipality": "Центар",
+      "line": "ил. Луи Пастер "
+    }
+  },
+  "order": 46,
+  "code": "MNSK46",
+  "photo": "/media/mnsk46/mnsk46..jpg",
+  "originalData": {
+    "generalDescription": "хјгхјхјх"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство",
+      "историскa"
+    ]
+  },
+  "inspectionBy": "Тим 2 ",
+  "dateInspection": "08.01.2025"
+}

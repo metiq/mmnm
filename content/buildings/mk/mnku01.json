@@ -1,0 +1,43 @@
+{
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "општествена / социјална"
+    ]
+  },
+  "dateInspection": "28.12.2024",
+  "number": "Решение УП бр. 18-165 од 30.05.2018 год.  ",
+  "inspectionBy": "Тим 2",
+  "code": "MNKU01",
+  "order": 59,
+  "photo": "/media/mnku01/mnku01.jpg",
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.7179522,42.1357118],[21.7178014,42.1354044],[21.7179952,42.1353205],[21.7181568,42.135624],[21.7179522,42.1357118]]]}",
+    "protectionStatus": {
+      "isProtected": true,
+      "notes": "Значајно културно наследство"
+    },
+    "address": {
+      "city": "Куманово",
+      "line": "Плоштад Нова Југославија"
+    },
+    "investorOrOwner": " здружение на занаетчискиот еснаф во Куманово",
+    "architect": "20250402181145",
+    "timeline": {
+      "yearBuilt": "1930",
+      "yearProjected": "1930",
+      "period": "1930-1939"
+    },
+    "buildingName": "Занаетчиски дом-Куманово",
+    "originalPurpose": {
+      "type": [
+        "јавен",
+        "комерцијален/деловен"
+      ]
+    }
+  },
+  "originalData": {
+    "generalDescription": "fhghghgfh"
+  }
+}

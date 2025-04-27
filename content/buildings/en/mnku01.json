@@ -1,0 +1,31 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.7179522,42.1357118],[21.7178014,42.1354044],[21.7179952,42.1353205],[21.7181568,42.135624],[21.7179522,42.1357118]]]}",
+    "architect": "20250402181145",
+    "address": {
+      "city": "Куманово"
+    },
+    "originalPurpose": {
+      "type": [
+        "јавен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {},
+    "protectionStatus": {
+      "isProtected": true
+    }
+  },
+  "order": 59,
+  "code": "MNKU01",
+  "inspectionBy": "Тим 2",
+  "dateInspection": "28.12.2024",
+  "photo": "/media/mnku01/mnku01.jpg",
+  "values": {
+    "name": [
+      "историскa",
+      "авторство",
+      "општествена / социјална"
+    ]
+  }
+}

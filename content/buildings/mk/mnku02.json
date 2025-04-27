@@ -1,0 +1,26 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "buildingName": "Општинска зграда на Куманово",
+    "architect": "20250402181145",
+    "address": {
+      "line": "ул. 11 Октомври бб / Плоштад Нова Југославија",
+      "city": "Куманово",
+      "municipality": "Куманово"
+    }
+  },
+  "order": 60,
+  "code": "MNKU02",
+  "dateInspection": "28.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnku02/мнку02..jpg",
+  "originalData": {
+    "generalDescription": "фјгхјј"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  }
+}

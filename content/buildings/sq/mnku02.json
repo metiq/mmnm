@@ -1,0 +1,23 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "architect": "20250402181145",
+    "address": {
+      "city": "Куманово"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 60,
+  "code": "MNKU02",
+  "dateInspection": "28.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnku02/мнку02..jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска",
+      "авторство"
+    ]
+  }
+}

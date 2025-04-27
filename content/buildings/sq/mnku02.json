@@ -28,5 +28,17 @@
       "архитектонска и естетска",
       "авторство"
     ]
+  },
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
   }
 }

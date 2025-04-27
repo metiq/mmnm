@@ -1,0 +1,43 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Polygon\",\"coordinates\":[[[21.7206911,42.1355948],[21.7206805,42.1354259],[21.7208208,42.1353808],[21.7208446,42.1355928],[21.7206911,42.1355948]]]}",
+    "address": {
+      "city": "Куманово"
+    },
+    "originalPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "protectionStatus": {}
+  },
+  "order": 63,
+  "code": "MNKU05",
+  "dateInspection": "28.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnku05/mnku05.jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

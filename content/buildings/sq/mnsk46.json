@@ -34,12 +34,14 @@
   "currentData": {
     "physicalCondition": {
       "exterior": {
-        "condition": "катастрофална"
+        "condition": "добра"
       },
       "interior": {}
     },
     "authenticity": {
-      "exterior": {},
+      "exterior": {
+        "condition": "катастрофална"
+      },
       "interior": {}
     }
   }

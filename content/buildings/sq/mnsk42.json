@@ -33,5 +33,15 @@
       "општествена / социјална"
     ]
   },
-  "photo": "/media/mnsk42/мнск-42..jpg"
+  "photo": "/media/mnsk42/мнск-42..jpg",
+  "currentData": {
+    "physicalCondition": {
+      "exterior": {},
+      "interior": {}
+    },
+    "authenticity": {
+      "exterior": {},
+      "interior": {}
+    }
+  }
 }

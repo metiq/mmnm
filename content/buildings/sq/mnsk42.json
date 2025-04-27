@@ -11,8 +11,16 @@
         "комерцијален/деловен"
       ]
     },
-    "todayPurpose": {},
-    "protectionStatus": {}
+    "todayPurpose": {
+      "type": [
+        "колективен станбен",
+        "комерцијален/деловен",
+        "споменик"
+      ]
+    },
+    "protectionStatus": {
+      "isProtected": true
+    }
   },
   "order": 42,
   "code": "MNSK42",

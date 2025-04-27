@@ -8,10 +8,17 @@
     "originalPurpose": {
       "type": [
         "јавен",
-        "комерцијален/деловен"
+        "комерцијален/деловен",
+        "колективен станбен"
       ]
     },
-    "todayPurpose": {},
+    "todayPurpose": {
+      "type": [
+        "јавен",
+        "комерцијален/деловен",
+        "споменик"
+      ]
+    },
     "protectionStatus": {
       "isProtected": true
     }

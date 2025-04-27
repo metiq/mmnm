@@ -1,0 +1,36 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "address": {
+      "city": "Скопје",
+      "municipality": "Центар",
+      "line": "29-ти Ноември /  Костурски Херои бр. 2а"
+    },
+    "buildingName": "Станбен објект",
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    }
+  },
+  "order": 49,
+  "code": "MNSK49",
+  "dateInspection": "22.12.2024",
+  "photo": "/media/mnsk49/mnsk49.jpg",
+  "originalData": {
+    "generalDescription": "кгхк",
+    "floors": "По+1+Пк"
+  },
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  },
+  "inspectionBy": "Тим 2"
+}

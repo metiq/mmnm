@@ -37,12 +37,20 @@
   },
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "добра"
+      }
     },
     "authenticity": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "добра"
+      },
+      "interior": {
+        "condition": "лоша"
+      }
     }
   }
 }

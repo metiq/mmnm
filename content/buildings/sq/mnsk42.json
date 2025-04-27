@@ -36,8 +36,12 @@
   "photo": "/media/mnsk42/мнск-42..jpg",
   "currentData": {
     "physicalCondition": {
-      "exterior": {},
-      "interior": {}
+      "exterior": {
+        "condition": "задоволителна"
+      },
+      "interior": {
+        "condition": "задоволителна"
+      }
     },
     "authenticity": {
       "exterior": {},

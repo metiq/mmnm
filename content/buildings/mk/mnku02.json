@@ -10,7 +10,8 @@
   "currentData": {
     "materiality": {
       "exterior": {
-        "roof": ""
+        "roof": "",
+        "parterre": "Приземјето кон атриумскиот простор се користи за угостителска дејност, кон улицата се дуќани."
       }
     },
     "physicalCondition": {

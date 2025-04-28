@@ -1,0 +1,21 @@
+{
+  "basicData": {
+    "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.4331, 41.9981]}",
+    "address": {
+      "city": "Тетово"
+    },
+    "originalPurpose": {},
+    "todayPurpose": {},
+    "protectionStatus": {}
+  },
+  "order": 106,
+  "code": "MNTE02",
+  "dateInspection": "22.12.2024",
+  "inspectionBy": "Тим 2",
+  "photo": "/media/mnte02/mnte02.jpg",
+  "values": {
+    "name": [
+      "архитектонска и естетска"
+    ]
+  }
+}

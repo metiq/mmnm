@@ -4,8 +4,18 @@
     "address": {
       "city": "Тетово"
     },
-    "originalPurpose": {},
-    "todayPurpose": {},
+    "originalPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
+    "todayPurpose": {
+      "type": [
+        "индивидуален станбен",
+        "комерцијален/деловен"
+      ]
+    },
     "protectionStatus": {}
   },
   "order": 106,
